@@ -1,0 +1,230 @@
+
+Tren 7 Duoi 7.png
+size: 1400,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7Duoi
+  rotate: false
+  xy: 445, 22
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+7Duoi copy
+  rotate: true
+  xy: 113, 19
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+7Tren
+  rotate: false
+  xy: 1346, 186
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+7Tren2
+  rotate: false
+  xy: 307, 9
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+Chip
+  rotate: true
+  xy: 368, 166
+  size: 101, 97
+  orig: 105, 101
+  offset: 2, 2
+  index: -1
+Chip copy
+  rotate: true
+  xy: 359, 63
+  size: 101, 97
+  orig: 105, 101
+  offset: 2, 2
+  index: -1
+Co
+  rotate: true
+  xy: 359, 5
+  size: 56, 65
+  orig: 59, 82
+  offset: 1, 1
+  index: -1
+Dau
+  rotate: true
+  xy: 179, 69
+  size: 132, 126
+  orig: 132, 127
+  offset: 0, 1
+  index: -1
+Duoi
+  rotate: true
+  xy: 307, 81
+  size: 120, 50
+  orig: 120, 50
+  offset: 0, 0
+  index: -1
+Duoi copy
+  rotate: false
+  xy: 176, 17
+  size: 120, 50
+  orig: 120, 50
+  offset: 0, 0
+  index: -1
+Hong
+  rotate: true
+  xy: 2, 119
+  size: 148, 175
+  orig: 166, 178
+  offset: 0, 2
+  index: -1
+Layer 46
+  rotate: true
+  xy: 2, 269
+  size: 251, 471
+  orig: 251, 471
+  offset: 0, 0
+  index: -1
+Layer 47
+  rotate: true
+  xy: 475, 274
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+Layer 47 copy
+  rotate: false
+  xy: 945, 52
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+Layer 50
+  rotate: true
+  xy: 2, 48
+  size: 69, 109
+  orig: 69, 109
+  offset: 0, 0
+  index: -1
+Layer 51
+  rotate: true
+  xy: 1006, 8
+  size: 42, 55
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+Layer 52
+  rotate: true
+  xy: 179, 203
+  size: 64, 187
+  orig: 64, 190
+  offset: 0, 3
+  index: -1
+Layer 53
+  rotate: false
+  xy: 1311, 2
+  size: 73, 142
+  orig: 73, 169
+  offset: 0, 26
+  index: -1
+LightChipTrong copy
+  rotate: false
+  xy: 2, 12
+  size: 65, 34
+  orig: 69, 38
+  offset: 2, 2
+  index: -1
+LightChipTrong copy 2
+  rotate: false
+  xy: 2, 12
+  size: 65, 34
+  orig: 69, 38
+  offset: 2, 2
+  index: -1
+LightChipTrong copy 3
+  rotate: false
+  xy: 2, 12
+  size: 65, 34
+  orig: 69, 38
+  offset: 2, 2
+  index: -1
+Mat1 copy 6
+  rotate: true
+  xy: 458, 111
+  size: 53, 13
+  orig: 54, 15
+  offset: 0, 1
+  index: -1
+Mat2 copy 6
+  rotate: false
+  xy: 1346, 170
+  size: 52, 14
+  orig: 55, 15
+  offset: 2, 0
+  index: -1
+Mat3 copy 6
+  rotate: true
+  xy: 426, 8
+  size: 53, 17
+  orig: 55, 20
+  offset: 1, 1
+  index: -1
+Nguc
+  rotate: false
+  xy: 1193, 52
+  size: 114, 92
+  orig: 115, 94
+  offset: 0, 1
+  index: -1
+Rectangle 1
+  rotate: true
+  xy: 475, 26
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+TayTrai1
+  rotate: false
+  xy: 945, 6
+  size: 59, 44
+  orig: 60, 44
+  offset: 1, 0
+  index: -1
+Tep
+  rotate: true
+  xy: 113, 49
+  size: 68, 61
+  orig: 92, 175
+  offset: 1, 1
+  index: -1
+Than
+  rotate: false
+  xy: 1193, 146
+  size: 151, 374
+  orig: 156, 374
+  offset: 5, 0
+  index: -1
+Tren
+  rotate: true
+  xy: 1346, 390
+  size: 130, 50
+  orig: 130, 50
+  offset: 0, 0
+  index: -1
+Tren copy
+  rotate: true
+  xy: 1346, 258
+  size: 130, 50
+  orig: 130, 50
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 1063, 15
+  size: 246, 35
+  orig: 246, 35
+  offset: 0, 0
+  index: -1

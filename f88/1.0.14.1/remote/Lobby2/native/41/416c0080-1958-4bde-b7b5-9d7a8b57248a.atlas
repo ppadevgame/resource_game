@@ -1,0 +1,146 @@
+
+XocDia.png
+size: 2014,1937
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 888, 1390
+  size: 545, 1025
+  orig: 545, 1025
+  offset: 0, 0
+  index: -1
+Bat
+  rotate: true
+  xy: 1038, 197
+  size: 389, 297
+  orig: 389, 297
+  offset: 0, 0
+  index: -1
+Chip1
+  rotate: true
+  xy: 1038, 588
+  size: 431, 304
+  orig: 431, 304
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: true
+  xy: 1435, 1141
+  size: 247, 314
+  orig: 247, 314
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 2, 1016
+  size: 884, 919
+  orig: 884, 919
+  offset: 0, 0
+  index: -1
+Gold
+  rotate: true
+  xy: 1416, 448
+  size: 688, 457
+  orig: 688, 457
+  offset: 0, 0
+  index: -1
+Gold copy
+  rotate: false
+  xy: 2, 2
+  size: 688, 457
+  orig: 688, 457
+  offset: 0, 0
+  index: -1
+Hong
+  rotate: true
+  xy: 692, 90
+  size: 369, 261
+  orig: 369, 261
+  offset: 0, 0
+  index: -1
+Light copy
+  rotate: false
+  xy: 888, 1138
+  size: 545, 250
+  orig: 545, 250
+  offset: 0, 0
+  index: -1
+LightCasino
+  rotate: true
+  xy: 1845, 108
+  size: 298, 167
+  orig: 298, 167
+  offset: 0, 0
+  index: -1
+Live
+  rotate: true
+  xy: 1915, 1723
+  size: 212, 93
+  orig: 212, 93
+  offset: 0, 0
+  index: -1
+Mat1
+  rotate: true
+  xy: 1970, 1594
+  size: 127, 36
+  orig: 127, 36
+  offset: 0, 0
+  index: -1
+Mat3
+  rotate: true
+  xy: 1915, 1591
+  size: 130, 53
+  orig: 130, 53
+  offset: 0, 0
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 955, 53
+  size: 142, 324
+  orig: 142, 324
+  offset: 0, 0
+  index: -1
+TextCasino1
+  rotate: false
+  xy: 888, 1021
+  size: 526, 115
+  orig: 526, 115
+  offset: 0, 0
+  index: -1
+TextCasino2
+  rotate: false
+  xy: 888, 1021
+  size: 526, 115
+  orig: 526, 115
+  offset: 0, 0
+  index: -1
+TextXocDia1
+  rotate: true
+  xy: 1875, 899
+  size: 489, 135
+  orig: 489, 135
+  offset: 0, 0
+  index: -1
+TextXocDia2
+  rotate: true
+  xy: 1875, 408
+  size: 489, 135
+  orig: 489, 135
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 1337, 52
+  size: 394, 506
+  orig: 394, 506
+  offset: 0, 0
+  index: -1
+Vien copy 5
+  rotate: true
+  xy: 2, 461
+  size: 553, 1034
+  orig: 553, 1034
+  offset: 0, 0
+  index: -1

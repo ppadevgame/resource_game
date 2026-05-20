@@ -1,0 +1,269 @@
+
+Diamond.png
+size: 3065,2021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2523, 1445
+  size: 364, 410
+  orig: 374, 412
+  offset: 1, 1
+  index: -1
+10
+  rotate: false
+  xy: 1590, 1835
+  size: 396, 184
+  orig: 407, 186
+  offset: 10, 1
+  index: -1
+11
+  rotate: false
+  xy: 1988, 1835
+  size: 297, 184
+  orig: 308, 186
+  offset: 10, 1
+  index: -1
+12
+  rotate: true
+  xy: 1404, 1836
+  size: 183, 184
+  orig: 194, 186
+  offset: 10, 1
+  index: -1
+2
+  rotate: false
+  xy: 909, 1110
+  size: 475, 410
+  orig: 485, 412
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 1386, 1108
+  size: 581, 410
+  orig: 598, 412
+  offset: 8, 1
+  index: -1
+4
+  rotate: false
+  xy: 2415, 1033
+  size: 560, 410
+  orig: 569, 412
+  offset: 8, 1
+  index: -1
+5
+  rotate: false
+  xy: 472, 698
+  size: 580, 410
+  orig: 597, 412
+  offset: 9, 1
+  index: -1
+6
+  rotate: false
+  xy: 1054, 696
+  size: 564, 410
+  orig: 574, 412
+  offset: 9, 1
+  index: -1
+7
+  rotate: false
+  xy: 1969, 1081
+  size: 444, 410
+  orig: 453, 412
+  offset: 8, 1
+  index: -1
+8
+  rotate: false
+  xy: 491, 1182
+  size: 416, 410
+  orig: 435, 412
+  offset: 8, 1
+  index: -1
+9
+  rotate: false
+  xy: 1685, 1520
+  size: 420, 313
+  orig: 439, 328
+  offset: 9, 1
+  index: -1
+Dau
+  rotate: true
+  xy: 2, 1276
+  size: 369, 487
+  orig: 371, 489
+  offset: 1, 1
+  index: -1
+Dau copy
+  rotate: true
+  xy: 1136, 2
+  size: 617, 736
+  orig: 648, 768
+  offset: 17, 16
+  index: -1
+KimCuongPhai
+  rotate: true
+  xy: 2, 1647
+  size: 257, 299
+  orig: 274, 319
+  offset: 9, 10
+  index: -1
+KimCuongPhai copy
+  rotate: true
+  xy: 303, 1647
+  size: 257, 299
+  orig: 274, 319
+  offset: 9, 10
+  index: -1
+KimCuongTrai
+  rotate: true
+  xy: 931, 1565
+  size: 311, 375
+  orig: 328, 395
+  offset: 9, 10
+  index: -1
+KimCuongTrai copy
+  rotate: true
+  xy: 1308, 1522
+  size: 311, 375
+  orig: 328, 395
+  offset: 9, 10
+  index: -1
+Layer 24
+  rotate: false
+  xy: 2, 1906
+  size: 1066, 113
+  orig: 1068, 135
+  offset: 1, 11
+  index: -1
+Light copy
+  rotate: false
+  xy: 2676, 1811
+  size: 387, 208
+  orig: 409, 229
+  offset: 11, 10
+  index: -1
+LightKimCuong
+  rotate: false
+  xy: 2287, 1811
+  size: 387, 208
+  orig: 409, 229
+  offset: 11, 10
+  index: -1
+REPLACE BIG TEXT HERE
+  rotate: false
+  xy: 1620, 621
+  size: 1072, 410
+  orig: 1074, 412
+  offset: 1, 1
+  index: -1
+Slot
+  rotate: false
+  xy: 1070, 1878
+  size: 332, 141
+  orig: 335, 144
+  offset: 2, 2
+  index: -1
+TayTrai1
+  rotate: false
+  xy: 604, 1594
+  size: 325, 310
+  orig: 334, 318
+  offset: 5, 4
+  index: -1
+TayTrai1 copy
+  rotate: true
+  xy: 2, 861
+  size: 413, 468
+  orig: 451, 515
+  offset: 16, 20
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 2107, 1493
+  size: 414, 316
+  orig: 427, 320
+  offset: 7, 2
+  index: -1
+TayTrai2 copy
+  rotate: true
+  xy: 2, 161
+  size: 535, 543
+  orig: 567, 577
+  offset: 17, 16
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 547, 129
+  size: 565, 587
+  orig: 569, 590
+  offset: 1, 2
+  index: -1
+
+Diamond2.png
+size: 2479,2030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 25
+  rotate: false
+  xy: 2, 631
+  size: 1407, 1397
+  orig: 1430, 1438
+  offset: 1, 23
+  index: -1
+Rectangle 1 copy
+  rotate: false
+  xy: 1411, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1
+
+Diamond3.png
+size: 2421,2039
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 26
+  rotate: false
+  xy: 1373, 31
+  size: 1046, 2006
+  orig: 1048, 2008
+  offset: 1, 1
+  index: -1
+TayTrai3 copy
+  rotate: true
+  xy: 2, 2
+  size: 784, 813
+  orig: 828, 852
+  offset: 21, 18
+  index: -1
+Than copy
+  rotate: true
+  xy: 2, 788
+  size: 1249, 1369
+  orig: 1279, 1406
+  offset: 16, 13
+  index: -1
+
+Diamond4.png
+size: 3055,1134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 2, 44
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1
+Than
+  rotate: false
+  xy: 2052, 2
+  size: 1001, 1130
+  orig: 1043, 1132
+  offset: 2, 1
+  index: -1

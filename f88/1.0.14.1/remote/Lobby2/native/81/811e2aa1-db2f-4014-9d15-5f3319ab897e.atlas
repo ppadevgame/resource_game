@@ -1,0 +1,156 @@
+
+onePiece.png
+size: 3064,1564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AoPhai
+  rotate: false
+  xy: 2046, 1344
+  size: 412, 218
+  orig: 417, 222
+  offset: 1, 1
+  index: -1
+AoTrai
+  rotate: true
+  xy: 2828, 1316
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 2, 774
+  size: 435, 390
+  orig: 438, 394
+  offset: 1, 3
+  index: -1
+DayLung
+  rotate: false
+  xy: 2290, 973
+  size: 455, 366
+  orig: 457, 366
+  offset: 2, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 982, 299
+  size: 1003, 796
+  orig: 1006, 1023
+  offset: 1, 226
+  index: -1
+Layer 13
+  rotate: false
+  xy: 2, 1449
+  size: 1066, 113
+  orig: 1068, 135
+  offset: 1, 11
+  index: -1
+Layer 8 copy
+  rotate: false
+  xy: 1987, 2
+  size: 1039, 969
+  orig: 1044, 976
+  offset: 2, 5
+  index: -1
+One Piece
+  rotate: false
+  xy: 2, 1166
+  size: 1142, 245
+  orig: 1144, 247
+  offset: 1, 1
+  index: -1
+One Piece copy
+  rotate: false
+  xy: 1146, 1097
+  size: 1142, 245
+  orig: 1144, 247
+  offset: 1, 1
+  index: -1
+Slot
+  rotate: false
+  xy: 1070, 1413
+  size: 353, 149
+  orig: 363, 158
+  offset: 5, 4
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 2460, 1341
+  size: 366, 221
+  orig: 367, 221
+  offset: 0, 0
+  index: -1
+TayPhai2
+  rotate: false
+  xy: 1647, 1388
+  size: 397, 174
+  orig: 401, 178
+  offset: 3, 1
+  index: -1
+TayTrai1
+  rotate: false
+  xy: 1425, 1397
+  size: 220, 165
+  orig: 227, 170
+  offset: 5, 2
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 439, 752
+  size: 541, 412
+  orig: 695, 731
+  offset: 153, 132
+  index: -1
+
+onePiece2.png
+size: 2030,1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1 copy
+  rotate: true
+  xy: 2, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1
+
+onePiece3.png
+size: 2010,1073
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 2
+  size: 1069, 2006
+  orig: 1090, 2008
+  offset: 1, 1
+  index: -1
+
+onePiece4.png
+size: 2010,1073
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: true
+  xy: 2, 2
+  size: 1069, 2006
+  orig: 1090, 2008
+  offset: 1, 1
+  index: -1
+
+onePiece5.png
+size: 2052,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 2, 2
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1

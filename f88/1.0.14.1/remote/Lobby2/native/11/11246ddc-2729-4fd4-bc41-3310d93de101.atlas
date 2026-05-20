@@ -1,0 +1,160 @@
+
+DoDen3La.png
+size: 1632,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3La
+  rotate: false
+  xy: 1242, 36
+  size: 226, 116
+  orig: 228, 118
+  offset: 1, 1
+  index: -1
+Bich
+  rotate: false
+  xy: 1491, 189
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+Co
+  rotate: false
+  xy: 1491, 276
+  size: 91, 82
+  orig: 93, 84
+  offset: 1, 1
+  index: -1
+Dau
+  rotate: false
+  xy: 1013, 485
+  size: 335, 340
+  orig: 339, 343
+  offset: 2, 2
+  index: -1
+DoDen
+  rotate: false
+  xy: 553, 7
+  size: 487, 133
+  orig: 489, 135
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: true
+  xy: 1042, 21
+  size: 146, 198
+  orig: 148, 200
+  offset: 1, 1
+  index: -1
+Layer 21 copy 15
+  rotate: false
+  xy: 2, 2
+  size: 549, 1030
+  orig: 553, 1034
+  offset: 2, 2
+  index: -1
+Layer 552 copy 14
+  rotate: false
+  xy: 1013, 301
+  size: 429, 69
+  orig: 433, 73
+  offset: 2, 2
+  index: -1
+Layer 558 copy 14
+  rotate: false
+  xy: 1013, 827
+  size: 543, 205
+  orig: 545, 212
+  offset: 1, 1
+  index: -1
+Light copy 45
+  rotate: true
+  xy: 1470, 55
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 48
+  rotate: true
+  xy: 1470, 55
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Mat1 copy
+  rotate: false
+  xy: 1487, 360
+  size: 125, 45
+  orig: 134, 50
+  offset: 7, 3
+  index: -1
+Mat2 copy
+  rotate: false
+  xy: 1487, 407
+  size: 125, 49
+  orig: 134, 58
+  offset: 7, 3
+  index: -1
+Mat3  copy
+  rotate: true
+  xy: 1558, 905
+  size: 127, 51
+  orig: 134, 60
+  offset: 5, 3
+  index: -1
+Ro
+  rotate: false
+  xy: 1383, 372
+  size: 102, 112
+  orig: 105, 114
+  offset: 2, 1
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 1497, 458
+  size: 133, 367
+  orig: 136, 371
+  offset: 2, 2
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 1291, 154
+  size: 145, 198
+  orig: 148, 200
+  offset: 2, 1
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 1013, 372
+  size: 111, 368
+  orig: 177, 386
+  offset: 57, 16
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 1350, 486
+  size: 145, 339
+  orig: 148, 342
+  offset: 1, 1
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 1013, 169
+  size: 130, 276
+  orig: 133, 279
+  offset: 1, 2
+  index: -1
+Tep
+  rotate: false
+  xy: 1524, 101
+  size: 80, 86
+  orig: 82, 88
+  offset: 1, 1
+  index: -1
+Than
+  rotate: false
+  xy: 553, 142
+  size: 458, 890
+  orig: 494, 957
+  offset: 21, 1
+  index: -1

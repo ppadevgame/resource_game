@@ -1,0 +1,181 @@
+
+BauCua.png
+size: 2024,1544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BauCua
+  rotate: true
+  xy: 1836, 1033
+  size: 509, 171
+  orig: 514, 177
+  offset: 3, 3
+  index: -1
+Ca
+  rotate: false
+  xy: 1836, 367
+  size: 186, 200
+  orig: 193, 209
+  offset: 3, 4
+  index: -1
+Cua
+  rotate: false
+  xy: 1819, 813
+  size: 198, 218
+  orig: 206, 226
+  offset: 4, 4
+  index: -1
+Dau
+  rotate: false
+  xy: 1454, 146
+  size: 380, 386
+  orig: 383, 390
+  offset: 2, 3
+  index: -1
+Dia
+  rotate: false
+  xy: 1612, 569
+  size: 394, 242
+  orig: 396, 244
+  offset: 1, 1
+  index: -1
+GPhai
+  rotate: true
+  xy: 1612, 865
+  size: 132, 126
+  orig: 141, 135
+  offset: 5, 5
+  index: -1
+GTrai 2
+  rotate: true
+  xy: 1612, 865
+  size: 132, 126
+  orig: 141, 135
+  offset: 5, 5
+  index: -1
+GTrai1
+  rotate: false
+  xy: 1885, 58
+  size: 113, 105
+  orig: 124, 114
+  offset: 5, 4
+  index: -1
+Layer 21 copy 11
+  rotate: false
+  xy: 2, 512
+  size: 549, 1030
+  orig: 553, 1034
+  offset: 2, 2
+  index: -1
+Layer 3
+  rotate: false
+  xy: 553, 526
+  size: 528, 1016
+  orig: 530, 1018
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1083, 534
+  size: 527, 1008
+  orig: 529, 1010
+  offset: 1, 1
+  index: -1
+Layer 552 copy 8
+  rotate: false
+  xy: 1454, 75
+  size: 429, 69
+  orig: 433, 73
+  offset: 2, 2
+  index: -1
+Layer 558 copy 7
+  rotate: true
+  xy: 1612, 999
+  size: 543, 205
+  orig: 545, 212
+  offset: 1, 1
+  index: -1
+Layer 558 copy 12
+  rotate: true
+  xy: 1612, 999
+  size: 543, 205
+  orig: 545, 212
+  offset: 1, 1
+  index: -1
+Light copy 13
+  rotate: false
+  xy: 747, 13
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 14
+  rotate: false
+  xy: 747, 13
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 16
+  rotate: false
+  xy: 747, 13
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 15
+  rotate: false
+  xy: 846, 13
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Mat1 copy 3
+  rotate: false
+  xy: 945, 2
+  size: 147, 30
+  orig: 152, 33
+  offset: 1, 1
+  index: -1
+Mat2 copy 3
+  rotate: false
+  xy: 945, 34
+  size: 156, 31
+  orig: 160, 37
+  offset: 2, 2
+  index: -1
+Mat3 copy 3
+  rotate: false
+  xy: 590, 26
+  size: 155, 39
+  orig: 162, 44
+  offset: 3, 3
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 590, 67
+  size: 536, 457
+  orig: 584, 460
+  offset: 47, 1
+  index: -1
+TayTrai1
+  rotate: false
+  xy: 1128, 33
+  size: 324, 499
+  orig: 326, 501
+  offset: 1, 1
+  index: -1
+Than
+  rotate: true
+  xy: 2, 2
+  size: 508, 586
+  orig: 703, 917
+  offset: 43, 46
+  index: -1
+Tom
+  rotate: false
+  xy: 1836, 165
+  size: 186, 200
+  orig: 193, 208
+  offset: 3, 4
+  index: -1

@@ -1,0 +1,104 @@
+
+RongHo.png
+size: 1871,1625
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 557, 597
+  size: 545, 1026
+  orig: 545, 1026
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 2
+  size: 585, 684
+  orig: 585, 684
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 1566, 491
+  size: 303, 276
+  orig: 303, 276
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 1104, 769
+  size: 757, 854
+  orig: 757, 854
+  offset: 0, 0
+  index: -1
+Light copy
+  rotate: false
+  xy: 1566, 406
+  size: 298, 83
+  orig: 298, 83
+  offset: 0, 0
+  index: -1
+Mat1
+  rotate: true
+  xy: 1062, 81
+  size: 117, 35
+  orig: 117, 35
+  offset: 0, 0
+  index: -1
+Mat2
+  rotate: true
+  xy: 1023, 81
+  size: 117, 37
+  orig: 117, 37
+  offset: 0, 0
+  index: -1
+Mat3
+  rotate: true
+  xy: 1023, 200
+  size: 117, 44
+  orig: 117, 44
+  offset: 0, 0
+  index: -1
+Rong
+  rotate: false
+  xy: 688, 319
+  size: 399, 276
+  orig: 399, 276
+  offset: 0, 0
+  index: -1
+TayTrai1
+  rotate: false
+  xy: 1566, 40
+  size: 178, 364
+  orig: 178, 364
+  offset: 0, 0
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 688, 8
+  size: 309, 333
+  orig: 309, 333
+  offset: 0, 0
+  index: -1
+Text
+  rotate: true
+  xy: 1366, 134
+  size: 633, 198
+  orig: 633, 198
+  offset: 0, 0
+  index: -1
+TextRongHo2
+  rotate: true
+  xy: 1104, 70
+  size: 697, 260
+  orig: 697, 260
+  offset: 0, 0
+  index: -1
+Vien
+  rotate: false
+  xy: 2, 589
+  size: 553, 1034
+  orig: 553, 1034
+  offset: 0, 0
+  index: -1

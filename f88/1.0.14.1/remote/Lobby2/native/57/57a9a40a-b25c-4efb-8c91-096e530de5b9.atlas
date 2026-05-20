@@ -1,0 +1,160 @@
+
+AESexy.png
+size: 1977,1493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaiPhai
+  rotate: true
+  xy: 1098, 583
+  size: 145, 158
+  orig: 147, 160
+  offset: 1, 1
+  index: -1
+BaiTrai
+  rotate: true
+  xy: 1411, 7
+  size: 120, 147
+  orig: 122, 149
+  offset: 1, 1
+  index: -1
+BanTayPhai
+  rotate: true
+  xy: 1098, 472
+  size: 109, 150
+  orig: 111, 154
+  offset: 1, 2
+  index: -1
+Dau
+  rotate: true
+  xy: 953, 67
+  size: 398, 350
+  orig: 403, 353
+  offset: 3, 2
+  index: -1
+Hong
+  rotate: true
+  xy: 647, 59
+  size: 406, 304
+  orig: 409, 308
+  offset: 1, 2
+  index: -1
+Layer 21 copy 8
+  rotate: false
+  xy: 2, 461
+  size: 549, 1030
+  orig: 553, 1034
+  offset: 2, 2
+  index: -1
+Layer 3
+  rotate: true
+  xy: 1098, 964
+  size: 527, 852
+  orig: 529, 854
+  offset: 1, 1
+  index: -1
+Layer 32 copy 5
+  rotate: false
+  xy: 553, 467
+  size: 543, 1024
+  orig: 545, 1026
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 350, 11
+  size: 94, 31
+  orig: 99, 35
+  offset: 2, 2
+  index: -1
+Layer 552 copy 6
+  rotate: true
+  xy: 2, 30
+  size: 429, 69
+  orig: 433, 73
+  offset: 2, 2
+  index: -1
+Layer 558 copy
+  rotate: false
+  xy: 1411, 129
+  size: 543, 273
+  orig: 545, 284
+  offset: 1, 1
+  index: -1
+Light copy 20
+  rotate: false
+  xy: 647, 5
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 21
+  rotate: false
+  xy: 647, 5
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 22
+  rotate: false
+  xy: 746, 5
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Mat1 copy 5
+  rotate: false
+  xy: 216, 9
+  size: 132, 33
+  orig: 134, 35
+  offset: 1, 1
+  index: -1
+Mat2 copy 5
+  rotate: false
+  xy: 73, 2
+  size: 141, 40
+  orig: 145, 46
+  offset: 3, 3
+  index: -1
+Mat3 copy 5
+  rotate: false
+  xy: 845, 13
+  size: 141, 44
+  orig: 148, 51
+  offset: 4, 2
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 1305, 109
+  size: 104, 293
+  orig: 117, 298
+  offset: 11, 1
+  index: -1
+TayPhai2
+  rotate: false
+  xy: 1098, 730
+  size: 183, 232
+  orig: 186, 234
+  offset: 2, 1
+  index: -1
+Text1
+  rotate: true
+  xy: 73, 44
+  size: 415, 285
+  orig: 417, 287
+  offset: 1, 1
+  index: -1
+Text2
+  rotate: true
+  xy: 360, 44
+  size: 415, 285
+  orig: 417, 287
+  offset: 1, 1
+  index: -1
+Than
+  rotate: false
+  xy: 1305, 404
+  size: 670, 558
+  orig: 673, 603
+  offset: 1, 14
+  index: -1

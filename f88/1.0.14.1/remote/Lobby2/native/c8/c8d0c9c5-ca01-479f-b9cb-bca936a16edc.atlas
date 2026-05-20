@@ -1,0 +1,212 @@
+
+Spiderman.png
+size: 3058,1796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1761, 1586
+  size: 208, 347
+  orig: 216, 349
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 732, 1436
+  size: 243, 345
+  orig: 257, 347
+  offset: 7, 1
+  index: -1
+3
+  rotate: true
+  xy: 434, 1446
+  size: 233, 296
+  orig: 248, 298
+  offset: 8, 1
+  index: -1
+4
+  rotate: true
+  xy: 1575, 1334
+  size: 250, 294
+  orig: 264, 296
+  offset: 7, 1
+  index: -1
+5
+  rotate: false
+  xy: 1079, 1407
+  size: 246, 244
+  orig: 260, 247
+  offset: 7, 2
+  index: -1
+6
+  rotate: false
+  xy: 2806, 1552
+  size: 250, 242
+  orig: 263, 245
+  offset: 6, 2
+  index: -1
+7
+  rotate: false
+  xy: 1327, 1406
+  size: 246, 245
+  orig: 260, 247
+  offset: 7, 1
+  index: -1
+8
+  rotate: true
+  xy: 2562, 1578
+  size: 216, 242
+  orig: 225, 244
+  offset: 8, 1
+  index: -1
+ChanPhai
+  rotate: true
+  xy: 2294, 1246
+  size: 304, 521
+  orig: 306, 523
+  offset: 1, 1
+  index: -1
+Dau
+  rotate: true
+  xy: 1871, 1303
+  size: 278, 421
+  orig: 281, 423
+  offset: 2, 1
+  index: -1
+Layer 11
+  rotate: true
+  xy: 2, 1123
+  size: 321, 717
+  orig: 327, 722
+  offset: 2, 2
+  index: -1
+Layer 12
+  rotate: true
+  xy: 721, 1037
+  size: 367, 712
+  orig: 372, 716
+  offset: 3, 2
+  index: -1
+Layer 13
+  rotate: false
+  xy: 1174, 260
+  size: 753, 635
+  orig: 755, 638
+  offset: 1, 1
+  index: -1
+Layer 7 copy
+  rotate: false
+  xy: 2, 1773
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+Layer 9
+  rotate: false
+  xy: 25, 1681
+  size: 1066, 113
+  orig: 1068, 135
+  offset: 1, 11
+  index: -1
+Slot
+  rotate: false
+  xy: 1093, 1653
+  size: 332, 141
+  orig: 335, 144
+  offset: 2, 2
+  index: -1
+Slot2
+  rotate: false
+  xy: 1427, 1653
+  size: 332, 141
+  orig: 335, 144
+  offset: 2, 2
+  index: -1
+TayPhai
+  rotate: true
+  xy: 2, 1463
+  size: 216, 430
+  orig: 219, 436
+  offset: 2, 4
+  index: -1
+TayTrai
+  rotate: true
+  xy: 2110, 1583
+  size: 211, 450
+  orig: 214, 462
+  offset: 1, 9
+  index: -1
+Text
+  rotate: false
+  xy: 1435, 897
+  size: 1170, 347
+  orig: 1172, 349
+  offset: 1, 1
+  index: -1
+Text2
+  rotate: false
+  xy: 2, 688
+  size: 1170, 347
+  orig: 1172, 349
+  offset: 1, 1
+  index: -1
+Than
+  rotate: false
+  xy: 1929, 2
+  size: 998, 893
+  orig: 1000, 895
+  offset: 1, 1
+  index: -1
+
+Spiderman2.png
+size: 2010,1050
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 8
+  rotate: true
+  xy: 2, 2
+  size: 1046, 2006
+  orig: 1048, 2008
+  offset: 1, 1
+  index: -1
+
+Spiderman3.png
+size: 2030,1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1 copy
+  rotate: true
+  xy: 2, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1
+
+Spiderman4.png
+size: 1411,1401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 7
+  rotate: false
+  xy: 2, 2
+  size: 1407, 1397
+  orig: 1430, 1438
+  offset: 1, 23
+  index: -1
+
+Spiderman5.png
+size: 2052,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 2, 2
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1

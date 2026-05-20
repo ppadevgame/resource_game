@@ -1,0 +1,83 @@
+
+LiveIcon.png
+size: 548,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Banner
+  rotate: true
+  xy: 424, 139
+  size: 141, 122
+  orig: 144, 124
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: false
+  xy: 462, 88
+  size: 74, 49
+  orig: 81, 83
+  offset: 1, 4
+  index: -1
+Layer 2
+  rotate: true
+  xy: 230, 16
+  size: 96, 165
+  orig: 110, 168
+  offset: 7, 2
+  index: -1
+Layer 3
+  rotate: false
+  xy: 319, 115
+  size: 103, 165
+  orig: 116, 168
+  offset: 7, 2
+  index: -1
+Layer 4
+  rotate: false
+  xy: 214, 114
+  size: 103, 166
+  orig: 117, 176
+  offset: 7, 2
+  index: -1
+Layer 5
+  rotate: true
+  xy: 2, 7
+  size: 85, 161
+  orig: 93, 169
+  offset: 7, 7
+  index: -1
+Light1 copy
+  rotate: false
+  xy: 462, 15
+  size: 64, 34
+  orig: 70, 40
+  offset: 3, 3
+  index: -1
+Light2 copy
+  rotate: false
+  xy: 462, 51
+  size: 64, 35
+  orig: 70, 40
+  offset: 3, 3
+  index: -1
+LiveText copy
+  rotate: true
+  xy: 165, 2
+  size: 90, 63
+  orig: 93, 66
+  offset: 2, 1
+  index: -1
+LiveText copy 3
+  rotate: true
+  xy: 397, 23
+  size: 90, 63
+  orig: 93, 66
+  offset: 2, 1
+  index: -1
+VuongMien
+  rotate: false
+  xy: 2, 94
+  size: 210, 186
+  orig: 212, 189
+  offset: 1, 2
+  index: -1

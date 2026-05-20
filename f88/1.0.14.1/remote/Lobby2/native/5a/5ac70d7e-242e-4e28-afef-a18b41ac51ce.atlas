@@ -1,0 +1,272 @@
+
+Evolution.png
+size: 634,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 600, 689
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 607, 419
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 600, 651
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 578, 391
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 600, 622
+  size: 26, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 623, 8
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 606, 393
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 578, 355
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 270, 18
+  size: 9, 36
+  orig: 10, 36
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 578, 419
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+BG1
+  rotate: false
+  xy: 2, 89
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+BG1 copy
+  rotate: false
+  xy: 255, 562
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+Bich
+  rotate: true
+  xy: 477, 3
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Co
+  rotate: false
+  xy: 554, 15
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 452, 117
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 250, 231
+  size: 326, 326
+  orig: 326, 326
+  offset: 0, 0
+  index: -1
+Evolution
+  rotate: false
+  xy: 2, 6
+  size: 214, 44
+  orig: 214, 44
+  offset: 0, 0
+  index: -1
+Hong
+  rotate: true
+  xy: 503, 878
+  size: 152, 125
+  orig: 152, 126
+  offset: 0, 1
+  index: -1
+Layer 22
+  rotate: false
+  xy: 2, 559
+  size: 251, 471
+  orig: 251, 471
+  offset: 0, 0
+  index: -1
+Ligh
+  rotate: false
+  xy: 2, 52
+  size: 246, 35
+  orig: 246, 35
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 452, 60
+  size: 91, 55
+  orig: 105, 67
+  offset: 7, 6
+  index: -1
+Light copy
+  rotate: false
+  xy: 503, 559
+  size: 44, 34
+  orig: 58, 42
+  offset: 7, 4
+  index: -1
+Mat1 copy 2
+  rotate: false
+  xy: 554, 3
+  size: 49, 10
+  orig: 51, 14
+  offset: 1, 2
+  index: -1
+Mat2 copy 2
+  rotate: true
+  xy: 623, 47
+  size: 49, 9
+  orig: 49, 11
+  offset: 0, 1
+  index: -1
+Mat3 copy 2
+  rotate: false
+  xy: 218, 15
+  size: 50, 12
+  orig: 50, 13
+  offset: 0, 0
+  index: -1
+Ro
+  rotate: false
+  xy: 566, 151
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+Tam
+  rotate: false
+  xy: 452, 51
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 555, 610
+  size: 43, 123
+  orig: 43, 126
+  offset: 0, 2
+  index: -1
+TayPhai2
+  rotate: false
+  xy: 566, 98
+  size: 63, 51
+  orig: 66, 51
+  offset: 3, 0
+  index: -1
+TayPhai3
+  rotate: true
+  xy: 421, 2
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 503, 735
+  size: 141, 128
+  orig: 141, 129
+  offset: 0, 1
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 503, 595
+  size: 138, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+Taytrai3
+  rotate: true
+  xy: 555, 559
+  size: 49, 52
+  orig: 49, 53
+  offset: 0, 1
+  index: -1
+Tep
+  rotate: false
+  xy: 578, 485
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 250, 51
+  size: 178, 200
+  orig: 180, 201
+  offset: 2, 0
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 218, 29
+  size: 201, 20
+  orig: 270, 34
+  offset: 16, 14
+  index: -1
+XucXacPhai
+  rotate: false
+  xy: 609, 599
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+XucXacTrai
+  rotate: false
+  xy: 578, 448
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

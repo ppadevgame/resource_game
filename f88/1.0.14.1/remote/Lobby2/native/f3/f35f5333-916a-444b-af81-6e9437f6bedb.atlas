@@ -1,0 +1,167 @@
+
+Baccarat.png
+size: 1959,1518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanTayTrai
+  rotate: true
+  xy: 1122, 110
+  size: 233, 272
+  orig: 235, 275
+  offset: 1, 2
+  index: -1
+Bich
+  rotate: false
+  xy: 1396, 97
+  size: 246, 246
+  orig: 259, 259
+  offset: 7, 7
+  index: -1
+Co
+  rotate: true
+  xy: 1643, 350
+  size: 213, 247
+  orig: 225, 259
+  offset: 6, 6
+  index: -1
+Dau
+  rotate: true
+  xy: 748, 108
+  size: 382, 372
+  orig: 387, 376
+  offset: 2, 3
+  index: -1
+Layer 21 copy 10
+  rotate: false
+  xy: 2, 486
+  size: 549, 1030
+  orig: 553, 1034
+  offset: 2, 2
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1098, 715
+  size: 527, 801
+  orig: 529, 803
+  offset: 1, 1
+  index: -1
+Layer 32 copy 7
+  rotate: false
+  xy: 553, 492
+  size: 543, 1024
+  orig: 545, 1026
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: true
+  xy: 1813, 831
+  size: 685, 138
+  orig: 688, 140
+  offset: 2, 1
+  index: -1
+Layer 552 copy 9
+  rotate: false
+  xy: 748, 37
+  size: 429, 69
+  orig: 433, 73
+  offset: 2, 2
+  index: -1
+Layer 558 copy 8
+  rotate: false
+  xy: 1098, 508
+  size: 543, 205
+  orig: 545, 212
+  offset: 1, 1
+  index: -1
+Light copy 10
+  rotate: true
+  xy: 1854, 251
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 11
+  rotate: true
+  xy: 1854, 251
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 19
+  rotate: true
+  xy: 1854, 251
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 12
+  rotate: true
+  xy: 1854, 152
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Mat1
+  rotate: false
+  xy: 1643, 565
+  size: 143, 45
+  orig: 149, 51
+  offset: 4, 3
+  index: -1
+Mat2
+  rotate: false
+  xy: 1179, 62
+  size: 144, 46
+  orig: 150, 52
+  offset: 5, 3
+  index: -1
+Mat3
+  rotate: true
+  xy: 1545, 362
+  size: 144, 51
+  orig: 150, 55
+  offset: 5, 1
+  index: -1
+Ro
+  rotate: false
+  xy: 1644, 102
+  size: 208, 246
+  orig: 222, 258
+  offset: 7, 6
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 1122, 345
+  size: 161, 421
+  orig: 167, 424
+  offset: 2, 1
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 1627, 870
+  size: 646, 184
+  orig: 649, 187
+  offset: 2, 1
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 1643, 612
+  size: 143, 256
+  orig: 151, 264
+  offset: 4, 2
+  index: -1
+Tep
+  rotate: false
+  xy: 1788, 601
+  size: 169, 228
+  orig: 179, 238
+  offset: 5, 5
+  index: -1
+Than
+  rotate: true
+  xy: 2, 2
+  size: 482, 744
+  orig: 498, 1002
+  offset: 6, 2
+  index: -1

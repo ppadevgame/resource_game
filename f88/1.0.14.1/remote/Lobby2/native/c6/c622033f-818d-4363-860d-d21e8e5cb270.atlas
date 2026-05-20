@@ -1,0 +1,118 @@
+
+SabaSports.png
+size: 2013,1128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 557, 104
+  size: 545, 1022
+  orig: 545, 1022
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 1570, 7
+  size: 221, 280
+  orig: 221, 280
+  offset: 0, 0
+  index: -1
+LightPhai1
+  rotate: true
+  xy: 2, 3
+  size: 87, 235
+  orig: 87, 235
+  offset: 0, 0
+  index: -1
+LightPhai2
+  rotate: true
+  xy: 2, 3
+  size: 87, 235
+  orig: 87, 235
+  offset: 0, 0
+  index: -1
+LightPhai3
+  rotate: true
+  xy: 2, 3
+  size: 87, 235
+  orig: 87, 235
+  offset: 0, 0
+  index: -1
+LightTrai1
+  rotate: true
+  xy: 557, 2
+  size: 100, 270
+  orig: 100, 270
+  offset: 0, 0
+  index: -1
+LightTrai2
+  rotate: true
+  xy: 829, 2
+  size: 100, 270
+  orig: 100, 270
+  offset: 0, 0
+  index: -1
+LightTrai3
+  rotate: false
+  xy: 1764, 291
+  size: 200, 225
+  orig: 200, 225
+  offset: 0, 0
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 1793, 5
+  size: 179, 284
+  orig: 179, 284
+  offset: 0, 0
+  index: -1
+TayPhai2
+  rotate: false
+  xy: 1790, 518
+  size: 221, 286
+  orig: 221, 286
+  offset: 0, 0
+  index: -1
+TayTrai1
+  rotate: false
+  xy: 1790, 806
+  size: 202, 320
+  orig: 202, 320
+  offset: 0, 0
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 1570, 289
+  size: 312, 192
+  orig: 312, 192
+  offset: 0, 0
+  index: -1
+Text1
+  rotate: true
+  xy: 1104, 13
+  size: 588, 231
+  orig: 588, 231
+  offset: 0, 0
+  index: -1
+Text2
+  rotate: true
+  xy: 1337, 13
+  size: 588, 231
+  orig: 588, 231
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 1104, 603
+  size: 523, 684
+  orig: 523, 684
+  offset: 0, 0
+  index: -1
+Vien copy 3
+  rotate: false
+  xy: 2, 92
+  size: 553, 1034
+  orig: 553, 1034
+  offset: 0, 0
+  index: -1

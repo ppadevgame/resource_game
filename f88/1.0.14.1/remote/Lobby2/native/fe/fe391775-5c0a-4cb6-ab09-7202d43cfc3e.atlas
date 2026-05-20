@@ -1,0 +1,104 @@
+
+NapTien.png
+size: 1753,736
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 944, 131
+  size: 167, 215
+  orig: 167, 215
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 300
+  size: 1364, 434
+  orig: 1364, 434
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 1593, 320
+  size: 146, 254
+  orig: 146, 254
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 1323, 46
+  size: 82, 177
+  orig: 82, 177
+  offset: 0, 0
+  index: -1
+N
+  rotate: true
+  xy: 1542, 126
+  size: 175, 170
+  orig: 175, 170
+  offset: 0, 0
+  index: -1
+N2
+  rotate: true
+  xy: 1368, 130
+  size: 171, 172
+  orig: 171, 172
+  offset: 0, 0
+  index: -1
+NapTien1
+  rotate: false
+  xy: 2, 2
+  size: 940, 296
+  orig: 940, 296
+  offset: 0, 0
+  index: -1
+P
+  rotate: true
+  xy: 1368, 303
+  size: 431, 223
+  orig: 431, 223
+  offset: 0, 0
+  index: -1
+Sao1
+  rotate: false
+  xy: 944, 5
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Sao2
+  rotate: false
+  xy: 944, 5
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Sao3
+  rotate: false
+  xy: 944, 5
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Sao5
+  rotate: false
+  xy: 944, 5
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Sao4
+  rotate: false
+  xy: 1593, 576
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+T
+  rotate: false
+  xy: 1161, 119
+  size: 160, 179
+  orig: 160, 179
+  offset: 0, 0
+  index: -1

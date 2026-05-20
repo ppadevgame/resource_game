@@ -1,0 +1,244 @@
+
+SlotMoney.png
+size: 1855,1164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10000Phai1
+  rotate: true
+  xy: 1181, 5
+  size: 182, 148
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+10000Trai2
+  rotate: true
+  xy: 431, 8
+  size: 118, 116
+  orig: 118, 116
+  offset: 0, 0
+  index: -1
+5000Phai2
+  rotate: false
+  xy: 1695, 284
+  size: 154, 109
+  orig: 154, 109
+  offset: 0, 0
+  index: -1
+5000Trai
+  rotate: true
+  xy: 1331, 26
+  size: 161, 149
+  orig: 161, 149
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 557, 137
+  size: 545, 1025
+  orig: 545, 1025
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1113, 613
+  size: 329, 433
+  orig: 329, 433
+  offset: 0, 0
+  index: -1
+CanhPhai
+  rotate: true
+  xy: 1104, 137
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+CanhPhai 2
+  rotate: false
+  xy: 1656, 646
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+CanhTrai
+  rotate: false
+  xy: 1548, 646
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+CanhTrai 2
+  rotate: false
+  xy: 1602, 646
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 1597, 898
+  size: 244, 264
+  orig: 244, 264
+  offset: 0, 0
+  index: -1
+GGiua1
+  rotate: true
+  xy: 1695, 5
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GGiua1 copy 3
+  rotate: true
+  xy: 1695, 5
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GPhai2
+  rotate: true
+  xy: 1695, 5
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GTrai2
+  rotate: true
+  xy: 1695, 5
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GPhai1
+  rotate: false
+  xy: 590, 2
+  size: 128, 133
+  orig: 128, 133
+  offset: 0, 0
+  index: -1
+GTrai1
+  rotate: false
+  xy: 1453, 238
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+GTrai4
+  rotate: false
+  xy: 1695, 148
+  size: 142, 134
+  orig: 142, 134
+  offset: 0, 0
+  index: -1
+Hong
+  rotate: false
+  xy: 1104, 189
+  size: 347, 422
+  orig: 347, 422
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 427, 124
+  orig: 427, 124
+  offset: 0, 0
+  index: -1
+Mat1
+  rotate: true
+  xy: 549, 10
+  size: 116, 39
+  orig: 116, 39
+  offset: 0, 0
+  index: -1
+Mat2
+  rotate: true
+  xy: 1824, 782
+  size: 114, 29
+  orig: 114, 29
+  offset: 0, 0
+  index: -1
+Mat3
+  rotate: true
+  xy: 1548, 828
+  size: 114, 37
+  orig: 114, 37
+  offset: 0, 0
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 1602, 71
+  size: 91, 322
+  orig: 91, 322
+  offset: 0, 0
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 1587, 723
+  size: 173, 235
+  orig: 173, 235
+  offset: 0, 0
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 1482, 395
+  size: 88, 328
+  orig: 88, 328
+  offset: 0, 0
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 1482, 2
+  size: 114, 234
+  orig: 114, 234
+  offset: 0, 0
+  index: -1
+TextMoney
+  rotate: false
+  xy: 1113, 1054
+  size: 482, 108
+  orig: 482, 108
+  offset: 0, 0
+  index: -1
+TextMoney 2
+  rotate: false
+  xy: 1113, 944
+  size: 482, 108
+  orig: 482, 108
+  offset: 0, 0
+  index: -1
+TextSlot
+  rotate: false
+  xy: 720, 9
+  size: 391, 126
+  orig: 391, 126
+  offset: 0, 0
+  index: -1
+TextSlot 2
+  rotate: false
+  xy: 1453, 485
+  size: 391, 126
+  orig: 391, 126
+  offset: 0, 0
+  index: -1
+Vien
+  rotate: false
+  xy: 2, 128
+  size: 553, 1034
+  orig: 553, 1034
+  offset: 0, 0
+  index: -1
+Xu
+  rotate: true
+  xy: 1113, 71
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+Xu2
+  rotate: true
+  xy: 1113, 5
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1

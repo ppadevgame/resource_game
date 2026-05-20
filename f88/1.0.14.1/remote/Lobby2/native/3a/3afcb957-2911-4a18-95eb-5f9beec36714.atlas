@@ -1,0 +1,251 @@
+
+PragmaticPlay.png
+size: 1282,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1058, 389
+  size: 209, 31
+  orig: 210, 33
+  offset: 1, 0
+  index: -1
+2
+  rotate: false
+  xy: 540, 13
+  size: 209, 38
+  orig: 210, 42
+  offset: 1, 2
+  index: -1
+3
+  rotate: false
+  xy: 14, 4
+  size: 209, 44
+  orig: 210, 48
+  offset: 1, 2
+  index: -1
+4
+  rotate: false
+  xy: 482, 11
+  size: 56, 40
+  orig: 60, 43
+  offset: 0, 2
+  index: -1
+BG
+  rotate: false
+  xy: 255, 53
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+BG copy
+  rotate: false
+  xy: 503, 53
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+BanXoay
+  rotate: false
+  xy: 751, 4
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+BanXoay2
+  rotate: true
+  xy: 1147, 426
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+Bich
+  rotate: true
+  xy: 1178, 63
+  size: 58, 78
+  orig: 60, 80
+  offset: 1, 1
+  index: -1
+Dau
+  rotate: false
+  xy: 936, 6
+  size: 92, 125
+  orig: 94, 126
+  offset: 1, 1
+  index: -1
+Hong
+  rotate: false
+  xy: 1126, 185
+  size: 152, 202
+  orig: 155, 213
+  offset: 3, 11
+  index: -1
+Layer 22
+  rotate: false
+  xy: 2, 50
+  size: 251, 471
+  orig: 251, 471
+  offset: 0, 0
+  index: -1
+Layer 53
+  rotate: false
+  xy: 936, 422
+  size: 209, 99
+  orig: 210, 100
+  offset: 1, 0
+  index: -1
+Layer 58
+  rotate: false
+  xy: 910, 133
+  size: 172, 171
+  orig: 191, 177
+  offset: 2, 3
+  index: -1
+Layer 59
+  rotate: false
+  xy: 1269, 435
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Layer 72 copy
+  rotate: false
+  xy: 482, 4
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Light copy 13
+  rotate: false
+  xy: 910, 509
+  size: 22, 12
+  orig: 24, 14
+  offset: 1, 1
+  index: -1
+Light copy 14
+  rotate: false
+  xy: 910, 509
+  size: 22, 12
+  orig: 24, 14
+  offset: 1, 1
+  index: -1
+Mat1 copy 3
+  rotate: true
+  xy: 225, 5
+  size: 43, 10
+  orig: 46, 12
+  offset: 1, 1
+  index: -1
+Mat2 copy 3
+  rotate: true
+  xy: 2, 2
+  size: 46, 10
+  orig: 48, 12
+  offset: 1, 1
+  index: -1
+Mat3 copy 3
+  rotate: true
+  xy: 466, 4
+  size: 47, 14
+  orig: 49, 15
+  offset: 1, 0
+  index: -1
+Ro
+  rotate: true
+  xy: 1178, 123
+  size: 60, 79
+  orig: 62, 81
+  offset: 1, 1
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 880, 4
+  size: 54, 127
+  orig: 55, 129
+  offset: 1, 1
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 932, 307
+  size: 113, 124
+  orig: 114, 125
+  offset: 1, 1
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 350, 2
+  size: 49, 114
+  orig: 50, 116
+  offset: 1, 1
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 237, 6
+  size: 42, 111
+  orig: 43, 112
+  offset: 0, 0
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 1030, 35
+  size: 96, 146
+  orig: 96, 146
+  offset: 0, 0
+  index: -1
+Tep
+  rotate: true
+  xy: 1178, 10
+  size: 51, 75
+  orig: 53, 77
+  offset: 1, 1
+  index: -1
+Than
+  rotate: false
+  xy: 751, 133
+  size: 157, 388
+  orig: 160, 395
+  offset: 2, 0
+  index: -1
+Vector Smart Object
+  rotate: true
+  xy: 910, 306
+  size: 201, 20
+  orig: 270, 34
+  offset: 16, 14
+  index: -1
+XucXac1
+  rotate: false
+  xy: 1243, 447
+  size: 37, 35
+  orig: 239, 212
+  offset: 60, 32
+  index: -1
+XucXac2
+  rotate: false
+  xy: 1084, 272
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+XucXac3
+  rotate: false
+  xy: 1084, 238
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+XucXac4
+  rotate: false
+  xy: 1243, 484
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 1058, 306
+  size: 66, 81
+  orig: 68, 83
+  offset: 1, 1
+  index: -1
