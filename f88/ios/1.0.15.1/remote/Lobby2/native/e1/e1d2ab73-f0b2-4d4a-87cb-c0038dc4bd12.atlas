@@ -1,0 +1,132 @@
+
+DreamGaming.png
+size: 2024,1505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dau
+  rotate: false
+  xy: 1627, 1132
+  size: 387, 314
+  orig: 395, 317
+  offset: 4, 2
+  index: -1
+Layer 15 copy 2
+  rotate: true
+  xy: 503, 13
+  size: 458, 285
+  orig: 462, 289
+  offset: 3, 2
+  index: -1
+Layer 21 copy 9
+  rotate: false
+  xy: 2, 473
+  size: 549, 1030
+  orig: 553, 1034
+  offset: 2, 2
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1098, 504
+  size: 527, 999
+  orig: 529, 1001
+  offset: 1, 1
+  index: -1
+Layer 32 copy 6
+  rotate: false
+  xy: 553, 479
+  size: 543, 1024
+  orig: 545, 1026
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: true
+  xy: 216, 13
+  size: 458, 285
+  orig: 462, 289
+  offset: 3, 2
+  index: -1
+Layer 552 copy 3
+  rotate: true
+  xy: 790, 48
+  size: 429, 69
+  orig: 433, 73
+  offset: 2, 2
+  index: -1
+Layer 558 copy 3
+  rotate: true
+  xy: 1801, 587
+  size: 543, 205
+  orig: 545, 212
+  offset: 1, 1
+  index: -1
+Light copy 23
+  rotate: false
+  xy: 932, 8
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 24
+  rotate: false
+  xy: 932, 8
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Mat1 copy 8
+  rotate: false
+  xy: 1881, 1448
+  size: 139, 25
+  orig: 144, 32
+  offset: 2, 5
+  index: -1
+Mat2 copy 8
+  rotate: false
+  xy: 1881, 1475
+  size: 141, 28
+  orig: 147, 31
+  offset: 1, 2
+  index: -1
+Mat3 copy 8
+  rotate: false
+  xy: 790, 14
+  size: 140, 32
+  orig: 147, 37
+  offset: 3, 3
+  index: -1
+T ayPhai2
+  rotate: true
+  xy: 1627, 559
+  size: 571, 172
+  orig: 575, 175
+  offset: 2, 1
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 2, 2
+  size: 212, 469
+  orig: 215, 486
+  offset: 2, 15
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 1801, 513
+  size: 72, 191
+  orig: 156, 196
+  offset: 82, 3
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 861, 62
+  size: 250, 415
+  orig: 252, 419
+  offset: 1, 3
+  index: -1
+Than
+  rotate: true
+  xy: 1113, 4
+  size: 498, 766
+  orig: 628, 787
+  offset: 3, 1
+  index: -1

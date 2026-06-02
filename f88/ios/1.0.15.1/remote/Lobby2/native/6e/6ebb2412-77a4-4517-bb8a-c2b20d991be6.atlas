@@ -1,0 +1,232 @@
+
+Sicbo.png
+size: 3044,1951
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 2, 1257
+  size: 344, 500
+  orig: 355, 530
+  offset: 11, 6
+  index: -1
+CumBai1
+  rotate: true
+  xy: 2511, 537
+  size: 602, 531
+  orig: 627, 616
+  offset: 1, 7
+  index: -1
+CumBai2
+  rotate: false
+  xy: 1070, 1787
+  size: 200, 162
+  orig: 205, 169
+  offset: 3, 5
+  index: -1
+CumBai3
+  rotate: true
+  xy: 1272, 1769
+  size: 180, 312
+  orig: 182, 325
+  offset: 1, 1
+  index: -1
+Dai
+  rotate: false
+  xy: 422, 1603
+  size: 336, 231
+  orig: 338, 233
+  offset: 1, 1
+  index: -1
+Dau
+  rotate: false
+  xy: 2611, 1141
+  size: 412, 577
+  orig: 417, 581
+  offset: 2, 3
+  index: -1
+Dau copy
+  rotate: true
+  xy: 1098, 2
+  size: 663, 819
+  orig: 693, 835
+  offset: 15, 16
+  index: -1
+K
+  rotate: true
+  xy: 843, 673
+  size: 483, 585
+  orig: 493, 605
+  offset: 2, 5
+  index: -1
+Layer 22
+  rotate: false
+  xy: 2, 1836
+  size: 1066, 113
+  orig: 1068, 135
+  offset: 1, 11
+  index: -1
+Layer 26
+  rotate: false
+  xy: 1310, 1158
+  size: 1158, 278
+  orig: 1160, 280
+  offset: 1, 1
+  index: -1
+Phu
+  rotate: false
+  xy: 760, 1554
+  size: 385, 231
+  orig: 387, 233
+  offset: 1, 1
+  index: -1
+Quy
+  rotate: false
+  xy: 2, 1604
+  size: 418, 230
+  orig: 420, 232
+  offset: 1, 1
+  index: -1
+SicBo1
+  rotate: false
+  xy: 1586, 1734
+  size: 695, 215
+  orig: 697, 217
+  offset: 1, 1
+  index: -1
+SicBo2
+  rotate: false
+  xy: 504, 1199
+  size: 804, 323
+  orig: 808, 327
+  offset: 2, 2
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 1467, 1452
+  size: 266, 847
+  orig: 269, 850
+  offset: 2, 1
+  index: -1
+TayPhai1 copy
+  rotate: true
+  xy: 2, 161
+  size: 510, 1094
+  orig: 540, 1130
+  offset: 18, 16
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 2283, 1720
+  size: 229, 629
+  orig: 233, 637
+  offset: 2, 7
+  index: -1
+TayTrai1 copy
+  rotate: true
+  xy: 2, 717
+  size: 480, 839
+  orig: 510, 882
+  offset: 17, 15
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 2316, 1438
+  size: 280, 293
+  orig: 285, 300
+  offset: 2, 2
+  index: -1
+TayTrai2 copy
+  rotate: true
+  xy: 1982, 637
+  size: 519, 527
+  orig: 553, 564
+  offset: 16, 16
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 1147, 1524
+  size: 243, 318
+  orig: 249, 323
+  offset: 3, 3
+  index: -1
+TayTrai3 copy
+  rotate: true
+  xy: 1430, 667
+  size: 489, 550
+  orig: 520, 587
+  offset: 16, 16
+  index: -1
+
+Sicbo2.png
+size: 2431,1148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Than
+  rotate: true
+  xy: 2, 182
+  size: 964, 1098
+  orig: 970, 1100
+  offset: 2, 1
+  index: -1
+Than copy
+  rotate: true
+  xy: 1102, 2
+  size: 1144, 1327
+  orig: 1190, 1366
+  offset: 23, 15
+  index: -1
+
+Sicbo3.png
+size: 2010,1050
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 23
+  rotate: true
+  xy: 2, 2
+  size: 1046, 2006
+  orig: 1048, 2008
+  offset: 1, 1
+  index: -1
+
+Sicbo4.png
+size: 2030,1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1 copy
+  rotate: true
+  xy: 2, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1
+
+Sicbo5.png
+size: 1411,1401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 21
+  rotate: false
+  xy: 2, 2
+  size: 1407, 1397
+  orig: 1430, 1438
+  offset: 1, 23
+  index: -1
+
+Sicbo6.png
+size: 2052,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 2, 2
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1

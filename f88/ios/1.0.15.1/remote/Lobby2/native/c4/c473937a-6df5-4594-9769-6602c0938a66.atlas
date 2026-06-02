@@ -1,0 +1,244 @@
+
+TaiXiuSieuToc.png
+size: 1297,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dau
+  rotate: true
+  xy: 950, 219
+  size: 109, 145
+  orig: 110, 145
+  offset: 1, 0
+  index: -1
+Effect
+  rotate: true
+  xy: 751, 45
+  size: 167, 173
+  orig: 171, 179
+  offset: 3, 1
+  index: -1
+Effect - Copy
+  rotate: true
+  xy: 751, 45
+  size: 167, 173
+  orig: 171, 179
+  offset: 3, 1
+  index: -1
+Effect copy
+  rotate: true
+  xy: 1128, 340
+  size: 181, 167
+  orig: 189, 174
+  offset: 4, 2
+  index: -1
+Effect copy - Copy
+  rotate: true
+  xy: 1128, 340
+  size: 181, 167
+  orig: 189, 174
+  offset: 4, 2
+  index: -1
+Effect copy 2
+  rotate: false
+  xy: 950, 330
+  size: 176, 191
+  orig: 181, 195
+  offset: 2, 2
+  index: -1
+Effect copy 2 - Copy
+  rotate: false
+  xy: 950, 330
+  size: 176, 191
+  orig: 181, 195
+  offset: 2, 2
+  index: -1
+Layer 36
+  rotate: false
+  xy: 2, 50
+  size: 251, 471
+  orig: 251, 471
+  offset: 0, 0
+  index: -1
+Layer 42
+  rotate: true
+  xy: 1265, 297
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+Levels 1
+  rotate: false
+  xy: 255, 53
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+Levels 1 copy
+  rotate: false
+  xy: 503, 53
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+Light copy 2
+  rotate: false
+  xy: 637, 17
+  size: 65, 34
+  orig: 69, 38
+  offset: 2, 2
+  index: -1
+Light copy 3
+  rotate: false
+  xy: 704, 30
+  size: 39, 21
+  orig: 41, 23
+  offset: 1, 1
+  index: -1
+Light copy 4
+  rotate: false
+  xy: 704, 30
+  size: 39, 21
+  orig: 41, 23
+  offset: 1, 1
+  index: -1
+Mat1 copy 6
+  rotate: false
+  xy: 215, 2
+  size: 56, 12
+  orig: 57, 14
+  offset: 1, 1
+  index: -1
+Mat2 copy 6
+  rotate: false
+  xy: 273, 3
+  size: 58, 11
+  orig: 60, 14
+  offset: 1, 2
+  index: -1
+Mat3 copy 6
+  rotate: false
+  xy: 1169, 20
+  size: 55, 14
+  orig: 58, 15
+  offset: 1, 0
+  index: -1
+SieuToc
+  rotate: true
+  xy: 926, 8
+  size: 204, 52
+  orig: 206, 54
+  offset: 1, 1
+  index: -1
+SieuToc copy
+  rotate: true
+  xy: 980, 13
+  size: 204, 52
+  orig: 206, 54
+  offset: 1, 1
+  index: -1
+Tai
+  rotate: false
+  xy: 1175, 180
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+Tai2
+  rotate: true
+  xy: 1034, 6
+  size: 83, 62
+  orig: 97, 72
+  offset: 7, 5
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 2, 2
+  size: 46, 133
+  orig: 58, 270
+  offset: 0, 133
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 137, 4
+  size: 44, 76
+  orig: 46, 91
+  offset: 0, 14
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 503, 7
+  size: 44, 132
+  orig: 44, 133
+  offset: 0, 1
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 1034, 91
+  size: 52, 126
+  orig: 52, 131
+  offset: 0, 4
+  index: -1
+Tep
+  rotate: false
+  xy: 1097, 139
+  size: 76, 80
+  orig: 82, 86
+  offset: 3, 3
+  index: -1
+Than
+  rotate: false
+  xy: 751, 214
+  size: 197, 307
+  orig: 197, 336
+  offset: 0, 29
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 255, 16
+  size: 246, 35
+  orig: 246, 35
+  offset: 0, 0
+  index: -1
+Xiu
+  rotate: true
+  xy: 1097, 221
+  size: 107, 76
+  orig: 107, 76
+  offset: 0, 0
+  index: -1
+Xiu2
+  rotate: false
+  xy: 1175, 114
+  size: 89, 64
+  orig: 107, 76
+  offset: 9, 6
+  index: -1
+XucXacPhai
+  rotate: false
+  xy: 1098, 7
+  size: 69, 61
+  orig: 75, 67
+  offset: 3, 3
+  index: -1
+XucXacPhai copy
+  rotate: false
+  xy: 1098, 70
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+XucXacTrai
+  rotate: false
+  xy: 1175, 36
+  size: 80, 76
+  orig: 88, 84
+  offset: 4, 4
+  index: -1
+XucXacTrai copy
+  rotate: false
+  xy: 1175, 254
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
