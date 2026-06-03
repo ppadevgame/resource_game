@@ -1,0 +1,167 @@
+
+CaoBaccarat.png
+size: 1876,1167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 557, 139
+  size: 545, 1026
+  orig: 545, 1026
+  offset: 0, 0
+  index: -1
+BaiPhai1
+  rotate: false
+  xy: 1465, 311
+  size: 215, 194
+  orig: 215, 194
+  offset: 0, 0
+  index: -1
+BaiTrai2
+  rotate: false
+  xy: 1682, 304
+  size: 192, 201
+  orig: 192, 201
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1104, 528
+  size: 390, 482
+  orig: 390, 482
+  offset: 0, 0
+  index: -1
+CPhai2 copy
+  rotate: true
+  xy: 1104, 13
+  size: 155, 208
+  orig: 155, 208
+  offset: 0, 0
+  index: -1
+CTraii1 copy
+  rotate: false
+  xy: 1663, 123
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: true
+  xy: 1588, 666
+  size: 252, 254
+  orig: 252, 254
+  offset: 0, 0
+  index: -1
+GGiua1 copy
+  rotate: false
+  xy: 669, 2
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GPhai2
+  rotate: false
+  xy: 669, 2
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GPhai2 copy 2
+  rotate: false
+  xy: 669, 2
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GPhai1
+  rotate: false
+  xy: 1314, 13
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+GTrai1
+  rotate: false
+  xy: 1314, 13
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+GTrai2
+  rotate: true
+  xy: 812, 13
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+Hong
+  rotate: true
+  xy: 1104, 170
+  size: 356, 359
+  orig: 356, 359
+  offset: 0, 0
+  index: -1
+Mat1
+  rotate: true
+  xy: 976, 17
+  size: 120, 43
+  orig: 120, 43
+  offset: 0, 0
+  index: -1
+Mat2
+  rotate: true
+  xy: 1021, 17
+  size: 120, 43
+  orig: 120, 43
+  offset: 0, 0
+  index: -1
+Mat3
+  rotate: true
+  xy: 928, 17
+  size: 120, 46
+  orig: 120, 46
+  offset: 0, 0
+  index: -1
+TayPHai1
+  rotate: true
+  xy: 2, 17
+  size: 112, 308
+  orig: 112, 308
+  offset: 0, 0
+  index: -1
+TayPHai2
+  rotate: true
+  xy: 312, 38
+  size: 91, 355
+  orig: 91, 355
+  offset: 0, 0
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 1465, 139
+  size: 170, 196
+  orig: 170, 196
+  offset: 0, 0
+  index: -1
+TextBaccarat
+  rotate: false
+  xy: 1104, 920
+  size: 768, 245
+  orig: 768, 245
+  offset: 0, 0
+  index: -1
+TextCao
+  rotate: false
+  xy: 1588, 507
+  size: 268, 157
+  orig: 268, 157
+  offset: 0, 0
+  index: -1
+Vien
+  rotate: false
+  xy: 2, 131
+  size: 553, 1034
+  orig: 553, 1034
+  offset: 0, 0
+  index: -1

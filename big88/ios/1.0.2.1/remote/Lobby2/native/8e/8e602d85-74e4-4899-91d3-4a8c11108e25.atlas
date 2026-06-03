@@ -1,0 +1,234 @@
+
+AidosJounrney.png
+size: 3017,1836
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aidos
+  rotate: false
+  xy: 1299, 1465
+  size: 584, 226
+  orig: 586, 231
+  offset: 1, 1
+  index: -1
+Aidos copy
+  rotate: false
+  xy: 1885, 1450
+  size: 584, 226
+  orig: 586, 231
+  offset: 1, 1
+  index: -1
+Chan
+  rotate: false
+  xy: 513, 140
+  size: 710, 566
+  orig: 713, 571
+  offset: 1, 1
+  index: -1
+Dau
+  rotate: false
+  xy: 1780, 674
+  size: 479, 439
+  orig: 481, 442
+  offset: 1, 2
+  index: -1
+DenDau2
+  rotate: true
+  xy: 1170, 708
+  size: 405, 608
+  orig: 431, 632
+  offset: 13, 11
+  index: -1
+Jouney
+  rotate: false
+  xy: 1299, 1115
+  size: 1166, 333
+  orig: 1168, 335
+  offset: 1, 1
+  index: -1
+Jouney copy
+  rotate: false
+  xy: 2, 849
+  size: 1166, 333
+  orig: 1168, 335
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: false
+  xy: 593, 1721
+  size: 1066, 113
+  orig: 1068, 135
+  offset: 1, 11
+  index: -1
+LightDenDau
+  rotate: false
+  xy: 344, 1511
+  size: 387, 208
+  orig: 409, 229
+  offset: 11, 10
+  index: -1
+LightText
+  rotate: false
+  xy: 344, 1511
+  size: 387, 208
+  orig: 409, 229
+  offset: 11, 10
+  index: -1
+Mat1
+  rotate: false
+  xy: 2, 1785
+  size: 194, 49
+  orig: 201, 56
+  offset: 5, 3
+  index: -1
+Mat2
+  rotate: false
+  xy: 198, 1784
+  size: 195, 50
+  orig: 203, 57
+  offset: 6, 3
+  index: -1
+Mat3
+  rotate: false
+  xy: 395, 1774
+  size: 196, 60
+  orig: 204, 64
+  offset: 6, 1
+  index: -1
+Slot
+  rotate: false
+  xy: 1661, 1693
+  size: 332, 141
+  orig: 335, 144
+  offset: 2, 2
+  index: -1
+Slot copy
+  rotate: false
+  xy: 1995, 1693
+  size: 332, 141
+  orig: 335, 144
+  offset: 2, 2
+  index: -1
+TaTrai2
+  rotate: true
+  xy: 628, 1184
+  size: 309, 669
+  orig: 312, 672
+  offset: 1, 1
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 2467, 1043
+  size: 398, 481
+  orig: 401, 488
+  offset: 2, 4
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 2, 1606
+  size: 176, 340
+  orig: 178, 343
+  offset: 1, 1
+  index: -1
+TayPhai3
+  rotate: true
+  xy: 2, 1233
+  size: 276, 624
+  orig: 281, 626
+  offset: 3, 1
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 2471, 1443
+  size: 233, 544
+  orig: 237, 548
+  offset: 1, 1
+  index: -1
+Than
+  rotate: true
+  xy: 1225, 2
+  size: 670, 804
+  orig: 674, 808
+  offset: 2, 2
+  index: -1
+XuPhai1
+  rotate: false
+  xy: 733, 1495
+  size: 281, 224
+  orig: 286, 227
+  offset: 1, 1
+  index: -1
+XuPhai1 copy
+  rotate: false
+  xy: 1016, 1495
+  size: 281, 224
+  orig: 286, 227
+  offset: 1, 1
+  index: -1
+XuPhai2
+  rotate: false
+  xy: 2329, 1678
+  size: 274, 156
+  orig: 280, 162
+  offset: 4, 3
+  index: -1
+XuPhai2 copy
+  rotate: false
+  xy: 2605, 1678
+  size: 274, 156
+  orig: 280, 162
+  offset: 4, 3
+  index: -1
+XuTrai
+  rotate: false
+  xy: 2261, 600
+  size: 509, 441
+  orig: 644, 460
+  offset: 129, 6
+  index: -1
+XuTrai copy
+  rotate: false
+  xy: 2, 406
+  size: 509, 441
+  orig: 644, 460
+  offset: 129, 6
+  index: -1
+
+AidosJounrney2.png
+size: 2010,1050
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 6
+  rotate: true
+  xy: 2, 2
+  size: 1046, 2006
+  orig: 1048, 2008
+  offset: 1, 1
+  index: -1
+
+AidosJounrney3.png
+size: 2030,1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1 copy
+  rotate: true
+  xy: 2, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1
+
+AidosJounrney4.png
+size: 2052,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 2, 2
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1
