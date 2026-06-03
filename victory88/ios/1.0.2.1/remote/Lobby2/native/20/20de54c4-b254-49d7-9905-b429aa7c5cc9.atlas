@@ -1,0 +1,244 @@
+
+MD5TaiXiu.png
+size: 1567,1545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 557, 517
+  size: 545, 1026
+  orig: 545, 1026
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 201, 89
+  size: 356, 418
+  orig: 356, 418
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 1122, 161
+  size: 253, 262
+  orig: 253, 262
+  offset: 0, 0
+  index: -1
+Dia
+  rotate: false
+  xy: 559, 156
+  size: 561, 359
+  orig: 561, 359
+  offset: 0, 0
+  index: -1
+GPhai1
+  rotate: true
+  xy: 1104, 1255
+  size: 128, 133
+  orig: 128, 133
+  offset: 0, 0
+  index: -1
+GPhai2
+  rotate: true
+  xy: 1107, 13
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GTrai1
+  rotate: true
+  xy: 950, 7
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+GoldTrai
+  rotate: true
+  xy: 950, 7
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+Hong
+  rotate: false
+  xy: 1244, 1203
+  size: 308, 340
+  orig: 308, 340
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1104, 816
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+MD5 1
+  rotate: false
+  xy: 856, 6
+  size: 92, 148
+  orig: 92, 148
+  offset: 0, 0
+  index: -1
+MD5 2
+  rotate: false
+  xy: 1122, 1385
+  size: 117, 158
+  orig: 117, 158
+  offset: 0, 0
+  index: -1
+MD5 3
+  rotate: true
+  xy: 1369, 432
+  size: 104, 168
+  orig: 104, 168
+  offset: 0, 0
+  index: -1
+MD5 4
+  rotate: false
+  xy: 742, 6
+  size: 112, 148
+  orig: 112, 148
+  offset: 0, 0
+  index: -1
+MD5 5
+  rotate: true
+  xy: 1104, 975
+  size: 100, 128
+  orig: 100, 128
+  offset: 0, 0
+  index: -1
+MD5 6
+  rotate: true
+  xy: 1104, 874
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+MD5 7
+  rotate: true
+  xy: 1104, 1077
+  size: 101, 128
+  orig: 101, 128
+  offset: 0, 0
+  index: -1
+MD5 8
+  rotate: false
+  xy: 1244, 33
+  size: 105, 126
+  orig: 105, 126
+  offset: 0, 0
+  index: -1
+MD5 9
+  rotate: false
+  xy: 1351, 33
+  size: 82, 126
+  orig: 82, 126
+  offset: 0, 0
+  index: -1
+Mat1
+  rotate: false
+  xy: 1122, 1180
+  size: 112, 35
+  orig: 112, 35
+  offset: 0, 0
+  index: -1
+Mat2
+  rotate: false
+  xy: 1122, 1217
+  size: 112, 36
+  orig: 112, 36
+  offset: 0, 0
+  index: -1
+Mat3
+  rotate: false
+  xy: 559, 113
+  size: 112, 41
+  orig: 112, 41
+  offset: 0, 0
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 114, 10
+  size: 73, 298
+  orig: 73, 298
+  offset: 0, 0
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 1122, 425
+  size: 97, 243
+  orig: 97, 243
+  offset: 0, 0
+  index: -1
+TayPhai3
+  rotate: false
+  xy: 674, 2
+  size: 66, 152
+  orig: 66, 152
+  offset: 0, 0
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 1244, 793
+  size: 98, 276
+  orig: 98, 276
+  offset: 0, 0
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 414, 3
+  size: 84, 258
+  orig: 84, 258
+  offset: 0, 0
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 2, 2
+  size: 81, 110
+  orig: 81, 110
+  offset: 0, 0
+  index: -1
+TextMd5
+  rotate: true
+  xy: 2, 85
+  size: 422, 197
+  orig: 422, 197
+  offset: 0, 0
+  index: -1
+TextTai
+  rotate: true
+  xy: 1377, 176
+  size: 254, 165
+  orig: 254, 165
+  offset: 0, 0
+  index: -1
+TextXiu
+  rotate: true
+  xy: 1369, 538
+  size: 253, 179
+  orig: 253, 179
+  offset: 0, 0
+  index: -1
+Vien
+  rotate: false
+  xy: 2, 509
+  size: 553, 1034
+  orig: 553, 1034
+  offset: 0, 0
+  index: -1
+XucXac4
+  rotate: true
+  xy: 1104, 524
+  size: 267, 263
+  orig: 267, 263
+  offset: 0, 0
+  index: -1
+XucXac6
+  rotate: true
+  xy: 1236, 893
+  size: 308, 329
+  orig: 308, 329
+  offset: 0, 0
+  index: -1

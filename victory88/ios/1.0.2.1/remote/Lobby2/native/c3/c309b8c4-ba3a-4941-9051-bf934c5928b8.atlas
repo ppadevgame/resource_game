@@ -1,0 +1,279 @@
+
+Casing.png
+size: 1921,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ABich
+  rotate: true
+  xy: 1605, 129
+  size: 64, 85
+  orig: 66, 87
+  offset: 1, 1
+  index: -1
+ACo
+  rotate: true
+  xy: 812, 7
+  size: 77, 92
+  orig: 79, 94
+  offset: 1, 1
+  index: -1
+ARo
+  rotate: true
+  xy: 1795, 149
+  size: 56, 80
+  orig: 58, 82
+  offset: 1, 1
+  index: -1
+ATep
+  rotate: true
+  xy: 1516, 126
+  size: 67, 87
+  orig: 69, 89
+  offset: 1, 1
+  index: -1
+BG
+  rotate: true
+  xy: 475, 116
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+BG copy
+  rotate: true
+  xy: 945, 116
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+Bong
+  rotate: false
+  xy: 1444, 11
+  size: 109, 109
+  orig: 113, 113
+  offset: 2, 2
+  index: -1
+BongSoSo
+  rotate: false
+  xy: 1415, 122
+  size: 99, 71
+  orig: 104, 77
+  offset: 2, 4
+  index: -1
+Dau
+  rotate: false
+  xy: 1767, 30
+  size: 97, 114
+  orig: 97, 115
+  offset: 0, 1
+  index: -1
+Gold
+  rotate: false
+  xy: 2, 11
+  size: 134, 98
+  orig: 143, 128
+  offset: 6, 3
+  index: -1
+Gold copy
+  rotate: false
+  xy: 138, 11
+  size: 134, 98
+  orig: 143, 128
+  offset: 6, 3
+  index: -1
+Layer 22
+  rotate: true
+  xy: 2, 111
+  size: 251, 471
+  orig: 251, 471
+  offset: 0, 0
+  index: -1
+Ligh
+  rotate: false
+  xy: 545, 79
+  size: 246, 35
+  orig: 246, 35
+  offset: 0, 0
+  index: -1
+LightBat copy 5
+  rotate: true
+  xy: 1866, 67
+  size: 80, 42
+  orig: 84, 47
+  offset: 2, 2
+  index: -1
+LightBat copy 6
+  rotate: true
+  xy: 1866, 67
+  size: 80, 42
+  orig: 84, 47
+  offset: 2, 2
+  index: -1
+Mat1 copy 7
+  rotate: false
+  xy: 274, 4
+  size: 57, 16
+  orig: 62, 20
+  offset: 2, 2
+  index: -1
+Mat2 copy 7
+  rotate: false
+  xy: 385, 9
+  size: 50, 11
+  orig: 52, 11
+  offset: 1, 0
+  index: -1
+Mat3 copy 7
+  rotate: false
+  xy: 333, 6
+  size: 50, 14
+  orig: 52, 14
+  offset: 1, 0
+  index: -1
+Nguc
+  rotate: false
+  xy: 274, 22
+  size: 134, 87
+  orig: 135, 90
+  offset: 0, 2
+  index: -1
+Phai1
+  rotate: true
+  xy: 1877, 185
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Phai2
+  rotate: true
+  xy: 410, 30
+  size: 79, 133
+  orig: 80, 133
+  offset: 0, 0
+  index: -1
+Phai3
+  rotate: false
+  xy: 1749, 307
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+Phai4
+  rotate: true
+  xy: 1834, 224
+  size: 51, 85
+  orig: 51, 85
+  offset: 0, 0
+  index: -1
+Phai5
+  rotate: true
+  xy: 640, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Rounllet
+  rotate: false
+  xy: 1555, 12
+  size: 104, 112
+  orig: 108, 170
+  offset: 2, 2
+  index: -1
+Rounllet copy
+  rotate: false
+  xy: 1661, 15
+  size: 104, 112
+  orig: 108, 170
+  offset: 2, 2
+  index: -1
+TayPHai1
+  rotate: true
+  xy: 1692, 146
+  size: 47, 101
+  orig: 47, 102
+  offset: 0, 1
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 545, 38
+  size: 39, 145
+  orig: 39, 155
+  offset: 0, 10
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 692, 40
+  size: 37, 118
+  orig: 38, 120
+  offset: 0, 1
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 1866, 277
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 1866, 3
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 906, 3
+  size: 267, 111
+  orig: 267, 111
+  offset: 0, 0
+  index: -1
+Text copy
+  rotate: false
+  xy: 1175, 3
+  size: 267, 111
+  orig: 267, 111
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 1415, 195
+  size: 167, 332
+  orig: 167, 344
+  offset: 0, 10
+  index: -1
+Trai1
+  rotate: true
+  xy: 1749, 207
+  size: 68, 83
+  orig: 80, 95
+  offset: 5, 6
+  index: -1
+Trai2
+  rotate: true
+  xy: 793, 86
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Trai3
+  rotate: true
+  xy: 1800, 317
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 437, 8
+  size: 201, 20
+  orig: 270, 34
+  offset: 16, 14
+  index: -1
+XucXac
+  rotate: false
+  xy: 677, 3
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1

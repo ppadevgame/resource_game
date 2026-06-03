@@ -1,0 +1,195 @@
+
+DreamGaming.png
+size: 1444,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 255, 42
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+BG copy
+  rotate: false
+  xy: 503, 42
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+Chip
+  rotate: true
+  xy: 958, 33
+  size: 158, 104
+  orig: 158, 104
+  offset: 0, 0
+  index: -1
+Chip copy
+  rotate: false
+  xy: 1064, 17
+  size: 158, 104
+  orig: 158, 104
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 1276, 3
+  size: 118, 99
+  orig: 120, 99
+  offset: 2, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 751, 193
+  size: 317, 317
+  orig: 317, 317
+  offset: 0, 0
+  index: -1
+Hong
+  rotate: false
+  xy: 751, 71
+  size: 205, 120
+  orig: 205, 133
+  offset: 0, 12
+  index: -1
+Layer 22
+  rotate: false
+  xy: 2, 39
+  size: 251, 471
+  orig: 251, 471
+  offset: 0, 0
+  index: -1
+Layer 49
+  rotate: false
+  xy: 1070, 332
+  size: 294, 178
+  orig: 334, 218
+  offset: 20, 20
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 241, 35
+  orig: 241, 35
+  offset: 0, 0
+  index: -1
+Light copy 13
+  rotate: false
+  xy: 751, 18
+  size: 54, 29
+  orig: 58, 32
+  offset: 2, 2
+  index: -1
+Light copy 14
+  rotate: false
+  xy: 751, 18
+  size: 54, 29
+  orig: 58, 32
+  offset: 2, 2
+  index: -1
+Light copy 15
+  rotate: false
+  xy: 751, 18
+  size: 54, 29
+  orig: 58, 32
+  offset: 2, 2
+  index: -1
+Light copy 16
+  rotate: false
+  xy: 751, 18
+  size: 54, 29
+  orig: 58, 32
+  offset: 2, 2
+  index: -1
+Light copy 17
+  rotate: false
+  xy: 751, 18
+  size: 54, 29
+  orig: 58, 32
+  offset: 2, 2
+  index: -1
+Mat1
+  rotate: true
+  xy: 1423, 180
+  size: 45, 17
+  orig: 46, 18
+  offset: 1, 0
+  index: -1
+Mat2
+  rotate: false
+  xy: 1396, 30
+  size: 46, 17
+  orig: 47, 19
+  offset: 1, 0
+  index: -1
+Mat3
+  rotate: false
+  xy: 1396, 8
+  size: 45, 20
+  orig: 46, 21
+  offset: 1, 0
+  index: -1
+Tam
+  rotate: false
+  xy: 1356, 104
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 1356, 113
+  size: 65, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+TayPhai2
+  rotate: false
+  xy: 1396, 49
+  size: 39, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 1224, 9
+  size: 50, 112
+  orig: 52, 113
+  offset: 0, 0
+  index: -1
+TayTrai3
+  rotate: false
+  xy: 1356, 227
+  size: 86, 55
+  orig: 87, 63
+  offset: 0, 1
+  index: -1
+Than
+  rotate: true
+  xy: 1070, 123
+  size: 207, 220
+  orig: 214, 221
+  offset: 0, 1
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 751, 49
+  size: 201, 20
+  orig: 270, 34
+  offset: 16, 14
+  index: -1
+logo
+  rotate: true
+  xy: 1292, 104
+  size: 226, 62
+  orig: 226, 63
+  offset: 0, 0
+  index: -1
+logo copy
+  rotate: true
+  xy: 1366, 284
+  size: 226, 62
+  orig: 226, 63
+  offset: 0, 0
+  index: -1

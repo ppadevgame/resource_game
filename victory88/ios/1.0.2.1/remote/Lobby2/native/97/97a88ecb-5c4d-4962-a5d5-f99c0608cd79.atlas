@@ -1,0 +1,146 @@
+
+LoDeSieuToc.png
+size: 1442,1532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17
+  rotate: false
+  xy: 786, 193
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+31
+  rotate: true
+  xy: 1038, 1161
+  size: 369, 370
+  orig: 369, 370
+  offset: 0, 0
+  index: -1
+48
+  rotate: false
+  xy: 1030, 638
+  size: 278, 278
+  orig: 278, 278
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 2, 430
+  size: 545, 1026
+  orig: 545, 1026
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: true
+  xy: 1038, 918
+  size: 241, 301
+  orig: 241, 301
+  offset: 0, 0
+  index: -1
+GGiua1 copy 4
+  rotate: false
+  xy: 1293, 258
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GPhai
+  rotate: false
+  xy: 1293, 258
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GPhai2 copy 4
+  rotate: false
+  xy: 1293, 258
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GPhai1 copy 2
+  rotate: false
+  xy: 1310, 764
+  size: 128, 133
+  orig: 128, 133
+  offset: 0, 0
+  index: -1
+GTrai1 copy 3
+  rotate: false
+  xy: 1293, 395
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+GoldTrai
+  rotate: false
+  xy: 1293, 395
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+Light copy 3
+  rotate: true
+  xy: 1341, 899
+  size: 260, 89
+  orig: 260, 89
+  offset: 0, 0
+  index: -1
+Mat1
+  rotate: true
+  xy: 1410, 1302
+  size: 113, 24
+  orig: 113, 24
+  offset: 0, 0
+  index: -1
+Mat2
+  rotate: true
+  xy: 1410, 1417
+  size: 113, 25
+  orig: 113, 25
+  offset: 0, 0
+  index: -1
+Mat3
+  rotate: false
+  xy: 1293, 223
+  size: 113, 33
+  orig: 113, 33
+  offset: 0, 0
+  index: -1
+TextLode
+  rotate: true
+  xy: 1030, 184
+  size: 452, 261
+  orig: 452, 261
+  offset: 0, 0
+  index: -1
+TextSieuToc
+  rotate: false
+  xy: 786, 50
+  size: 515, 132
+  orig: 515, 132
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 2, 2
+  size: 426, 782
+  orig: 426, 782
+  offset: 0, 0
+  index: -1
+TocSau
+  rotate: false
+  xy: 1310, 552
+  size: 120, 210
+  orig: 120, 210
+  offset: 0, 0
+  index: -1
+Vien
+  rotate: true
+  xy: 2, 977
+  size: 553, 1034
+  orig: 553, 1034
+  offset: 0, 0
+  index: -1

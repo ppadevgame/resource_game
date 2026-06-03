@@ -1,0 +1,209 @@
+
+TaiXiu.png
+size: 2031,1526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 557, 498
+  size: 545, 1026
+  orig: 545, 1026
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 27
+  size: 461, 699
+  orig: 461, 699
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 1408, 595
+  size: 266, 252
+  orig: 266, 252
+  offset: 0, 0
+  index: -1
+Effect1
+  rotate: false
+  xy: 1104, 849
+  size: 737, 675
+  orig: 737, 675
+  offset: 0, 0
+  index: -1
+Effect2
+  rotate: false
+  xy: 703, 23
+  size: 517, 473
+  orig: 517, 473
+  offset: 0, 0
+  index: -1
+GPhai1
+  rotate: true
+  xy: 1597, 131
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+GPhai4To
+  rotate: true
+  xy: 1597, 131
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+GTrai2
+  rotate: true
+  xy: 1597, 131
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+GPhai2
+  rotate: true
+  xy: 1597, 5
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+GPhai3
+  rotate: true
+  xy: 1597, 5
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+GTrai1
+  rotate: true
+  xy: 1713, 13
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+GTrai3
+  rotate: false
+  xy: 1828, 107
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+GTrai4
+  rotate: false
+  xy: 1828, 107
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 1843, 1226
+  size: 298, 167
+  orig: 298, 167
+  offset: 0, 0
+  index: -1
+Mat1
+  rotate: false
+  xy: 2, 2
+  size: 105, 23
+  orig: 105, 23
+  offset: 0, 0
+  index: -1
+Mat2
+  rotate: false
+  xy: 109, 2
+  size: 105, 23
+  orig: 105, 23
+  offset: 0, 0
+  index: -1
+Mat3
+  rotate: true
+  xy: 1808, 742
+  size: 105, 28
+  orig: 105, 28
+  offset: 0, 0
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 1408, 304
+  size: 211, 289
+  orig: 211, 289
+  offset: 0, 0
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 1222, 39
+  size: 241, 132
+  orig: 241, 132
+  offset: 0, 0
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 1676, 517
+  size: 130, 330
+  orig: 130, 330
+  offset: 0, 0
+  index: -1
+TextTai
+  rotate: true
+  xy: 1843, 977
+  size: 247, 181
+  orig: 247, 181
+  offset: 0, 0
+  index: -1
+TextTai 2
+  rotate: true
+  xy: 1843, 728
+  size: 247, 181
+  orig: 247, 181
+  offset: 0, 0
+  index: -1
+TextXiu
+  rotate: true
+  xy: 1404, 52
+  size: 250, 191
+  orig: 250, 191
+  offset: 0, 0
+  index: -1
+TextXiu 2
+  rotate: true
+  xy: 1792, 244
+  size: 250, 191
+  orig: 250, 191
+  offset: 0, 0
+  index: -1
+Vien
+  rotate: false
+  xy: 2, 490
+  size: 553, 1034
+  orig: 553, 1034
+  offset: 0, 0
+  index: -1
+VienSangTai
+  rotate: true
+  xy: 1621, 280
+  size: 235, 169
+  orig: 235, 169
+  offset: 0, 0
+  index: -1
+VienSangXiu
+  rotate: true
+  xy: 1222, 282
+  size: 239, 180
+  orig: 239, 180
+  offset: 0, 0
+  index: -1
+XucXac
+  rotate: true
+  xy: 1104, 523
+  size: 324, 302
+  orig: 324, 302
+  offset: 0, 0
+  index: -1
+XucXac2
+  rotate: true
+  xy: 1808, 496
+  size: 230, 221
+  orig: 230, 221
+  offset: 0, 0
+  index: -1

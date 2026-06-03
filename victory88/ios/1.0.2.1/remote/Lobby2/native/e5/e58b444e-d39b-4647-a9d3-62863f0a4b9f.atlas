@@ -1,0 +1,188 @@
+
+KimCuong.png
+size: 1863,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dau
+  rotate: true
+  xy: 986, 202
+  size: 301, 410
+  orig: 303, 412
+  offset: 1, 1
+  index: -1
+Efffect
+  rotate: false
+  xy: 553, 95
+  size: 431, 433
+  orig: 433, 435
+  offset: 1, 1
+  index: -1
+KimCuong
+  rotate: false
+  xy: 986, 16
+  size: 459, 184
+  orig: 461, 186
+  offset: 1, 1
+  index: -1
+KimCuong2
+  rotate: false
+  xy: 1029, 593
+  size: 502, 232
+  orig: 512, 241
+  offset: 5, 5
+  index: -1
+KimCuongText
+  rotate: false
+  xy: 1029, 505
+  size: 475, 86
+  orig: 477, 88
+  offset: 1, 1
+  index: -1
+Layer 21 copy 15
+  rotate: false
+  xy: 2, 2
+  size: 549, 1030
+  orig: 553, 1034
+  offset: 2, 2
+  index: -1
+Layer 552 copy 14
+  rotate: false
+  xy: 553, 24
+  size: 429, 69
+  orig: 433, 73
+  offset: 2, 2
+  index: -1
+Layer 558 copy 14
+  rotate: false
+  xy: 1029, 827
+  size: 543, 205
+  orig: 545, 212
+  offset: 1, 1
+  index: -1
+Light
+  rotate: true
+  xy: 1740, 117
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light Vien
+  rotate: false
+  xy: 1747, 422
+  size: 87, 291
+  orig: 99, 307
+  offset: 6, 8
+  index: -1
+Light copy 30
+  rotate: true
+  xy: 1740, 18
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 30sd
+  rotate: false
+  xy: 1747, 368
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 31
+  rotate: false
+  xy: 1747, 368
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 41
+  rotate: true
+  xy: 1790, 269
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light kc1
+  rotate: true
+  xy: 1447, 10
+  size: 75, 40
+  orig: 83, 47
+  offset: 4, 4
+  index: -1
+Light kc2
+  rotate: true
+  xy: 1795, 911
+  size: 121, 66
+  orig: 131, 73
+  offset: 5, 4
+  index: -1
+Light kc3
+  rotate: true
+  xy: 1533, 757
+  size: 68, 36
+  orig: 75, 41
+  offset: 4, 3
+  index: -1
+Light kc4
+  rotate: true
+  xy: 1795, 788
+  size: 121, 66
+  orig: 131, 73
+  offset: 5, 4
+  index: -1
+Mat1 copy 2
+  rotate: true
+  xy: 1504, 86
+  size: 141, 43
+  orig: 150, 49
+  offset: 1, 4
+  index: -1
+Mat2 copy 2
+  rotate: true
+  xy: 1740, 216
+  size: 141, 48
+  orig: 153, 58
+  offset: 1, 4
+  index: -1
+Mat3  copy 2
+  rotate: true
+  xy: 1447, 87
+  size: 140, 55
+  orig: 148, 64
+  offset: 2, 3
+  index: -1
+TayPhai2
+  rotate: false
+  xy: 1574, 715
+  size: 219, 317
+  orig: 223, 323
+  offset: 3, 2
+  index: -1
+TayPhai3
+  rotate: false
+  xy: 1398, 229
+  size: 149, 274
+  orig: 152, 277
+  offset: 2, 2
+  index: -1
+Than
+  rotate: false
+  xy: 553, 530
+  size: 474, 502
+  orig: 488, 535
+  offset: 2, 12
+  index: -1
+VuongMien1
+  rotate: true
+  xy: 1549, 359
+  size: 354, 196
+  orig: 356, 204
+  offset: 1, 6
+  index: -1
+VuongMien2
+  rotate: true
+  xy: 1549, 3
+  size: 354, 189
+  orig: 356, 192
+  offset: 1, 1
+  index: -1

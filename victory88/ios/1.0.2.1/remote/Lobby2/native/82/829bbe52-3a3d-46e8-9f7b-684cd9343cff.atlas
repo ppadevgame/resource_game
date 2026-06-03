@@ -1,0 +1,118 @@
+
+XocDia.png
+size: 1776,1519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 417
+  size: 545, 1026
+  orig: 545, 1026
+  offset: 0, 0
+  index: -1
+BanTayPhai
+  rotate: true
+  xy: 1324, 2
+  size: 167, 155
+  orig: 167, 155
+  offset: 0, 0
+  index: -1
+BanTayTrai
+  rotate: true
+  xy: 750, 83
+  size: 80, 126
+  orig: 80, 126
+  offset: 0, 0
+  index: -1
+Bat
+  rotate: false
+  xy: 2, 31
+  size: 416, 384
+  orig: 416, 384
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 1482, 469
+  size: 292, 305
+  orig: 292, 305
+  offset: 0, 0
+  index: -1
+Dia
+  rotate: true
+  xy: 1482, 34
+  size: 433, 270
+  orig: 433, 270
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 1038, 776
+  size: 714, 741
+  orig: 714, 741
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 420, 77
+  size: 298, 83
+  orig: 298, 83
+  offset: 0, 0
+  index: -1
+LightBat
+  rotate: false
+  xy: 1024, 2
+  size: 298, 167
+  orig: 298, 167
+  offset: 0, 0
+  index: -1
+Mat1
+  rotate: true
+  xy: 958, 165
+  size: 124, 31
+  orig: 124, 31
+  offset: 0, 0
+  index: -1
+Mat2
+  rotate: true
+  xy: 991, 165
+  size: 124, 31
+  orig: 124, 31
+  offset: 0, 0
+  index: -1
+Mat3
+  rotate: true
+  xy: 958, 291
+  size: 124, 40
+  orig: 124, 40
+  offset: 0, 0
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 420, 162
+  size: 94, 328
+  orig: 94, 328
+  offset: 0, 0
+  index: -1
+TextXocDia
+  rotate: false
+  xy: 420, 258
+  size: 536, 157
+  orig: 536, 157
+  offset: 0, 0
+  index: -1
+Than
+  rotate: false
+  xy: 1030, 171
+  size: 450, 603
+  orig: 450, 603
+  offset: 0, 0
+  index: -1
+Vien
+  rotate: true
+  xy: 2, 964
+  size: 553, 1034
+  orig: 553, 1034
+  offset: 0, 0
+  index: -1
