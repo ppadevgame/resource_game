@@ -1,0 +1,174 @@
+
+LoDe3Mien.png
+size: 1589,1543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3MienText
+  rotate: true
+  xy: 859, 67
+  size: 512, 185
+  orig: 521, 195
+  offset: 5, 4
+  index: -1
+Ball12
+  rotate: false
+  xy: 1380, 386
+  size: 202, 210
+  orig: 204, 212
+  offset: 1, 1
+  index: -1
+Ball9
+  rotate: false
+  xy: 1046, 102
+  size: 332, 332
+  orig: 342, 342
+  offset: 5, 5
+  index: -1
+BanTayTrai
+  rotate: true
+  xy: 1126, 436
+  size: 182, 156
+  orig: 187, 159
+  offset: 2, 2
+  index: -1
+Dau
+  rotate: false
+  xy: 975, 620
+  size: 329, 376
+  orig: 333, 379
+  offset: 2, 2
+  index: -1
+GPhai
+  rotate: false
+  xy: 1380, 109
+  size: 132, 126
+  orig: 141, 135
+  offset: 5, 5
+  index: -1
+GTrai
+  rotate: false
+  xy: 1380, 109
+  size: 132, 126
+  orig: 141, 135
+  offset: 5, 5
+  index: -1
+GTraiDuoi
+  rotate: false
+  xy: 1380, 2
+  size: 113, 105
+  orig: 124, 114
+  offset: 5, 4
+  index: -1
+Layer 1
+  rotate: true
+  xy: 553, 998
+  size: 543, 1024
+  orig: 545, 1026
+  offset: 1, 1
+  index: -1
+Layer 21 copy 14
+  rotate: false
+  xy: 2, 511
+  size: 549, 1030
+  orig: 553, 1034
+  offset: 2, 2
+  index: -1
+Layer 552 copy 13
+  rotate: true
+  xy: 553, 567
+  size: 429, 69
+  orig: 433, 73
+  offset: 2, 2
+  index: -1
+Layer 558 copy 13
+  rotate: true
+  xy: 652, 26
+  size: 543, 205
+  orig: 545, 212
+  offset: 1, 1
+  index: -1
+Light
+  rotate: false
+  xy: 1306, 846
+  size: 281, 150
+  orig: 298, 167
+  offset: 9, 8
+  index: -1
+Light copy 4
+  rotate: false
+  xy: 553, 513
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 5
+  rotate: false
+  xy: 859, 13
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+LoDeText
+  rotate: true
+  xy: 624, 571
+  size: 425, 226
+  orig: 437, 239
+  offset: 6, 6
+  index: -1
+Mat1
+  rotate: true
+  xy: 1046, 436
+  size: 148, 31
+  orig: 153, 38
+  offset: 3, 2
+  index: -1
+Mat2
+  rotate: false
+  xy: 975, 586
+  size: 149, 32
+  orig: 153, 38
+  offset: 2, 2
+  index: -1
+Mat3
+  rotate: false
+  xy: 958, 28
+  size: 148, 37
+  orig: 153, 42
+  offset: 3, 2
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 852, 581
+  size: 121, 415
+  orig: 124, 417
+  offset: 2, 1
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 1306, 598
+  size: 102, 265
+  orig: 113, 274
+  offset: 9, 7
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 1306, 702
+  size: 142, 281
+  orig: 152, 290
+  offset: 5, 7
+  index: -1
+Than
+  rotate: true
+  xy: 2, 15
+  size: 494, 620
+  orig: 536, 628
+  offset: 8, 1
+  index: -1
+VuongMien copy 2
+  rotate: false
+  xy: 1380, 237
+  size: 200, 147
+  orig: 203, 149
+  offset: 1, 1
+  index: -1

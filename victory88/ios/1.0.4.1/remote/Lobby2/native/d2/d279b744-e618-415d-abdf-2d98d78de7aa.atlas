@@ -1,0 +1,202 @@
+
+SexyAE.png
+size: 1340,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1139, 136
+  size: 52, 74
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1225, 18
+  size: 82, 97
+  orig: 86, 100
+  offset: 1, 0
+  index: -1
+3
+  rotate: false
+  xy: 787, 5
+  size: 93, 106
+  orig: 98, 107
+  offset: 2, 1
+  index: -1
+4
+  rotate: true
+  xy: 1225, 201
+  size: 110, 113
+  orig: 113, 113
+  offset: 1, 0
+  index: -1
+5
+  rotate: true
+  xy: 1225, 117
+  size: 82, 112
+  orig: 85, 112
+  offset: 1, 0
+  index: -1
+6
+  rotate: true
+  xy: 992, 317
+  size: 63, 88
+  orig: 65, 90
+  offset: 2, 2
+  index: -1
+ARoTrai
+  rotate: true
+  xy: 1139, 212
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1
+BichPhai
+  rotate: false
+  xy: 1139, 299
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+BichTrai
+  rotate: true
+  xy: 725, 8
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: true
+  xy: 882, 8
+  size: 103, 111
+  orig: 103, 112
+  offset: 0, 1
+  index: -1
+Hong
+  rotate: true
+  xy: 992, 130
+  size: 181, 145
+  orig: 185, 161
+  offset: 2, 15
+  index: -1
+Layer 22
+  rotate: false
+  xy: 2, 50
+  size: 251, 471
+  orig: 251, 471
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 506, 63
+  size: 243, 458
+  orig: 243, 458
+  offset: 0, 0
+  index: -1
+Layer 41's Outer Glow
+  rotate: false
+  xy: 751, 113
+  size: 239, 408
+  orig: 245, 423
+  offset: 2, 13
+  index: -1
+Levels 1 copy
+  rotate: false
+  xy: 255, 52
+  size: 249, 469
+  orig: 249, 470
+  offset: 0, 1
+  index: -1
+Light
+  rotate: false
+  xy: 208, 13
+  size: 246, 35
+  orig: 246, 35
+  offset: 0, 0
+  index: -1
+Logo
+  rotate: false
+  xy: 1047, 15
+  size: 176, 113
+  orig: 176, 113
+  offset: 0, 0
+  index: -1
+Mat1 copy 5
+  rotate: true
+  xy: 17, 4
+  size: 44, 10
+  orig: 45, 11
+  offset: 1, 1
+  index: -1
+Mat2 copy 5
+  rotate: true
+  xy: 456, 3
+  size: 47, 12
+  orig: 49, 14
+  offset: 1, 1
+  index: -1
+Mat3 copy 5
+  rotate: true
+  xy: 2, 2
+  size: 46, 13
+  orig: 49, 16
+  offset: 2, 1
+  index: -1
+RoPhai
+  rotate: false
+  xy: 673, 4
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 995, 11
+  size: 117, 50
+  orig: 118, 51
+  offset: 1, 1
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 1207, 387
+  size: 134, 123
+  orig: 134, 124
+  offset: 0, 1
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 103, 11
+  size: 103, 37
+  orig: 104, 39
+  offset: 0, 1
+  index: -1
+TayTrai3
+  rotate: false
+  xy: 29, 10
+  size: 72, 38
+  orig: 72, 39
+  offset: 0, 1
+  index: -1
+Than
+  rotate: true
+  xy: 995, 382
+  size: 139, 210
+  orig: 172, 320
+  offset: 9, 109
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 470, 30
+  size: 201, 20
+  orig: 270, 34
+  offset: 16, 14
+  index: -1
+tayPhai1
+  rotate: true
+  xy: 1207, 313
+  size: 72, 118
+  orig: 72, 120
+  offset: 0, 2
+  index: -1

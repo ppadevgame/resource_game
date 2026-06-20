@@ -1,0 +1,111 @@
+
+MiniXocDia.png
+size: 1436,763
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bat
+  rotate: false
+  xy: 555, 46
+  size: 351, 253
+  orig: 353, 255
+  offset: 1, 1
+  index: -1
+Dia
+  rotate: false
+  xy: 555, 301
+  size: 518, 262
+  orig: 520, 270
+  offset: 1, 2
+  index: -1
+GoldPhai1
+  rotate: true
+  xy: 1060, 7
+  size: 117, 139
+  orig: 123, 147
+  offset: 3, 4
+  index: -1
+GoldTrai1
+  rotate: false
+  xy: 362, 104
+  size: 103, 106
+  orig: 110, 112
+  offset: 3, 3
+  index: -1
+Layer 21 copy 20
+  rotate: false
+  xy: 2, 212
+  size: 551, 549
+  orig: 556, 553
+  offset: 3, 2
+  index: -1
+Layer 3
+  rotate: true
+  xy: 1242, 464
+  size: 297, 181
+  orig: 319, 201
+  offset: 9, 10
+  index: -1
+Layer 60 copy 5
+  rotate: false
+  xy: 555, 565
+  size: 685, 196
+  orig: 687, 198
+  offset: 1, 1
+  index: -1
+Layer 75 copy 2
+  rotate: true
+  xy: 1394, 144
+  size: 42, 37
+  orig: 47, 41
+  offset: 1, 2
+  index: -1
+LightChipTrong copy
+  rotate: true
+  xy: 908, 18
+  size: 281, 150
+  orig: 298, 167
+  offset: 9, 8
+  index: -1
+Mini
+  rotate: true
+  xy: 1394, 326
+  size: 136, 40
+  orig: 138, 42
+  offset: 1, 1
+  index: -1
+Mini2
+  rotate: true
+  xy: 1394, 188
+  size: 136, 40
+  orig: 138, 42
+  offset: 1, 1
+  index: -1
+Text
+  rotate: false
+  xy: 2, 107
+  size: 358, 103
+  orig: 361, 106
+  offset: 2, 2
+  index: -1
+Text copy
+  rotate: false
+  xy: 2, 2
+  size: 358, 103
+  orig: 361, 106
+  offset: 2, 2
+  index: -1
+Vangtren
+  rotate: true
+  xy: 1075, 126
+  size: 437, 147
+  orig: 444, 152
+  offset: 4, 3
+  index: -1
+Vangtren copy
+  rotate: true
+  xy: 1224, 2
+  size: 460, 168
+  orig: 467, 175
+  offset: 4, 4
+  index: -1
