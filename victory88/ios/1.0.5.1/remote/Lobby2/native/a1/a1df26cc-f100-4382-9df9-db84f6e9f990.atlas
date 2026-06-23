@@ -1,0 +1,164 @@
+
+Avia.png
+size: 3065,1391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dau
+  rotate: true
+  xy: 2594, 496
+  size: 477, 469
+  orig: 481, 472
+  offset: 2, 2
+  index: -1
+Layer 21
+  rotate: false
+  xy: 719, 1276
+  size: 1066, 113
+  orig: 1068, 135
+  offset: 1, 11
+  index: -1
+Layer 24
+  rotate: false
+  xy: 2, 1378
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+Mat1 copy 7
+  rotate: false
+  xy: 460, 1314
+  size: 257, 75
+  orig: 271, 87
+  offset: 7, 6
+  index: -1
+Mat2 copy 7
+  rotate: false
+  xy: 15, 1356
+  size: 219, 33
+  orig: 227, 36
+  offset: 5, 1
+  index: -1
+Mat3 copy 7
+  rotate: false
+  xy: 236, 1336
+  size: 222, 53
+  orig: 228, 60
+  offset: 4, 2
+  index: -1
+TayPhai
+  rotate: true
+  xy: 1787, 1154
+  size: 235, 840
+  orig: 238, 843
+  offset: 2, 1
+  index: -1
+TayTrai1
+  rotate: false
+  xy: 2629, 975
+  size: 431, 414
+  orig: 441, 418
+  offset: 1, 2
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 583, 263
+  size: 609, 686
+  orig: 612, 689
+  offset: 1, 1
+  index: -1
+Text1
+  rotate: false
+  xy: 2, 600
+  size: 579, 449
+  orig: 583, 454
+  offset: 2, 1
+  index: -1
+Text2
+  rotate: false
+  xy: 2, 1051
+  size: 633, 261
+  orig: 662, 279
+  offset: 15, 9
+  index: -1
+TextPhai
+  rotate: false
+  xy: 637, 951
+  size: 617, 323
+  orig: 621, 329
+  offset: 3, 2
+  index: -1
+TextShadow
+  rotate: false
+  xy: 1875, 737
+  size: 717, 415
+  orig: 759, 461
+  offset: 30, 34
+  index: -1
+TextTrai
+  rotate: false
+  xy: 1256, 829
+  size: 617, 323
+  orig: 621, 329
+  offset: 1, 2
+  index: -1
+Than
+  rotate: true
+  xy: 1194, 2
+  size: 733, 1162
+  orig: 748, 1164
+  offset: 13, 1
+  index: -1
+
+Avia2.png
+size: 2052,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 2, 2
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1
+
+Avia3.png
+size: 2130,2030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 23
+  rotate: false
+  xy: 1070, 22
+  size: 1058, 2006
+  orig: 1060, 2008
+  offset: 1, 1
+  index: -1
+Rectangle 1 copy
+  rotate: false
+  xy: 2, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1
+
+Avia4.png
+size: 2471,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 22
+  rotate: false
+  xy: 1062, 611
+  size: 1407, 1397
+  orig: 1430, 1438
+  offset: 1, 23
+  index: -1
+Layer 23 copy
+  rotate: false
+  xy: 2, 2
+  size: 1058, 2006
+  orig: 1060, 2008
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,139 @@
+
+Hu.png
+size: 774,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GPHai2
+  rotate: false
+  xy: 590, 91
+  size: 92, 93
+  orig: 102, 104
+  offset: 5, 5
+  index: -1
+GPHai3
+  rotate: false
+  xy: 394, 84
+  size: 96, 98
+  orig: 106, 108
+  offset: 5, 5
+  index: -1
+GPhai1
+  rotate: true
+  xy: 684, 99
+  size: 90, 88
+  orig: 101, 98
+  offset: 5, 5
+  index: -1
+GPhai4
+  rotate: true
+  xy: 492, 84
+  size: 98, 96
+  orig: 109, 106
+  offset: 5, 5
+  index: -1
+GPhai5
+  rotate: true
+  xy: 495, 186
+  size: 98, 96
+  orig: 109, 106
+  offset: 6, 5
+  index: -1
+GTrai1
+  rotate: true
+  xy: 720, 52
+  size: 45, 47
+  orig: 49, 51
+  offset: 2, 2
+  index: -1
+GTrai2
+  rotate: false
+  xy: 629, 2
+  size: 89, 87
+  orig: 101, 98
+  offset: 6, 6
+  index: -1
+GTrai3
+  rotate: true
+  xy: 685, 197
+  size: 87, 86
+  orig: 98, 97
+  offset: 6, 6
+  index: -1
+GTrai4
+  rotate: true
+  xy: 394, 184
+  size: 100, 99
+  orig: 110, 109
+  offset: 5, 5
+  index: -1
+Hu
+  rotate: true
+  xy: 2, 67
+  size: 217, 194
+  orig: 225, 200
+  offset: 4, 3
+  index: -1
+Hu2
+  rotate: true
+  xy: 198, 67
+  size: 217, 194
+  orig: 225, 200
+  offset: 4, 3
+  index: -1
+Layer 2
+  rotate: false
+  xy: 234, 21
+  size: 126, 44
+  orig: 133, 48
+  offset: 4, 1
+  index: -1
+Light 1
+  rotate: true
+  xy: 593, 191
+  size: 93, 90
+  orig: 108, 101
+  offset: 8, 5
+  index: -1
+Light 2
+  rotate: false
+  xy: 720, 14
+  size: 36, 36
+  orig: 43, 41
+  offset: 3, 3
+  index: -1
+sc
+  rotate: false
+  xy: 2, 9
+  size: 230, 56
+  orig: 232, 58
+  offset: 1, 1
+  index: -1
+xx 1
+  rotate: true
+  xy: 428, 10
+  size: 72, 68
+  orig: 74, 70
+  offset: 1, 1
+  index: -1
+xx 1.png copy
+  rotate: true
+  xy: 498, 10
+  size: 72, 68
+  orig: 74, 70
+  offset: 1, 1
+  index: -1
+xx 2
+  rotate: false
+  xy: 362, 6
+  size: 64, 59
+  orig: 66, 61
+  offset: 1, 1
+  index: -1
+xx 2.png copy
+  rotate: true
+  xy: 568, 18
+  size: 64, 59
+  orig: 66, 61
+  offset: 1, 1
+  index: -1

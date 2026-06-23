@@ -1,0 +1,139 @@
+
+EvolutionGaming.png
+size: 1861,1545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanTayTrai
+  rotate: false
+  xy: 851, 177
+  size: 281, 340
+  orig: 283, 342
+  offset: 1, 1
+  index: -1
+Dau
+  rotate: true
+  xy: 2, 47
+  size: 464, 440
+  orig: 467, 445
+  offset: 1, 2
+  index: -1
+Layer 21 copy 11
+  rotate: false
+  xy: 2, 513
+  size: 549, 1030
+  orig: 553, 1034
+  offset: 2, 2
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1098, 619
+  size: 527, 924
+  orig: 529, 926
+  offset: 1, 1
+  index: -1
+Layer 32 copy 8
+  rotate: false
+  xy: 553, 519
+  size: 543, 1024
+  orig: 545, 1026
+  offset: 1, 1
+  index: -1
+Layer 552 copy 4
+  rotate: true
+  xy: 444, 82
+  size: 429, 69
+  orig: 433, 73
+  offset: 2, 2
+  index: -1
+Layer 558 copy 4
+  rotate: true
+  xy: 1627, 1000
+  size: 543, 205
+  orig: 545, 212
+  offset: 1, 1
+  index: -1
+Light copy 27
+  rotate: false
+  xy: 665, 119
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 28
+  rotate: true
+  xy: 829, 74
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 29
+  rotate: true
+  xy: 829, 74
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+LightBat copy 5
+  rotate: true
+  xy: 665, 173
+  size: 344, 184
+  orig: 365, 204
+  offset: 11, 9
+  index: -1
+Mat1 copy 9
+  rotate: true
+  xy: 770, 18
+  size: 153, 57
+  orig: 160, 63
+  offset: 3, 2
+  index: -1
+Mat2 copy 9
+  rotate: false
+  xy: 610, 24
+  size: 158, 61
+  orig: 165, 67
+  offset: 2, 4
+  index: -1
+Mat3 copy 9
+  rotate: false
+  xy: 444, 8
+  size: 164, 72
+  orig: 170, 77
+  offset: 3, 2
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 515, 87
+  size: 148, 424
+  orig: 151, 427
+  offset: 2, 1
+  index: -1
+TayPhai2
+  rotate: false
+  xy: 2, 2
+  size: 340, 43
+  orig: 347, 46
+  offset: 3, 1
+  index: -1
+Text1
+  rotate: true
+  xy: 1678, 464
+  size: 534, 181
+  orig: 536, 183
+  offset: 1, 1
+  index: -1
+Text2
+  rotate: true
+  xy: 1678, 464
+  size: 534, 181
+  orig: 536, 183
+  offset: 1, 1
+  index: -1
+Than
+  rotate: false
+  xy: 1134, 45
+  size: 542, 572
+  orig: 546, 600
+  offset: 1, 1
+  index: -1

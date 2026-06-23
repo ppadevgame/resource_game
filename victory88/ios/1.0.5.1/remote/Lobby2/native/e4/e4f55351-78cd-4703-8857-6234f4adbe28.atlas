@@ -1,0 +1,146 @@
+
+Baccarat.png
+size: 2896,757
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1038, 6
+  size: 83, 97
+  orig: 87, 101
+  offset: 2, 2
+  index: -1
+2
+  rotate: false
+  xy: 777, 6
+  size: 85, 97
+  orig: 90, 101
+  offset: 3, 2
+  index: -1
+3
+  rotate: false
+  xy: 1123, 2
+  size: 73, 101
+  orig: 81, 105
+  offset: 2, 2
+  index: -1
+4
+  rotate: false
+  xy: 1151, 117
+  size: 72, 101
+  orig: 77, 105
+  offset: 2, 2
+  index: -1
+5
+  rotate: false
+  xy: 864, 6
+  size: 85, 97
+  orig: 90, 101
+  offset: 2, 2
+  index: -1
+6
+  rotate: false
+  xy: 951, 6
+  size: 85, 97
+  orig: 90, 101
+  offset: 2, 2
+  index: -1
+7
+  rotate: false
+  xy: 689, 6
+  size: 86, 97
+  orig: 92, 101
+  offset: 3, 2
+  index: -1
+8
+  rotate: false
+  xy: 1198, 17
+  size: 72, 98
+  orig: 76, 102
+  offset: 2, 2
+  index: -1
+Baccarat1
+  rotate: false
+  xy: 689, 105
+  size: 460, 103
+  orig: 468, 108
+  offset: 4, 3
+  index: -1
+Banner
+  rotate: false
+  xy: 2, 8
+  size: 685, 196
+  orig: 687, 198
+  offset: 1, 1
+  index: -1
+ChipVang
+  rotate: true
+  xy: 2163, 347
+  size: 408, 393
+  orig: 414, 399
+  offset: 3, 3
+  index: -1
+LaBai
+  rotate: false
+  xy: 2163, 8
+  size: 452, 337
+  orig: 462, 339
+  offset: 1, 1
+  index: -1
+Layer 21 copy 17
+  rotate: true
+  xy: 2, 206
+  size: 549, 548
+  orig: 553, 552
+  offset: 2, 2
+  index: -1
+Layer 60 copy 2
+  rotate: true
+  xy: 1631, 224
+  size: 531, 530
+  orig: 535, 534
+  offset: 2, 2
+  index: -1
+Layer 74 copy 6
+  rotate: true
+  xy: 552, 210
+  size: 545, 541
+  orig: 556, 552
+  offset: 5, 5
+  index: -1
+Layer 75 copy 6
+  rotate: true
+  xy: 1225, 176
+  size: 42, 37
+  orig: 47, 41
+  offset: 1, 2
+  index: -1
+Layer 79 copy
+  rotate: true
+  xy: 1095, 220
+  size: 535, 534
+  orig: 539, 538
+  offset: 2, 2
+  index: -1
+LightChipTrong copy 4
+  rotate: false
+  xy: 1272, 68
+  size: 281, 150
+  orig: 298, 167
+  offset: 9, 8
+  index: -1
+VuongMien1
+  rotate: true
+  xy: 2617, 5
+  size: 347, 277
+  orig: 349, 279
+  offset: 1, 1
+  index: -1
+VuongMien2
+  rotate: true
+  xy: 2558, 354
+  size: 401, 333
+  orig: 408, 339
+  offset: 4, 3
+  index: -1

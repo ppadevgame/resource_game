@@ -1,0 +1,178 @@
+
+Casing.png
+size: 3000,1874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaiPhai1
+  rotate: true
+  xy: 1410, 1341
+  size: 369, 552
+  orig: 371, 554
+  offset: 1, 1
+  index: -1
+BaiPhai2
+  rotate: false
+  xy: 1964, 1284
+  size: 392, 382
+  orig: 394, 384
+  offset: 1, 1
+  index: -1
+BaiTrai1
+  rotate: true
+  xy: 218, 1525
+  size: 258, 320
+  orig: 260, 323
+  offset: 1, 2
+  index: -1
+BaiTrai2
+  rotate: true
+  xy: 962, 1414
+  size: 343, 446
+  orig: 345, 448
+  offset: 1, 1
+  index: -1
+Chan
+  rotate: false
+  xy: 2030, 538
+  size: 725, 568
+  orig: 737, 572
+  offset: 1, 1
+  index: -1
+ChipDo
+  rotate: true
+  xy: 540, 1446
+  size: 311, 420
+  orig: 369, 478
+  offset: 57, 1
+  index: -1
+ChipXanhj
+  rotate: true
+  xy: 2104, 1690
+  size: 182, 186
+  orig: 184, 188
+  offset: 1, 1
+  index: -1
+Dau
+  rotate: true
+  xy: 2358, 1108
+  size: 558, 634
+  orig: 560, 639
+  offset: 1, 3
+  index: -1
+Layer 32
+  rotate: false
+  xy: 625, 1759
+  size: 1066, 113
+  orig: 1068, 135
+  offset: 1, 11
+  index: -1
+Mat1 copy 6
+  rotate: false
+  xy: 208, 1798
+  size: 206, 74
+  orig: 213, 87
+  offset: 4, 10
+  index: -1
+Mat2 copy 6
+  rotate: false
+  xy: 2, 1800
+  size: 204, 72
+  orig: 215, 89
+  offset: 7, 12
+  index: -1
+Mat3 copy 6
+  rotate: false
+  xy: 416, 1785
+  size: 207, 87
+  orig: 218, 94
+  offset: 9, 2
+  index: -1
+Ro
+  rotate: false
+  xy: 2, 1589
+  size: 214, 207
+  orig: 216, 209
+  offset: 1, 1
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 2292, 1668
+  size: 204, 706
+  orig: 207, 711
+  offset: 2, 2
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 1693, 1712
+  size: 160, 409
+  orig: 164, 412
+  offset: 2, 1
+  index: -1
+Text
+  rotate: false
+  xy: 2, 989
+  size: 1012, 423
+  orig: 1014, 426
+  offset: 1, 1
+  index: -1
+Text copy
+  rotate: false
+  xy: 1016, 859
+  size: 1012, 423
+  orig: 1014, 426
+  offset: 1, 1
+  index: -1
+Than
+  rotate: true
+  xy: 2, 2
+  size: 855, 1318
+  orig: 861, 1324
+  offset: 2, 3
+  index: -1
+
+Casing2.png
+size: 2052,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 2, 2
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1
+
+Casing3.png
+size: 2030,1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1 copy
+  rotate: true
+  xy: 2, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1
+
+Casing4.png
+size: 2098,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: false
+  xy: 2, 2
+  size: 1046, 2006
+  orig: 1048, 2008
+  offset: 1, 1
+  index: -1
+Layer 39 copy
+  rotate: false
+  xy: 1050, 2
+  size: 1046, 2006
+  orig: 1048, 2008
+  offset: 1, 1
+  index: -1

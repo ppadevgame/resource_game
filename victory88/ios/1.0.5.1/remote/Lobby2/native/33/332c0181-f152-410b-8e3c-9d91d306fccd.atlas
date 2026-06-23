@@ -1,0 +1,265 @@
+
+BauCua.png
+size: 1264,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 1223, 70
+  size: 37, 84
+  orig: 38, 89
+  offset: 1, 2
+  index: -1
+A1 copy
+  rotate: true
+  xy: 204, 36
+  size: 37, 84
+  orig: 38, 89
+  offset: 1, 2
+  index: -1
+A2
+  rotate: true
+  xy: 1193, 334
+  size: 116, 64
+  orig: 118, 68
+  offset: 0, 2
+  index: -1
+A2 copy
+  rotate: true
+  xy: 1193, 216
+  size: 116, 64
+  orig: 118, 68
+  offset: 0, 2
+  index: -1
+AnhSang
+  rotate: true
+  xy: 204, 75
+  size: 137, 136
+  orig: 137, 136
+  offset: 0, 0
+  index: -1
+B
+  rotate: true
+  xy: 935, 5
+  size: 46, 65
+  orig: 48, 75
+  offset: 2, 2
+  index: -1
+B copy
+  rotate: true
+  xy: 1002, 5
+  size: 46, 65
+  orig: 48, 75
+  offset: 2, 2
+  index: -1
+BG
+  rotate: true
+  xy: 475, 275
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+BG copy
+  rotate: false
+  xy: 945, 53
+  size: 246, 468
+  orig: 246, 469
+  offset: 0, 1
+  index: -1
+BatMo
+  rotate: true
+  xy: 352, 144
+  size: 124, 111
+  orig: 128, 115
+  offset: 2, 2
+  index: -1
+Batup
+  rotate: true
+  xy: 342, 17
+  size: 125, 103
+  orig: 129, 107
+  offset: 2, 2
+  index: -1
+C
+  rotate: false
+  xy: 1223, 4
+  size: 37, 64
+  orig: 37, 68
+  offset: 0, 2
+  index: -1
+C copy
+  rotate: false
+  xy: 290, 9
+  size: 37, 64
+  orig: 37, 68
+  offset: 0, 2
+  index: -1
+Dau
+  rotate: true
+  xy: 2, 2
+  size: 108, 115
+  orig: 108, 116
+  offset: 0, 1
+  index: -1
+Hong
+  rotate: true
+  xy: 726, 101
+  size: 172, 167
+  orig: 177, 198
+  offset: 5, 30
+  index: -1
+ItemPhai
+  rotate: true
+  xy: 119, 21
+  size: 89, 83
+  orig: 93, 87
+  offset: 2, 2
+  index: -1
+ItemsTrai
+  rotate: true
+  xy: 1193, 452
+  size: 69, 67
+  orig: 73, 71
+  offset: 2, 2
+  index: -1
+Layer 22
+  rotate: true
+  xy: 2, 270
+  size: 251, 471
+  orig: 251, 471
+  offset: 0, 0
+  index: -1
+Layer 51
+  rotate: false
+  xy: 475, 51
+  size: 249, 222
+  orig: 305, 260
+  offset: 24, 18
+  index: -1
+Layer 58
+  rotate: false
+  xy: 204, 214
+  size: 146, 54
+  orig: 150, 58
+  offset: 2, 2
+  index: -1
+Light Trai
+  rotate: true
+  xy: 864, 40
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+LightTrai2
+  rotate: true
+  xy: 864, 40
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+LightPhai
+  rotate: false
+  xy: 881, 38
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+Mat1
+  rotate: false
+  xy: 119, 5
+  size: 44, 14
+  orig: 46, 16
+  offset: 1, 1
+  index: -1
+Mat2
+  rotate: false
+  xy: 204, 20
+  size: 45, 14
+  orig: 46, 16
+  offset: 1, 1
+  index: -1
+Mat3
+  rotate: true
+  xy: 864, 55
+  size: 44, 16
+  orig: 46, 17
+  offset: 2, 0
+  index: -1
+Nguc
+  rotate: false
+  xy: 726, 14
+  size: 136, 85
+  orig: 138, 87
+  offset: 1, 1
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 895, 37
+  size: 38, 129
+  orig: 39, 129
+  offset: 1, 0
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 864, 13
+  size: 22, 28
+  orig: 24, 30
+  offset: 1, 1
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 895, 168
+  size: 42, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 2, 112
+  size: 156, 200
+  orig: 186, 369
+  offset: 29, 168
+  index: -1
+Toc2
+  rotate: false
+  xy: 1223, 156
+  size: 39, 58
+  orig: 40, 64
+  offset: 0, 5
+  index: -1
+U1
+  rotate: true
+  xy: 1069, 11
+  size: 40, 64
+  orig: 124, 68
+  offset: 84, 2
+  index: -1
+U1 copy
+  rotate: true
+  xy: 1135, 11
+  size: 40, 64
+  orig: 124, 68
+  offset: 84, 2
+  index: -1
+U2
+  rotate: true
+  xy: 447, 14
+  size: 35, 64
+  orig: 35, 67
+  offset: 0, 2
+  index: -1
+U2 copy
+  rotate: true
+  xy: 513, 14
+  size: 35, 64
+  orig: 35, 67
+  offset: 0, 2
+  index: -1
+Vector Smart Object
+  rotate: true
+  xy: 1201, 13
+  size: 201, 20
+  orig: 270, 34
+  offset: 16, 14
+  index: -1

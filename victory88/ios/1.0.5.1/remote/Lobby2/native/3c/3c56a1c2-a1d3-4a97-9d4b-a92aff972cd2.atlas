@@ -1,0 +1,199 @@
+
+card_6.png
+size: 1985,1656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CoinPhai
+  rotate: false
+  xy: 513, 1366
+  size: 235, 180
+  orig: 237, 182
+  offset: 1, 1
+  index: -1
+CoinPhai copy
+  rotate: false
+  xy: 1221, 1318
+  size: 235, 180
+  orig: 237, 182
+  offset: 1, 1
+  index: -1
+CoinTrai
+  rotate: false
+  xy: 2, 1201
+  size: 256, 243
+  orig: 258, 245
+  offset: 1, 1
+  index: -1
+CoinTrai copy
+  rotate: true
+  xy: 260, 1188
+  size: 256, 243
+  orig: 258, 245
+  offset: 1, 1
+  index: -1
+Dau
+  rotate: false
+  xy: 2, 453
+  size: 519, 473
+  orig: 522, 476
+  offset: 2, 2
+  index: -1
+Entertaiment 2
+  rotate: false
+  xy: 2, 928
+  size: 1109, 182
+  orig: 1111, 184
+  offset: 1, 1
+  index: -1
+Entertaiment1
+  rotate: false
+  xy: 505, 1112
+  size: 1109, 182
+  orig: 1111, 184
+  offset: 1, 1
+  index: -1
+Hong
+  rotate: true
+  xy: 523, 2
+  size: 697, 790
+  orig: 710, 957
+  offset: 1, 156
+  index: -1
+Light copy 22
+  rotate: false
+  xy: 627, 1548
+  size: 198, 106
+  orig: 212, 118
+  offset: 7, 7
+  index: -1
+Mat1 copy 2
+  rotate: false
+  xy: 208, 1607
+  size: 206, 47
+  orig: 220, 60
+  offset: 7, 7
+  index: -1
+Mat2 copy 2
+  rotate: false
+  xy: 2, 1614
+  size: 204, 40
+  orig: 213, 45
+  offset: 5, 2
+  index: -1
+Mat3 copy 2
+  rotate: false
+  xy: 416, 1602
+  size: 209, 52
+  orig: 214, 58
+  offset: 3, 3
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 1616, 962
+  size: 339, 332
+  orig: 342, 336
+  offset: 2, 2
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 1458, 1296
+  size: 202, 525
+  orig: 205, 540
+  offset: 2, 14
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 750, 1366
+  size: 173, 469
+  orig: 177, 472
+  offset: 3, 1
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 1113, 701
+  size: 409, 432
+  orig: 411, 435
+  offset: 1, 2
+  index: -1
+Vector Smart Object copy 4
+  rotate: false
+  xy: 827, 1541
+  size: 537, 113
+  orig: 541, 117
+  offset: 2, 2
+  index: -1
+World
+  rotate: false
+  xy: 1366, 1500
+  size: 509, 154
+  orig: 511, 156
+  offset: 1, 1
+  index: -1
+World2
+  rotate: false
+  xy: 2, 1446
+  size: 509, 154
+  orig: 511, 156
+  offset: 1, 1
+  index: -1
+
+card_62.png
+size: 1802,1838
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: false
+  xy: 2, 2
+  size: 904, 1834
+  orig: 906, 1836
+  offset: 1, 1
+  index: -1
+Rectangle 1 copy
+  rotate: false
+  xy: 908, 14
+  size: 892, 1822
+  orig: 894, 1824
+  offset: 1, 1
+  index: -1
+
+card_63.png
+size: 1950,1777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 20
+  rotate: true
+  xy: 2, 899
+  size: 876, 1806
+  orig: 878, 1808
+  offset: 1, 1
+  index: -1
+Layer 21
+  rotate: true
+  xy: 2, 21
+  size: 876, 1033
+  orig: 878, 1294
+  offset: 1, 1
+  index: -1
+Than
+  rotate: false
+  xy: 1037, 2
+  size: 911, 895
+  orig: 920, 900
+  offset: 8, 2
+  index: -1
+
+card_64.png
+size: 1098,1556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light  copy
+  rotate: false
+  xy: 2, 2
+  size: 1094, 1552
+  orig: 1096, 1554
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,262 @@
+
+Aztec.png
+size: 3014,2028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aztec
+  rotate: false
+  xy: 342, 1437
+  size: 864, 277
+  orig: 866, 279
+  offset: 1, 1
+  index: -1
+Aztec copy
+  rotate: false
+  xy: 2, 1158
+  size: 864, 277
+  orig: 866, 279
+  offset: 1, 1
+  index: -1
+Bich
+  rotate: true
+  xy: 1543, 1008
+  size: 336, 362
+  orig: 356, 385
+  offset: 11, 11
+  index: -1
+Co
+  rotate: false
+  xy: 1208, 1389
+  size: 337, 312
+  orig: 356, 334
+  offset: 9, 12
+  index: -1
+Dau
+  rotate: true
+  xy: 2305, 816
+  size: 458, 541
+  orig: 461, 545
+  offset: 1, 2
+  index: -1
+Dau copy
+  rotate: true
+  xy: 2, 604
+  size: 552, 650
+  orig: 583, 670
+  offset: 17, 11
+  index: -1
+Layer 15
+  rotate: false
+  xy: 688, 1913
+  size: 1066, 113
+  orig: 1068, 135
+  offset: 1, 11
+  index: -1
+LightText
+  rotate: false
+  xy: 1227, 1703
+  size: 387, 208
+  orig: 409, 229
+  offset: 11, 10
+  index: -1
+LightText copy
+  rotate: false
+  xy: 1227, 1703
+  size: 387, 208
+  orig: 409, 229
+  offset: 11, 10
+  index: -1
+Mat1 copy 2
+  rotate: false
+  xy: 229, 1980
+  size: 226, 46
+  orig: 238, 55
+  offset: 6, 4
+  index: -1
+Mat2 copy 2
+  rotate: false
+  xy: 2, 1987
+  size: 225, 39
+  orig: 230, 41
+  offset: 3, 1
+  index: -1
+Mat3 copy 2
+  rotate: false
+  xy: 457, 1975
+  size: 229, 51
+  orig: 234, 55
+  offset: 3, 3
+  index: -1
+Ro
+  rotate: true
+  xy: 2, 1496
+  size: 282, 338
+  orig: 304, 364
+  offset: 9, 12
+  index: -1
+Slot
+  rotate: false
+  xy: 1756, 1901
+  size: 325, 125
+  orig: 327, 127
+  offset: 1, 1
+  index: -1
+Slot  copy
+  rotate: false
+  xy: 2083, 1901
+  size: 325, 125
+  orig: 327, 127
+  offset: 1, 1
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 2, 1780
+  size: 193, 623
+  orig: 197, 630
+  offset: 2, 5
+  index: -1
+TayPhai1 copy
+  rotate: true
+  xy: 2237, 1276
+  size: 302, 707
+  orig: 320, 732
+  offset: 9, 14
+  index: -1
+TayPhai2
+  rotate: false
+  xy: 2410, 1859
+  size: 347, 167
+  orig: 350, 170
+  offset: 2, 1
+  index: -1
+TayPhai2 copy
+  rotate: false
+  xy: 2240, 1582
+  size: 454, 275
+  orig: 474, 294
+  offset: 10, 9
+  index: -1
+TayPhai3
+  rotate: true
+  xy: 2696, 1580
+  size: 276, 300
+  orig: 280, 304
+  offset: 2, 2
+  index: -1
+TayPhai3 copy
+  rotate: true
+  xy: 1907, 895
+  size: 379, 396
+  orig: 398, 419
+  offset: 10, 12
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 627, 1716
+  size: 195, 598
+  orig: 220, 604
+  offset: 15, 4
+  index: -1
+TayTrai1 copy
+  rotate: true
+  xy: 1547, 1346
+  size: 278, 688
+  orig: 301, 710
+  offset: 13, 12
+  index: -1
+TayTrai2
+  rotate: false
+  xy: 2759, 1858
+  size: 253, 168
+  orig: 256, 171
+  offset: 2, 1
+  index: -1
+TayTrai2 copy
+  rotate: false
+  xy: 1881, 1626
+  size: 357, 273
+  orig: 378, 292
+  offset: 10, 9
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 1616, 1669
+  size: 230, 263
+  orig: 234, 271
+  offset: 2, 5
+  index: -1
+TayTrai3 copy
+  rotate: false
+  xy: 1204, 1031
+  size: 337, 356
+  orig: 358, 376
+  offset: 10, 10
+  index: -1
+Tep
+  rotate: false
+  xy: 868, 1090
+  size: 334, 345
+  orig: 354, 398
+  offset: 10, 12
+  index: -1
+Than
+  rotate: true
+  xy: 654, 2
+  size: 891, 1620
+  orig: 893, 1642
+  offset: 1, 20
+  index: -1
+
+Aztec2.png
+size: 2118,2030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 1070, 22
+  size: 1046, 2006
+  orig: 1048, 2008
+  offset: 1, 1
+  index: -1
+Rectangle 1 copy
+  rotate: false
+  xy: 2, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1
+
+Aztec3.png
+size: 2712,1723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 8
+  rotate: false
+  xy: 1645, 2
+  size: 1065, 1719
+  orig: 1082, 1757
+  offset: 8, 29
+  index: -1
+Than copy
+  rotate: true
+  xy: 2, 762
+  size: 959, 1641
+  orig: 991, 1672
+  offset: 17, 29
+  index: -1
+
+Aztec4.png
+size: 2052,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 2, 2
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1
