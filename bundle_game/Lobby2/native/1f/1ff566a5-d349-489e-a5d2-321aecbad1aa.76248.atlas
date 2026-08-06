@@ -1,0 +1,225 @@
+
+BiNgoMaQuai.png
+size: 2988,1823
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dau
+  rotate: true
+  xy: 2420, 717
+  size: 541, 544
+  orig: 559, 549
+  offset: 14, 2
+  index: -1
+Dau copy
+  rotate: true
+  xy: 2, 2
+  size: 715, 729
+  orig: 739, 754
+  offset: 11, 13
+  index: -1
+Layer 16
+  rotate: false
+  xy: 1138, 1031
+  size: 871, 372
+  orig: 874, 438
+  offset: 1, 65
+  index: -1
+Layer 19
+  rotate: false
+  xy: 1297, 1405
+  size: 988, 242
+  orig: 990, 244
+  offset: 1, 1
+  index: -1
+Layer 22
+  rotate: false
+  xy: 1756, 1671
+  size: 356, 150
+  orig: 359, 154
+  offset: 2, 2
+  index: -1
+Layer 23
+  rotate: false
+  xy: 2287, 1260
+  size: 682, 304
+  orig: 693, 309
+  offset: 6, 3
+  index: -1
+Layer 24
+  rotate: false
+  xy: 1482, 199
+  size: 1270, 516
+  orig: 1286, 541
+  offset: 8, 13
+  index: -1
+Layer 25
+  rotate: false
+  xy: 2, 1547
+  size: 592, 201
+  orig: 594, 203
+  offset: 1, 1
+  index: -1
+Mat1 copy 6
+  rotate: false
+  xy: 224, 1774
+  size: 223, 47
+  orig: 228, 56
+  offset: 2, 6
+  index: -1
+Mat2 copy 6
+  rotate: false
+  xy: 2, 1777
+  size: 220, 44
+  orig: 231, 58
+  offset: 7, 11
+  index: -1
+Mat3 copy 6
+  rotate: false
+  xy: 449, 1750
+  size: 237, 71
+  orig: 250, 80
+  offset: 6, 2
+  index: -1
+TayPHai1
+  rotate: true
+  xy: 596, 1480
+  size: 191, 699
+  orig: 199, 704
+  offset: 6, 3
+  index: -1
+TayPHai1 copy
+  rotate: true
+  xy: 2, 719
+  size: 388, 879
+  orig: 410, 906
+  offset: 10, 12
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 2641, 1566
+  size: 255, 345
+  orig: 262, 356
+  offset: 4, 7
+  index: -1
+TayPhai2 copy
+  rotate: true
+  xy: 2, 1188
+  size: 357, 430
+  orig: 405, 462
+  offset: 22, 20
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 2114, 1649
+  size: 172, 525
+  orig: 176, 530
+  offset: 1, 1
+  index: -1
+TayTrai2 copy
+  rotate: true
+  xy: 434, 1109
+  size: 369, 702
+  orig: 391, 732
+  offset: 10, 14
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 2011, 885
+  size: 373, 407
+  orig: 378, 410
+  offset: 2, 2
+  index: -1
+TayTrai3 copy
+  rotate: true
+  xy: 883, 475
+  size: 554, 597
+  orig: 584, 623
+  offset: 15, 13
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 688, 1673
+  size: 1066, 148
+  orig: 1068, 150
+  offset: 1, 1
+  index: -1
+
+BiNgoMaQuai2.png
+size: 2193,1873
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chan
+  rotate: true
+  xy: 2, 1057
+  size: 814, 848
+  orig: 938, 859
+  offset: 121, 8
+  index: -1
+Chan copy
+  rotate: true
+  xy: 852, 1011
+  size: 860, 938
+  orig: 989, 1010
+  offset: 76, 58
+  index: -1
+Than
+  rotate: true
+  xy: 2, 2
+  size: 1007, 2189
+  orig: 1040, 2193
+  offset: 30, 1
+  index: -1
+
+BiNgoMaQuai3.png
+size: 2010,1050
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 18
+  rotate: true
+  xy: 2, 2
+  size: 1046, 2006
+  orig: 1048, 2008
+  offset: 1, 1
+  index: -1
+
+BiNgoMaQuai4.png
+size: 2030,1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1 copy
+  rotate: true
+  xy: 2, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1
+
+BiNgoMaQuai5.png
+size: 2215,1090
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Than copy
+  rotate: true
+  xy: 2, 2
+  size: 1086, 2211
+  orig: 1146, 2214
+  offset: 10, 0
+  index: -1
+
+BiNgoMaQuai6.png
+size: 2052,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 2, 2
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1

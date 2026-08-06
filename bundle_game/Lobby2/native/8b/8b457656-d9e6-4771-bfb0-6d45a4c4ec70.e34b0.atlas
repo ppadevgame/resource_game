@@ -1,0 +1,199 @@
+
+BTi.png
+size: 3034,1512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1051, 1077
+  size: 318, 335
+  orig: 321, 337
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 2357, 985
+  size: 318, 337
+  orig: 321, 339
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 2696, 985
+  size: 318, 336
+  orig: 321, 338
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 677, 821
+  size: 319, 339
+  orig: 321, 341
+  offset: 1, 1
+  index: -1
+5
+  rotate: true
+  xy: 1018, 756
+  size: 319, 329
+  orig: 321, 331
+  offset: 1, 1
+  index: -1
+6
+  rotate: true
+  xy: 1349, 750
+  size: 319, 329
+  orig: 321, 331
+  offset: 1, 1
+  index: -1
+7
+  rotate: true
+  xy: 2, 870
+  size: 318, 332
+  orig: 321, 334
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 336, 822
+  size: 318, 339
+  orig: 321, 341
+  offset: 1, 1
+  index: -1
+BTI
+  rotate: false
+  xy: 2403, 1305
+  size: 430, 205
+  orig: 433, 209
+  offset: 2, 2
+  index: -1
+BTI2
+  rotate: false
+  xy: 2, 1190
+  size: 430, 205
+  orig: 433, 209
+  offset: 2, 2
+  index: -1
+Chan
+  rotate: true
+  xy: 2, 171
+  size: 648, 689
+  orig: 663, 774
+  offset: 6, 81
+  index: -1
+Dau
+  rotate: true
+  xy: 1904, 1031
+  size: 297, 451
+  orig: 297, 453
+  offset: 0, 2
+  index: -1
+Layer 38
+  rotate: false
+  xy: 392, 1397
+  size: 1066, 113
+  orig: 1068, 135
+  offset: 1, 11
+  index: -1
+Mat1
+  rotate: false
+  xy: 2, 1463
+  size: 193, 47
+  orig: 195, 49
+  offset: 1, 1
+  index: -1
+Mat2
+  rotate: false
+  xy: 197, 1460
+  size: 193, 50
+  orig: 195, 52
+  offset: 1, 1
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 434, 1142
+  size: 253, 615
+  orig: 257, 623
+  offset: 3, 5
+  index: -1
+TayPhai2
+  rotate: false
+  xy: 2021, 503
+  size: 639, 480
+  orig: 643, 485
+  offset: 3, 3
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 1460, 1330
+  size: 180, 941
+  orig: 187, 951
+  offset: 6, 7
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 1388, 1071
+  size: 257, 514
+  orig: 261, 522
+  offset: 1, 5
+  index: -1
+Text
+  rotate: true
+  xy: 1680, 710
+  size: 319, 339
+  orig: 321, 341
+  offset: 1, 1
+  index: -1
+Than
+  rotate: true
+  xy: 693, 2
+  size: 706, 1030
+  orig: 712, 1035
+  offset: 4, 2
+  index: -1
+
+BTi2.png
+size: 2052,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 2, 2
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1
+
+BTi3.png
+size: 2030,1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1 copy
+  rotate: true
+  xy: 2, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1
+
+BTi4.png
+size: 2098,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: false
+  xy: 2, 2
+  size: 1046, 2006
+  orig: 1048, 2008
+  offset: 1, 1
+  index: -1
+Layer 37
+  rotate: false
+  xy: 1050, 2
+  size: 1046, 2006
+  orig: 1048, 2008
+  offset: 1, 1
+  index: -1

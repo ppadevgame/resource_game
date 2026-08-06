@@ -1,0 +1,401 @@
+
+SetGiat.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_cubeDown/FX_cubeDown_000
+  rotate: false
+  xy: 2, 895
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_001
+  rotate: true
+  xy: 2, 533
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_002
+  rotate: false
+  xy: 364, 895
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_003
+  rotate: false
+  xy: 726, 895
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_004
+  rotate: false
+  xy: 1088, 895
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_005
+  rotate: true
+  xy: 2, 171
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_006
+  rotate: false
+  xy: 1450, 895
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_012
+  rotate: true
+  xy: 1812, 1791
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_013
+  rotate: true
+  xy: 1812, 1545
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_014
+  rotate: true
+  xy: 1812, 1299
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_015
+  rotate: true
+  xy: 1812, 1053
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_016
+  rotate: true
+  xy: 1812, 807
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_017
+  rotate: false
+  xy: 1144, 668
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_018
+  rotate: false
+  xy: 1390, 668
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_019
+  rotate: false
+  xy: 1636, 580
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_020
+  rotate: false
+  xy: 1144, 441
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_021
+  rotate: false
+  xy: 1390, 441
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_022
+  rotate: false
+  xy: 1636, 353
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_023
+  rotate: true
+  xy: 1144, 107
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_024
+  rotate: false
+  xy: 1371, 214
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_025
+  rotate: true
+  xy: 1617, 107
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+
+SetGiat2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_cubeDown/FX_cubeDown_007
+  rotate: false
+  xy: 2, 895
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_008
+  rotate: false
+  xy: 364, 895
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_009
+  rotate: false
+  xy: 726, 895
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_010
+  rotate: false
+  xy: 1088, 895
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_011
+  rotate: true
+  xy: 2, 533
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_012
+  rotate: false
+  xy: 1450, 895
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_013
+  rotate: true
+  xy: 2, 171
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_026
+  rotate: false
+  xy: 1144, 668
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_027
+  rotate: true
+  xy: 1812, 1791
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_028
+  rotate: false
+  xy: 1144, 441
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_029
+  rotate: false
+  xy: 1390, 668
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_030
+  rotate: true
+  xy: 1812, 1545
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+energyImpact/energyImpact_031
+  rotate: false
+  xy: 1144, 214
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+
+SetGiat3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_cubeDown/FX_cubeDown_014
+  rotate: false
+  xy: 2, 726
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_015
+  rotate: false
+  xy: 364, 726
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_016
+  rotate: false
+  xy: 726, 726
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_017
+  rotate: false
+  xy: 1088, 726
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_018
+  rotate: true
+  xy: 2, 364
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_019
+  rotate: false
+  xy: 1450, 726
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_020
+  rotate: true
+  xy: 2, 2
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+
+SetGiat4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_cubeDown/FX_cubeDown_021
+  rotate: false
+  xy: 2, 726
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_022
+  rotate: false
+  xy: 364, 726
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_023
+  rotate: false
+  xy: 726, 726
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_024
+  rotate: false
+  xy: 1088, 726
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_025
+  rotate: true
+  xy: 2, 364
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_026
+  rotate: false
+  xy: 1450, 726
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_027
+  rotate: true
+  xy: 2, 2
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+
+SetGiat5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_cubeDown/FX_cubeDown_028
+  rotate: false
+  xy: 2, 364
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_029
+  rotate: false
+  xy: 364, 364
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_030
+  rotate: false
+  xy: 726, 364
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_031
+  rotate: false
+  xy: 1088, 364
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1
+FX_cubeDown/FX_cubeDown_032
+  rotate: true
+  xy: 2, 2
+  size: 360, 1140
+  orig: 360, 1140
+  offset: 0, 0
+  index: -1

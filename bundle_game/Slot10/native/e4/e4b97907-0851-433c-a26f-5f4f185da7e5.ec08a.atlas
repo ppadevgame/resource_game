@@ -1,0 +1,83 @@
+
+roshtinefreespin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E
+  rotate: false
+  xy: 493, 97
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+E2
+  rotate: false
+  xy: 319, 3
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+F
+  rotate: false
+  xy: 552, 157
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: false
+  xy: 260, 63
+  size: 231, 152
+  orig: 231, 152
+  offset: 0, 0
+  index: -1
+Fire 2
+  rotate: false
+  xy: 2, 2
+  size: 256, 213
+  orig: 256, 213
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 428, 3
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+N2
+  rotate: false
+  xy: 260, 3
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 375, 3
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 493, 157
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+S1
+  rotate: false
+  xy: 548, 97
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+S2
+  rotate: false
+  xy: 605, 157
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1

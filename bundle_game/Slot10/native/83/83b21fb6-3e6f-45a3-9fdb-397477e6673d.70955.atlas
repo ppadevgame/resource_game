@@ -1,0 +1,97 @@
+
+AldoHu.png
+size: 1337,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_Vang
+  rotate: false
+  xy: 1189, 142
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+H_Vangsang
+  rotate: false
+  xy: 1024, 110
+  size: 163, 151
+  orig: 163, 151
+  offset: 0, 0
+  index: -1
+H_X6hu
+  rotate: true
+  xy: 943, 11
+  size: 146, 50
+  orig: 146, 50
+  offset: 0, 0
+  index: -1
+H_X6husang1
+  rotate: false
+  xy: 995, 58
+  size: 146, 50
+  orig: 146, 50
+  offset: 0, 0
+  index: -1
+H_X6husang2
+  rotate: false
+  xy: 995, 6
+  size: 146, 50
+  orig: 146, 50
+  offset: 0, 0
+  index: -1
+H_X6husang3
+  rotate: false
+  xy: 1189, 90
+  size: 146, 50
+  orig: 146, 50
+  offset: 0, 0
+  index: -1
+H_bannerdo
+  rotate: false
+  xy: 767, 159
+  size: 255, 102
+  orig: 255, 102
+  offset: 0, 0
+  index: -1
+H_bongtrang
+  rotate: false
+  xy: 767, 12
+  size: 174, 145
+  orig: 174, 145
+  offset: 0, 0
+  index: -1
+H_bongvang
+  rotate: false
+  xy: 525, 21
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+H_khunggiay
+  rotate: false
+  xy: 2, 2
+  size: 271, 259
+  orig: 271, 259
+  offset: 0, 0
+  index: -1
+H_loa1
+  rotate: false
+  xy: 1143, 40
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+H_loa2
+  rotate: false
+  xy: 1225, 40
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+H_tiavang
+  rotate: false
+  xy: 275, 13
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1

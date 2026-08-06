@@ -1,0 +1,272 @@
+
+pnlChoi100.png
+size: 573,323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100
+  rotate: false
+  xy: 417, 2
+  size: 104, 60
+  orig: 104, 60
+  offset: 0, 0
+  index: -1
+100 light A
+  rotate: true
+  xy: 523, 2
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+100 light B
+  rotate: true
+  xy: 497, 187
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+100 light C
+  rotate: true
+  xy: 458, 180
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1
+100 light D
+  rotate: false
+  xy: 458, 141
+  size: 79, 37
+  orig: 79, 37
+  offset: 0, 0
+  index: -1
+100 light E
+  rotate: false
+  xy: 2, 34
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+100 light F
+  rotate: false
+  xy: 78, 34
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+100 light G
+  rotate: false
+  xy: 138, 34
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+mapbang
+  rotate: false
+  xy: 2, 73
+  size: 266, 248
+  orig: 266, 248
+  offset: 0, 0
+  index: -1
+mapbang body
+  rotate: false
+  xy: 458, 264
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+mapbang bot bien
+  rotate: false
+  xy: 417, 64
+  size: 143, 26
+  orig: 143, 26
+  offset: 0, 0
+  index: -1
+mapbang chan A
+  rotate: false
+  xy: 458, 92
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+mapbang chan B
+  rotate: false
+  xy: 396, 6
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+mapbang face
+  rotate: true
+  xy: 229, 32
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+mapbang house
+  rotate: true
+  xy: 270, 92
+  size: 229, 186
+  orig: 229, 186
+  offset: 0, 0
+  index: -1
+mapbang light A
+  rotate: false
+  xy: 539, 105
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+mapbang light B
+  rotate: true
+  xy: 458, 114
+  size: 25, 78
+  orig: 25, 78
+  offset: 0, 0
+  index: -1
+mapbang light C
+  rotate: true
+  xy: 553, 301
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+mapbang light D
+  rotate: true
+  xy: 553, 270
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+mapbang light E
+  rotate: false
+  xy: 536, 180
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+mapbang light F
+  rotate: true
+  xy: 210, 14
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+mapbang light G
+  rotate: true
+  xy: 182, 13
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+mapbang light H
+  rotate: true
+  xy: 538, 94
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+mapbang light I
+  rotate: true
+  xy: 229, 14
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+mapbang light J
+  rotate: false
+  xy: 490, 92
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+mapbang light K
+  rotate: false
+  xy: 351, 27
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+mapbang light M
+  rotate: false
+  xy: 270, 12
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+mapbang light N
+  rotate: true
+  xy: 119, 10
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+mapbang light O
+  rotate: true
+  xy: 536, 195
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+mapbang light P
+  rotate: false
+  xy: 536, 231
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+mapbang light R
+  rotate: false
+  xy: 2, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+mapbang light S
+  rotate: false
+  xy: 35, 3
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+mapbang light T
+  rotate: false
+  xy: 188, 34
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+mapbang light X
+  rotate: false
+  xy: 144, 11
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+mapbang light Z
+  rotate: false
+  xy: 75, 10
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+mapbang tay A
+  rotate: true
+  xy: 351, 3
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+mapbang tay B
+  rotate: false
+  xy: 515, 269
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+mapbang tuyet
+  rotate: false
+  xy: 514, 92
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1

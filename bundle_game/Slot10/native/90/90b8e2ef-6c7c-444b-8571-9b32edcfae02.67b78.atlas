@@ -1,0 +1,27 @@
+
+cloud.png
+size: 2014,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud A
+  rotate: false
+  xy: 901, 18
+  size: 610, 271
+  orig: 610, 271
+  offset: 0, 0
+  index: -1
+cloud B
+  rotate: false
+  xy: 1513, 2
+  size: 499, 287
+  orig: 499, 287
+  offset: 0, 0
+  index: -1
+cloud C
+  rotate: false
+  xy: 2, 22
+  size: 897, 267
+  orig: 897, 267
+  offset: 0, 0
+  index: -1

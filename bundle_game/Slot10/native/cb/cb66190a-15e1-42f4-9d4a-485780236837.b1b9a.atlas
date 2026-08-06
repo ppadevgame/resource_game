@@ -1,0 +1,48 @@
+
+roshtinebonus.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: false
+  xy: 189, 52
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+Flare
+  rotate: false
+  xy: 2, 58
+  size: 185, 67
+  orig: 185, 67
+  offset: 0, 0
+  index: -1
+N
+  rotate: true
+  xy: 2, 2
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 269, 56
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+S
+  rotate: false
+  xy: 342, 56
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 402, 58
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1

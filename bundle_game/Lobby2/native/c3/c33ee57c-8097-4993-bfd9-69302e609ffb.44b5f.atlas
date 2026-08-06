@@ -1,0 +1,185 @@
+
+card_2.png
+size: 2021,1558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dau
+  rotate: false
+  xy: 2, 737
+  size: 503, 493
+  orig: 507, 496
+  offset: 3, 2
+  index: -1
+Layer 31
+  rotate: false
+  xy: 2, 2
+  size: 876, 554
+  orig: 878, 556
+  offset: 1, 1
+  index: -1
+Mat1
+  rotate: false
+  xy: 2, 1489
+  size: 203, 67
+  orig: 213, 80
+  offset: 5, 3
+  index: -1
+Mat2
+  rotate: false
+  xy: 207, 1480
+  size: 209, 76
+  orig: 215, 83
+  offset: 3, 2
+  index: -1
+Mat3
+  rotate: false
+  xy: 418, 1477
+  size: 208, 79
+  orig: 215, 86
+  offset: 4, 4
+  index: -1
+Text1
+  rotate: false
+  xy: 507, 558
+  size: 1020, 420
+  orig: 1028, 426
+  offset: 4, 4
+  index: -1
+Text2
+  rotate: false
+  xy: 507, 558
+  size: 1020, 420
+  orig: 1028, 426
+  offset: 4, 4
+  index: -1
+Vector Smart Object copy 4
+  rotate: false
+  xy: 628, 1453
+  size: 527, 103
+  orig: 529, 106
+  offset: 1, 2
+  index: -1
+XucXacPhai
+  rotate: true
+  xy: 1157, 1322
+  size: 234, 238
+  orig: 241, 240
+  offset: 6, 1
+  index: -1
+XucXacTrai
+  rotate: true
+  xy: 518, 1165
+  size: 286, 318
+  orig: 288, 320
+  offset: 1, 1
+  index: -1
+coin Phai
+  rotate: false
+  xy: 1397, 1318
+  size: 310, 238
+  orig: 312, 240
+  offset: 1, 1
+  index: -1
+coin Phai copy
+  rotate: false
+  xy: 1709, 1318
+  size: 310, 238
+  orig: 312, 240
+  offset: 1, 1
+  index: -1
+coin Trai
+  rotate: false
+  xy: 2, 1235
+  size: 256, 243
+  orig: 258, 245
+  offset: 1, 1
+  index: -1
+coin Trai copy
+  rotate: false
+  xy: 260, 1232
+  size: 256, 243
+  orig: 258, 245
+  offset: 1, 1
+  index: -1
+dia
+  rotate: false
+  xy: 838, 980
+  size: 715, 336
+  orig: 717, 338
+  offset: 1, 1
+  index: -1
+textLight
+  rotate: true
+  xy: 1555, 296
+  size: 1020, 420
+  orig: 1028, 426
+  offset: 4, 4
+  index: -1
+
+card_22.png
+size: 1810,1690
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 2
+  size: 876, 1806
+  orig: 878, 1808
+  offset: 1, 1
+  index: -1
+Than
+  rotate: true
+  xy: 2, 880
+  size: 808, 1444
+  orig: 810, 1464
+  offset: 1, 1
+  index: -1
+
+card_23.png
+size: 1802,1838
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: false
+  xy: 2, 2
+  size: 904, 1834
+  orig: 906, 1836
+  offset: 1, 1
+  index: -1
+Rectangle 1 copy
+  rotate: false
+  xy: 908, 14
+  size: 892, 1822
+  orig: 894, 1824
+  offset: 1, 1
+  index: -1
+
+card_24.png
+size: 1988,1977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 32
+  rotate: true
+  xy: 2, 1099
+  size: 876, 1033
+  orig: 878, 1294
+  offset: 1, 1
+  index: -1
+Tay
+  rotate: true
+  xy: 1037, 1098
+  size: 877, 949
+  orig: 880, 951
+  offset: 2, 1
+  index: -1
+light  copy
+  rotate: true
+  xy: 2, 2
+  size: 1094, 1552
+  orig: 1096, 1554
+  offset: 1, 1
+  index: -1

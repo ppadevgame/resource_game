@@ -1,0 +1,62 @@
+
+dragon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragon Back Hand
+  rotate: false
+  xy: 447, 20
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+Dragon Back Leg
+  rotate: false
+  xy: 622, 186
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+Dragon Back Wing
+  rotate: false
+  xy: 332, 10
+  size: 113, 135
+  orig: 113, 135
+  offset: 0, 0
+  index: -1
+Dragon Body
+  rotate: false
+  xy: 2, 2
+  size: 181, 238
+  orig: 181, 238
+  offset: 0, 0
+  index: -1
+Dragon Hand
+  rotate: false
+  xy: 447, 80
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+Dragon S
+  rotate: false
+  xy: 185, 147
+  size: 311, 93
+  orig: 311, 93
+  offset: 0, 0
+  index: -1
+Dragon Tail
+  rotate: true
+  xy: 498, 140
+  size: 100, 122
+  orig: 100, 122
+  offset: 0, 0
+  index: -1
+Dragon Wing
+  rotate: false
+  xy: 185, 10
+  size: 145, 135
+  orig: 145, 135
+  offset: 0, 0
+  index: -1

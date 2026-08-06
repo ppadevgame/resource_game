@@ -1,0 +1,400 @@
+
+Vampire.png
+size: 3071,2021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 921, 1790
+  size: 128, 307
+  orig: 130, 309
+  offset: 1, 1
+  index: -1
+1 copy
+  rotate: true
+  xy: 1786, 1771
+  size: 133, 185
+  orig: 135, 188
+  offset: 1, 1
+  index: -1
+10
+  rotate: true
+  xy: 2388, 1900
+  size: 119, 347
+  orig: 121, 349
+  offset: 1, 1
+  index: -1
+10 copy
+  rotate: true
+  xy: 2737, 1897
+  size: 122, 203
+  orig: 124, 206
+  offset: 1, 2
+  index: -1
+11
+  rotate: true
+  xy: 1230, 1776
+  size: 128, 348
+  orig: 130, 350
+  offset: 1, 1
+  index: -1
+11 copy
+  rotate: true
+  xy: 1580, 1773
+  size: 131, 204
+  orig: 134, 206
+  offset: 2, 1
+  index: -1
+12
+  rotate: true
+  xy: 1973, 1771
+  size: 133, 349
+  orig: 135, 351
+  offset: 1, 1
+  index: -1
+12 copy
+  rotate: true
+  xy: 2324, 1759
+  size: 139, 210
+  orig: 142, 212
+  offset: 2, 1
+  index: -1
+1Text
+  rotate: false
+  xy: 1186, 1090
+  size: 1128, 230
+  orig: 1145, 237
+  offset: 7, 6
+  index: -1
+2
+  rotate: true
+  xy: 482, 1638
+  size: 154, 342
+  orig: 156, 344
+  offset: 1, 1
+  index: -1
+2 copy
+  rotate: true
+  xy: 2715, 1744
+  size: 151, 206
+  orig: 154, 209
+  offset: 1, 2
+  index: -1
+2Text
+  rotate: false
+  xy: 164, 1920
+  size: 1154, 99
+  orig: 1168, 101
+  offset: 7, 1
+  index: -1
+3
+  rotate: true
+  xy: 1700, 1610
+  size: 159, 354
+  orig: 161, 356
+  offset: 1, 1
+  index: -1
+3 copy
+  rotate: true
+  xy: 1190, 1619
+  size: 155, 211
+  orig: 158, 215
+  offset: 1, 2
+  index: -1
+3Text
+  rotate: false
+  xy: 2, 1180
+  size: 1182, 221
+  orig: 1197, 228
+  offset: 8, 1
+  index: -1
+4
+  rotate: true
+  xy: 1403, 1615
+  size: 156, 295
+  orig: 158, 297
+  offset: 1, 1
+  index: -1
+4 copy
+  rotate: true
+  xy: 2536, 1748
+  size: 150, 177
+  orig: 154, 180
+  offset: 2, 1
+  index: -1
+5
+  rotate: true
+  xy: 2665, 1572
+  size: 170, 315
+  orig: 172, 317
+  offset: 1, 1
+  index: -1
+5 copy
+  rotate: true
+  xy: 2262, 1591
+  size: 166, 188
+  orig: 169, 191
+  offset: 2, 2
+  index: -1
+6
+  rotate: true
+  xy: 2, 1477
+  size: 170, 338
+  orig: 172, 340
+  offset: 1, 1
+  index: -1
+6 copy
+  rotate: true
+  xy: 2056, 1604
+  size: 165, 204
+  orig: 169, 206
+  offset: 2, 1
+  index: -1
+7
+  rotate: true
+  xy: 342, 1464
+  size: 172, 350
+  orig: 174, 352
+  offset: 1, 1
+  index: -1
+7 copy
+  rotate: true
+  xy: 2452, 1578
+  size: 168, 211
+  orig: 170, 214
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 2, 1798
+  size: 120, 363
+  orig: 122, 365
+  offset: 1, 1
+  index: -1
+8 copy
+  rotate: true
+  xy: 701, 1794
+  size: 124, 218
+  orig: 127, 221
+  offset: 1, 1
+  index: -1
+9
+  rotate: true
+  xy: 367, 1795
+  size: 123, 332
+  orig: 125, 334
+  offset: 1, 1
+  index: -1
+9 copy
+  rotate: false
+  xy: 2942, 1824
+  size: 127, 195
+  orig: 131, 198
+  offset: 2, 1
+  index: -1
+Dau
+  rotate: true
+  xy: 2, 774
+  size: 404, 625
+  orig: 406, 628
+  offset: 1, 1
+  index: -1
+DauCopy
+  rotate: true
+  xy: 2280, 485
+  size: 472, 698
+  orig: 481, 706
+  offset: 4, 4
+  index: -1
+Layer 10
+  rotate: false
+  xy: 1320, 1906
+  size: 1066, 113
+  orig: 1068, 135
+  offset: 1, 11
+  index: -1
+Layer 14
+  rotate: false
+  xy: 826, 1634
+  size: 362, 154
+  orig: 364, 156
+  offset: 1, 1
+  index: -1
+Mat2
+  rotate: false
+  xy: 2, 1945
+  size: 160, 74
+  orig: 166, 82
+  offset: 3, 4
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 1973, 1322
+  size: 267, 399
+  orig: 270, 1134
+  offset: 2, 733
+  index: -1
+TayPhai1 copy
+  rotate: true
+  xy: 629, 755
+  size: 333, 1197
+  orig: 343, 1208
+  offset: 6, 7
+  index: -1
+TayPhai2
+  rotate: false
+  xy: 1828, 584
+  size: 450, 504
+  orig: 473, 826
+  offset: 3, 319
+  index: -1
+TayPhai2 copy
+  rotate: true
+  xy: 524, 214
+  size: 539, 893
+  orig: 548, 902
+  offset: 5, 5
+  index: -1
+TayPhai3
+  rotate: true
+  xy: 2, 275
+  size: 497, 520
+  orig: 515, 549
+  offset: 2, 27
+  index: -1
+TayPhai3 copy
+  rotate: true
+  xy: 1419, 2
+  size: 580, 616
+  orig: 590, 626
+  offset: 5, 6
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 1617, 1372
+  size: 236, 354
+  orig: 240, 359
+  offset: 3, 3
+  index: -1
+TayTrai1 copy
+  rotate: true
+  xy: 2316, 959
+  size: 306, 420
+  orig: 315, 432
+  offset: 5, 5
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 1242, 1381
+  size: 232, 373
+  orig: 235, 378
+  offset: 1, 1
+  index: -1
+TayTrai2 copy
+  rotate: true
+  xy: 2374, 1267
+  size: 303, 445
+  orig: 312, 454
+  offset: 5, 5
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 2, 1649
+  size: 144, 478
+  orig: 146, 481
+  offset: 1, 2
+  index: -1
+TayTrai3 copy
+  rotate: true
+  xy: 694, 1403
+  size: 214, 546
+  orig: 222, 556
+  offset: 4, 5
+  index: -1
+
+Vampire2.png
+size: 2788,1644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LaBai
+  rotate: false
+  xy: 2052, 805
+  size: 734, 837
+  orig: 774, 877
+  offset: 17, 22
+  index: -1
+Rectangle 1
+  rotate: true
+  xy: 2, 554
+  size: 1088, 2048
+  orig: 1090, 2050
+  offset: 1, 1
+  index: -1
+vampire
+  rotate: false
+  xy: 2, 2
+  size: 1182, 550
+  orig: 1197, 562
+  offset: 8, 6
+  index: -1
+
+Vampire3.png
+size: 2053,1081
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 11
+  rotate: true
+  xy: 2, 2
+  size: 1077, 2049
+  orig: 1085, 2064
+  offset: 7, 1
+  index: -1
+
+Vampire4.png
+size: 2053,1081
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 11 copy
+  rotate: true
+  xy: 2, 2
+  size: 1077, 2049
+  orig: 1085, 2064
+  offset: 7, 1
+  index: -1
+
+Vampire5.png
+size: 2878,1152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Than
+  rotate: true
+  xy: 2, 88
+  size: 1062, 1363
+  orig: 1081, 1442
+  offset: 1, 78
+  index: -1
+Than copy
+  rotate: true
+  xy: 1367, 2
+  size: 1148, 1509
+  orig: 1158, 1517
+  offset: 5, 5
+  index: -1
+
+Vampire6.png
+size: 1070,2030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1 copy
+  rotate: false
+  xy: 2, 2
+  size: 1066, 2026
+  orig: 1068, 2028
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,237 @@
+
+Tren7Duoi7.png
+size: 2014,1772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 274, 45
+  size: 264, 57
+  orig: 266, 62
+  offset: 1, 4
+  index: -1
+2
+  rotate: true
+  xy: 953, 95
+  size: 262, 70
+  orig: 266, 78
+  offset: 3, 4
+  index: -1
+3
+  rotate: true
+  xy: 1929, 806
+  size: 239, 76
+  orig: 241, 84
+  offset: 1, 4
+  index: -1
+4
+  rotate: false
+  xy: 274, 104
+  size: 264, 89
+  orig: 266, 97
+  offset: 1, 4
+  index: -1
+5
+  rotate: false
+  xy: 1226, 115
+  size: 261, 64
+  orig: 266, 72
+  offset: 4, 4
+  index: -1
+6
+  rotate: true
+  xy: 1961, 540
+  size: 264, 51
+  orig: 266, 56
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 1755, 1251
+  size: 202, 239
+  orig: 206, 242
+  offset: 2, 2
+  index: -1
+7 b
+  rotate: true
+  xy: 1755, 1047
+  size: 202, 239
+  orig: 206, 242
+  offset: 2, 2
+  index: -1
+Dau
+  rotate: true
+  xy: 1554, 644
+  size: 389, 373
+  orig: 392, 376
+  offset: 2, 2
+  index: -1
+Efect
+  rotate: true
+  xy: 1034, 1035
+  size: 735, 719
+  orig: 738, 721
+  offset: 2, 1
+  index: -1
+Effect copy
+  rotate: true
+  xy: 822, 359
+  size: 190, 188
+  orig: 221, 216
+  offset: 14, 14
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1025, 85
+  size: 199, 94
+  orig: 201, 96
+  offset: 1, 1
+  index: -1
+Layer 21 copy 15
+  rotate: true
+  xy: 2, 1221
+  size: 549, 1030
+  orig: 553, 1034
+  offset: 2, 2
+  index: -1
+Layer 32 copy 11
+  rotate: false
+  xy: 2, 195
+  size: 543, 1024
+  orig: 545, 1026
+  offset: 1, 1
+  index: -1
+Layer 552 copy 14
+  rotate: false
+  xy: 953, 14
+  size: 429, 69
+  orig: 433, 73
+  offset: 2, 2
+  index: -1
+Layer 558 copy 14
+  rotate: true
+  xy: 547, 6
+  size: 543, 273
+  orig: 545, 284
+  offset: 1, 1
+  index: -1
+Layer 9 copy
+  rotate: false
+  xy: 1025, 181
+  size: 527, 852
+  orig: 529, 854
+  offset: 1, 1
+  index: -1
+Light copy 30
+  rotate: true
+  xy: 1959, 1294
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 3sd
+  rotate: true
+  xy: 1959, 1393
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 33
+  rotate: true
+  xy: 1959, 1393
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 34
+  rotate: true
+  xy: 1959, 1393
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 3sdf
+  rotate: true
+  xy: 1959, 1393
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Mat1 copy 5
+  rotate: false
+  xy: 822, 9
+  size: 128, 49
+  orig: 137, 55
+  offset: 1, 4
+  index: -1
+Mat2 copy 5
+  rotate: false
+  xy: 1864, 348
+  size: 128, 53
+  orig: 143, 63
+  offset: 1, 5
+  index: -1
+Mat3  copy 4
+  rotate: false
+  xy: 1864, 403
+  size: 129, 57
+  orig: 137, 67
+  offset: 2, 4
+  index: -1
+Tam
+  rotate: false
+  xy: 274, 19
+  size: 25, 24
+  orig: 28, 27
+  offset: 2, 2
+  index: -1
+TayPhai1
+  rotate: false
+  xy: 1864, 462
+  size: 95, 180
+  orig: 101, 185
+  offset: 2, 4
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 822, 60
+  size: 297, 129
+  orig: 301, 132
+  offset: 3, 1
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 1554, 55
+  size: 263, 433
+  orig: 266, 437
+  offset: 1, 2
+  index: -1
+TayTrai2
+  rotate: true
+  xy: 1554, 320
+  size: 322, 308
+  orig: 325, 316
+  offset: 2, 2
+  index: -1
+TayTrai3
+  rotate: true
+  xy: 2, 2
+  size: 191, 270
+  orig: 193, 274
+  offset: 1, 3
+  index: -1
+Than
+  rotate: false
+  xy: 547, 551
+  size: 476, 668
+  orig: 479, 934
+  offset: 1, 1
+  index: -1
+TrenDuoi1
+  rotate: true
+  xy: 1755, 1492
+  size: 278, 246
+  orig: 281, 248
+  offset: 2, 1
+  index: -1
