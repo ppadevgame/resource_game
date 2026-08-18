@@ -1,0 +1,55 @@
+
+time.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+time
+  rotate: false
+  xy: 2, 101
+  size: 257, 149
+  orig: 257, 149
+  offset: 0, 0
+  index: -1
+time_l1
+  rotate: false
+  xy: 67, 4
+  size: 51, 11
+  orig: 55, 12
+  offset: 4, 0
+  index: -1
+time_l2
+  rotate: true
+  xy: 152, 15
+  size: 55, 45
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+time_l3
+  rotate: true
+  xy: 106, 72
+  size: 27, 82
+  orig: 30, 87
+  offset: 0, 0
+  index: -1
+time_l4
+  rotate: true
+  xy: 67, 17
+  size: 36, 83
+  orig: 42, 90
+  offset: 0, 4
+  index: -1
+time_l5
+  rotate: false
+  xy: 2, 2
+  size: 63, 51
+  orig: 64, 56
+  offset: 0, 5
+  index: -1
+time_rush
+  rotate: false
+  xy: 2, 55
+  size: 102, 44
+  orig: 104, 48
+  offset: 1, 1
+  index: -1
