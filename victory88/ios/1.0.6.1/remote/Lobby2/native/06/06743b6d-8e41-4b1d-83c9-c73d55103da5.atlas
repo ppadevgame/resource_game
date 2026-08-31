@@ -1,0 +1,220 @@
+
+card_3.png
+size: 2027,1572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dau
+  rotate: true
+  xy: 1144, 487
+  size: 472, 640
+  orig: 474, 643
+  offset: 1, 2
+  index: -1
+DuoiToc
+  rotate: true
+  xy: 1662, 1235
+  size: 220, 282
+  orig: 222, 286
+  offset: 1, 2
+  index: -1
+Gold
+  rotate: false
+  xy: 2, 132
+  size: 834, 483
+  orig: 836, 506
+  offset: 1, 22
+  index: -1
+Gold copy
+  rotate: false
+  xy: 838, 2
+  size: 834, 483
+  orig: 836, 506
+  offset: 1, 22
+  index: -1
+HoaVan
+  rotate: false
+  xy: 1488, 1457
+  size: 537, 113
+  orig: 541, 117
+  offset: 2, 2
+  index: -1
+Layer 17
+  rotate: false
+  xy: 2, 617
+  size: 1140, 342
+  orig: 1156, 359
+  offset: 9, 9
+  index: -1
+Layer 18
+  rotate: false
+  xy: 2, 1073
+  size: 893, 201
+  orig: 903, 234
+  offset: 3, 25
+  index: -1
+Layer 19
+  rotate: false
+  xy: 2, 1360
+  size: 287, 136
+  orig: 304, 149
+  offset: 9, 9
+  index: -1
+Layer 20
+  rotate: false
+  xy: 1217, 1459
+  size: 269, 111
+  orig: 284, 119
+  offset: 9, 4
+  index: -1
+Layer 21
+  rotate: false
+  xy: 946, 1462
+  size: 269, 108
+  orig: 282, 117
+  offset: 8, 4
+  index: -1
+Layer 22
+  rotate: false
+  xy: 704, 1473
+  size: 240, 97
+  orig: 279, 109
+  offset: 9, 4
+  index: -1
+LightBat copy 3
+  rotate: false
+  xy: 507, 1287
+  size: 345, 184
+  orig: 366, 205
+  offset: 11, 10
+  index: -1
+LightBat copy 4
+  rotate: false
+  xy: 507, 1287
+  size: 345, 184
+  orig: 366, 205
+  offset: 11, 10
+  index: -1
+LightBat copy 5
+  rotate: false
+  xy: 507, 1287
+  size: 345, 184
+  orig: 366, 205
+  offset: 11, 10
+  index: -1
+LightBat copy 6
+  rotate: false
+  xy: 507, 1287
+  size: 345, 184
+  orig: 366, 205
+  offset: 11, 10
+  index: -1
+Mat1
+  rotate: false
+  xy: 2, 1502
+  size: 232, 68
+  orig: 241, 79
+  offset: 5, 3
+  index: -1
+Mat2
+  rotate: false
+  xy: 236, 1498
+  size: 233, 72
+  orig: 241, 80
+  offset: 3, 1
+  index: -1
+Mat3
+  rotate: false
+  xy: 471, 1494
+  size: 231, 76
+  orig: 241, 86
+  offset: 5, 4
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 854, 1276
+  size: 179, 806
+  orig: 182, 809
+  offset: 2, 1
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 291, 1346
+  size: 146, 214
+  orig: 148, 217
+  offset: 1, 1
+  index: -1
+TayTrai1
+  rotate: true
+  xy: 897, 961
+  size: 272, 811
+  orig: 284, 814
+  offset: 5, 1
+  index: -1
+
+card_32.png
+size: 1802,1838
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: false
+  xy: 2, 2
+  size: 904, 1834
+  orig: 906, 1836
+  offset: 1, 1
+  index: -1
+Rectangle 1 copy
+  rotate: false
+  xy: 908, 14
+  size: 892, 1822
+  orig: 894, 1824
+  offset: 1, 1
+  index: -1
+
+card_33.png
+size: 1982,1746
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 2
+  size: 876, 1806
+  orig: 878, 1808
+  offset: 1, 1
+  index: -1
+Body
+  rotate: true
+  xy: 880, 880
+  size: 864, 1100
+  orig: 871, 1342
+  offset: 5, 1
+  index: -1
+Layer 16
+  rotate: false
+  xy: 2, 913
+  size: 876, 831
+  orig: 878, 1025
+  offset: 1, 1
+  index: -1
+
+card_34.png
+size: 1976,1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: false
+  xy: 1098, 2
+  size: 876, 1765
+  orig: 878, 1767
+  offset: 1, 1
+  index: -1
+VienSang
+  rotate: false
+  xy: 2, 215
+  size: 1094, 1552
+  orig: 1096, 1554
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,181 @@
+
+TaiXiuMD5.png
+size: 1845,1525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1062, 170
+  size: 413, 83
+  orig: 419, 89
+  offset: 1, 5
+  index: -1
+2
+  rotate: false
+  xy: 1121, 326
+  size: 425, 89
+  orig: 428, 96
+  offset: 1, 5
+  index: -1
+3
+  rotate: false
+  xy: 520, 9
+  size: 429, 94
+  orig: 431, 104
+  offset: 1, 5
+  index: -1
+4
+  rotate: false
+  xy: 1127, 417
+  size: 429, 80
+  orig: 431, 88
+  offset: 1, 1
+  index: -1
+Dau
+  rotate: true
+  xy: 2, 50
+  size: 342, 516
+  orig: 345, 519
+  offset: 2, 1
+  index: -1
+Layer 21 copy 11
+  rotate: false
+  xy: 576, 493
+  size: 549, 1030
+  orig: 553, 1034
+  offset: 2, 2
+  index: -1
+Layer 32 copy 8
+  rotate: false
+  xy: 1127, 499
+  size: 543, 1024
+  orig: 545, 1026
+  offset: 1, 1
+  index: -1
+Layer 552 copy 10
+  rotate: false
+  xy: 1121, 255
+  size: 429, 69
+  orig: 433, 73
+  offset: 2, 2
+  index: -1
+Layer 558 copy 9
+  rotate: false
+  xy: 576, 286
+  size: 543, 205
+  orig: 545, 212
+  offset: 1, 1
+  index: -1
+Light copy 8
+  rotate: true
+  xy: 520, 295
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+Light copy 9
+  rotate: true
+  xy: 520, 295
+  size: 97, 52
+  orig: 105, 59
+  offset: 4, 4
+  index: -1
+LightMD5
+  rotate: false
+  xy: 1062, 18
+  size: 281, 150
+  orig: 298, 167
+  offset: 9, 8
+  index: -1
+Light cDau
+  rotate: false
+  xy: 1062, 18
+  size: 281, 150
+  orig: 298, 167
+  offset: 9, 8
+  index: -1
+Mat1 copy 2
+  rotate: false
+  xy: 160, 13
+  size: 154, 35
+  orig: 162, 43
+  offset: 4, 5
+  index: -1
+Mat2 copy 2
+  rotate: false
+  xy: 1516, 47
+  size: 152, 29
+  orig: 157, 32
+  offset: 2, 1
+  index: -1
+Mat3 copy 2
+  rotate: false
+  xy: 2, 10
+  size: 156, 38
+  orig: 158, 42
+  offset: 1, 2
+  index: -1
+TXPhai
+  rotate: false
+  xy: 1345, 2
+  size: 169, 166
+  orig: 173, 168
+  offset: 2, 1
+  index: -1
+TXTrai
+  rotate: false
+  xy: 1558, 318
+  size: 196, 179
+  orig: 198, 181
+  offset: 1, 1
+  index: -1
+TaiXiu
+  rotate: true
+  xy: 1672, 539
+  size: 429, 146
+  orig: 431, 148
+  offset: 1, 1
+  index: -1
+TayPhai1
+  rotate: true
+  xy: 520, 105
+  size: 179, 540
+  orig: 182, 544
+  offset: 2, 2
+  index: -1
+TayPhai2
+  rotate: true
+  xy: 1725, 44
+  size: 152, 118
+  orig: 155, 122
+  offset: 2, 2
+  index: -1
+TayTrai1
+  rotate: false
+  xy: 1672, 970
+  size: 156, 553
+  orig: 162, 556
+  offset: 3, 2
+  index: -1
+Text MD5
+  rotate: false
+  xy: 1552, 198
+  size: 207, 118
+  orig: 218, 127
+  offset: 6, 5
+  index: -1
+Text MD52
+  rotate: false
+  xy: 1516, 78
+  size: 207, 118
+  orig: 218, 127
+  offset: 6, 5
+  index: -1
+Than
+  rotate: false
+  xy: 2, 394
+  size: 572, 1129
+  orig: 593, 1137
+  offset: 12, 2
+  index: -1
