@@ -1,0 +1,258 @@
+
+skeleton.png
+size: 1780,1062
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/10/Layer 1
+  rotate: true
+  xy: 2, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 3
+  rotate: true
+  xy: 2, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 71
+  rotate: true
+  xy: 2, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 11
+  rotate: true
+  xy: 210, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 13
+  rotate: true
+  xy: 210, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 15
+  rotate: true
+  xy: 314, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 17
+  rotate: true
+  xy: 314, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 19
+  rotate: true
+  xy: 418, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 21
+  rotate: true
+  xy: 418, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 23
+  rotate: true
+  xy: 522, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 25
+  rotate: true
+  xy: 522, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 27
+  rotate: true
+  xy: 626, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 29
+  rotate: true
+  xy: 626, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 31
+  rotate: false
+  xy: 730, 958
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 33
+  rotate: true
+  xy: 1260, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 35
+  rotate: true
+  xy: 1364, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 37
+  rotate: true
+  xy: 1468, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 39
+  rotate: true
+  xy: 1572, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 41
+  rotate: true
+  xy: 1676, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 43
+  rotate: false
+  xy: 730, 854
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 45
+  rotate: false
+  xy: 730, 750
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 47
+  rotate: false
+  xy: 730, 646
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 49
+  rotate: false
+  xy: 730, 542
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 5
+  rotate: true
+  xy: 2, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 51
+  rotate: false
+  xy: 730, 438
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 53
+  rotate: true
+  xy: 1260, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 55
+  rotate: true
+  xy: 1364, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 57
+  rotate: true
+  xy: 1468, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 59
+  rotate: true
+  xy: 1572, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 61
+  rotate: true
+  xy: 1676, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 63
+  rotate: false
+  xy: 730, 334
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 65
+  rotate: false
+  xy: 730, 230
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 67
+  rotate: false
+  xy: 730, 126
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 69
+  rotate: false
+  xy: 730, 22
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 7
+  rotate: true
+  xy: 106, 532
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1
+images/10/Layer 9
+  rotate: true
+  xy: 106, 2
+  size: 528, 102
+  orig: 528, 102
+  offset: 0, 0
+  index: -1

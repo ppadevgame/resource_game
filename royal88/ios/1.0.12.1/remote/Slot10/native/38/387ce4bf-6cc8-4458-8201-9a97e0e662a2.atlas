@@ -1,0 +1,726 @@
+
+aldo_wave.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aldo_wave_00048
+  rotate: false
+  xy: 2, 241
+  size: 173, 353
+  orig: 173, 353
+  offset: 0, 0
+  index: -1
+Aldo_wave_00049
+  rotate: false
+  xy: 177, 241
+  size: 173, 353
+  orig: 173, 353
+  offset: 0, 0
+  index: -1
+Aldo_wave_00050
+  rotate: false
+  xy: 198, 596
+  size: 173, 353
+  orig: 173, 353
+  offset: 0, 0
+  index: -1
+Aldo_wave_00051
+  rotate: false
+  xy: 527, 258
+  size: 175, 352
+  orig: 175, 352
+  offset: 0, 0
+  index: -1
+Aldo_wave_00052
+  rotate: false
+  xy: 373, 612
+  size: 179, 352
+  orig: 179, 352
+  offset: 0, 0
+  index: -1
+Aldo_wave_00053
+  rotate: false
+  xy: 236, 966
+  size: 185, 352
+  orig: 185, 352
+  offset: 0, 0
+  index: -1
+Aldo_wave_00054
+  rotate: false
+  xy: 467, 1695
+  size: 193, 351
+  orig: 193, 351
+  offset: 0, 0
+  index: -1
+Aldo_wave_00055
+  rotate: false
+  xy: 417, 1338
+  size: 202, 351
+  orig: 202, 351
+  offset: 0, 0
+  index: -1
+Aldo_wave_00056
+  rotate: false
+  xy: 554, 633
+  size: 209, 350
+  orig: 209, 350
+  offset: 0, 0
+  index: -1
+Aldo_wave_00057
+  rotate: false
+  xy: 621, 1344
+  size: 217, 349
+  orig: 217, 349
+  offset: 0, 0
+  index: -1
+Aldo_wave_00058
+  rotate: false
+  xy: 662, 1698
+  size: 224, 348
+  orig: 224, 348
+  offset: 0, 0
+  index: -1
+Aldo_wave_00059
+  rotate: false
+  xy: 840, 1349
+  size: 227, 347
+  orig: 227, 347
+  offset: 0, 0
+  index: -1
+Aldo_wave_00060
+  rotate: false
+  xy: 775, 995
+  size: 231, 347
+  orig: 231, 347
+  offset: 0, 0
+  index: -1
+Aldo_wave_00061
+  rotate: false
+  xy: 1321, 1700
+  size: 230, 346
+  orig: 230, 346
+  offset: 0, 0
+  index: -1
+Aldo_wave_00062
+  rotate: false
+  xy: 1324, 1353
+  size: 230, 345
+  orig: 230, 345
+  offset: 0, 0
+  index: -1
+Aldo_wave_00063
+  rotate: true
+  xy: 2, 4
+  size: 235, 345
+  orig: 235, 345
+  offset: 0, 0
+  index: -1
+Aldo_wave_00064
+  rotate: false
+  xy: 1517, 329
+  size: 241, 344
+  orig: 241, 344
+  offset: 0, 0
+  index: -1
+Aldo_wave_00065
+  rotate: false
+  xy: 1271, 658
+  size: 244, 344
+  orig: 244, 344
+  offset: 0, 0
+  index: -1
+Aldo_wave_00073
+  rotate: false
+  xy: 888, 1699
+  size: 186, 347
+  orig: 186, 347
+  offset: 0, 0
+  index: -1
+Aldo_wave_00074
+  rotate: false
+  xy: 2, 596
+  size: 194, 353
+  orig: 194, 353
+  offset: 0, 0
+  index: -1
+Aldo_wave_00075
+  rotate: false
+  xy: 215, 1320
+  size: 200, 359
+  orig: 200, 359
+  offset: 0, 0
+  index: -1
+Aldo_wave_00076
+  rotate: false
+  xy: 2, 1315
+  size: 211, 364
+  orig: 211, 364
+  offset: 0, 0
+  index: -1
+Aldo_wave_00077
+  rotate: false
+  xy: 2, 1681
+  size: 218, 365
+  orig: 218, 365
+  offset: 0, 0
+  index: -1
+Aldo_wave_00078
+  rotate: false
+  xy: 2, 951
+  size: 232, 362
+  orig: 232, 362
+  offset: 0, 0
+  index: -1
+Aldo_wave_00079
+  rotate: false
+  xy: 222, 1691
+  size: 243, 355
+  orig: 243, 355
+  offset: 0, 0
+  index: -1
+Aldo_wave_00080
+  rotate: false
+  xy: 765, 637
+  size: 252, 347
+  orig: 252, 347
+  offset: 0, 0
+  index: -1
+Aldo_wave_00081
+  rotate: false
+  xy: 1069, 1351
+  size: 253, 346
+  orig: 253, 346
+  offset: 0, 0
+  index: -1
+Aldo_wave_00082
+  rotate: false
+  xy: 1186, 1004
+  size: 244, 345
+  orig: 244, 345
+  offset: 0, 0
+  index: -1
+Aldo_wave_00087
+  rotate: false
+  xy: 1556, 1016
+  size: 205, 338
+  orig: 205, 338
+  offset: 0, 0
+  index: -1
+Aldo_wave_00094
+  rotate: true
+  xy: 691, 2
+  size: 254, 344
+  orig: 254, 344
+  offset: 0, 0
+  index: -1
+Aldo_wave_00095
+  rotate: false
+  xy: 1019, 653
+  size: 250, 345
+  orig: 250, 345
+  offset: 0, 0
+  index: -1
+Aldo_wave_00096
+  rotate: false
+  xy: 1076, 1700
+  size: 243, 346
+  orig: 243, 346
+  offset: 0, 0
+  index: -1
+Aldo_wave_00097
+  rotate: false
+  xy: 881, 289
+  size: 227, 346
+  orig: 227, 346
+  offset: 0, 0
+  index: -1
+Aldo_wave_00098
+  rotate: false
+  xy: 1553, 1701
+  size: 209, 345
+  orig: 209, 345
+  offset: 0, 0
+  index: -1
+Aldo_wave_00099
+  rotate: false
+  xy: 1556, 1356
+  size: 206, 343
+  orig: 206, 343
+  offset: 0, 0
+  index: -1
+Aldo_wave_00104
+  rotate: false
+  xy: 1517, 675
+  size: 244, 339
+  orig: 244, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00106
+  rotate: false
+  xy: 1763, 336
+  size: 262, 339
+  orig: 262, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00107
+  rotate: false
+  xy: 1763, 677
+  size: 263, 340
+  orig: 263, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00108
+  rotate: false
+  xy: 1764, 1706
+  size: 264, 340
+  orig: 264, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00109
+  rotate: false
+  xy: 1764, 1019
+  size: 263, 341
+  orig: 263, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00110
+  rotate: false
+  xy: 1764, 1362
+  size: 263, 342
+  orig: 263, 342
+  offset: 0, 0
+  index: -1
+Aldo_wave_00111
+  rotate: true
+  xy: 1382, 53
+  size: 261, 343
+  orig: 261, 343
+  offset: 0, 0
+  index: -1
+Aldo_wave_00112
+  rotate: true
+  xy: 1037, 25
+  size: 262, 343
+  orig: 262, 343
+  offset: 0, 0
+  index: -1
+Aldo_wave_00123
+  rotate: true
+  xy: 349, 6
+  size: 233, 340
+  orig: 233, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00124
+  rotate: false
+  xy: 1288, 316
+  size: 225, 340
+  orig: 225, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00144
+  rotate: false
+  xy: 1110, 306
+  size: 176, 345
+  orig: 176, 345
+  offset: 0, 0
+  index: -1
+Aldo_wave_00145
+  rotate: false
+  xy: 1008, 1000
+  size: 176, 347
+  orig: 176, 347
+  offset: 0, 0
+  index: -1
+Aldo_wave_00146
+  rotate: false
+  xy: 704, 283
+  size: 175, 348
+  orig: 175, 348
+  offset: 0, 0
+  index: -1
+Aldo_wave_00147
+  rotate: false
+  xy: 599, 986
+  size: 174, 350
+  orig: 174, 350
+  offset: 0, 0
+  index: -1
+Aldo_wave_00148
+  rotate: false
+  xy: 423, 985
+  size: 174, 351
+  orig: 174, 351
+  offset: 0, 0
+  index: -1
+Aldo_wave_00149
+  rotate: false
+  xy: 352, 241
+  size: 173, 353
+  orig: 173, 353
+  offset: 0, 0
+  index: -1
+
+aldo_wave2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aldo_wave_00066
+  rotate: true
+  xy: 786, 1475
+  size: 239, 342
+  orig: 239, 342
+  offset: 0, 0
+  index: -1
+Aldo_wave_00067
+  rotate: false
+  xy: 1815, 1627
+  size: 231, 341
+  orig: 231, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00068
+  rotate: false
+  xy: 496, 939
+  size: 221, 340
+  orig: 221, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00069
+  rotate: false
+  xy: 1193, 943
+  size: 209, 340
+  orig: 209, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00070
+  rotate: false
+  xy: 1626, 942
+  size: 194, 341
+  orig: 194, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00071
+  rotate: true
+  xy: 1400, 1285
+  size: 180, 341
+  orig: 180, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00072
+  rotate: true
+  xy: 1054, 1285
+  size: 180, 344
+  orig: 180, 344
+  offset: 0, 0
+  index: -1
+Aldo_wave_00083
+  rotate: false
+  xy: 480, 1281
+  size: 232, 344
+  orig: 232, 344
+  offset: 0, 0
+  index: -1
+Aldo_wave_00084
+  rotate: false
+  xy: 263, 1281
+  size: 215, 342
+  orig: 215, 342
+  offset: 0, 0
+  index: -1
+Aldo_wave_00085
+  rotate: false
+  xy: 261, 595
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00086
+  rotate: false
+  xy: 260, 254
+  size: 204, 339
+  orig: 204, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00088
+  rotate: false
+  xy: 466, 254
+  size: 210, 339
+  orig: 210, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00089
+  rotate: false
+  xy: 1404, 943
+  size: 220, 340
+  orig: 220, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00090
+  rotate: false
+  xy: 262, 938
+  size: 232, 341
+  orig: 232, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00091
+  rotate: true
+  xy: 1130, 1467
+  size: 245, 341
+  orig: 245, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00092
+  rotate: true
+  xy: 2, 2
+  size: 250, 341
+  orig: 250, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00093
+  rotate: true
+  xy: 786, 1716
+  size: 252, 343
+  orig: 252, 343
+  offset: 0, 0
+  index: -1
+Aldo_wave_00100
+  rotate: false
+  xy: 1822, 942
+  size: 208, 341
+  orig: 208, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00101
+  rotate: true
+  xy: 1192, 728
+  size: 213, 340
+  orig: 213, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00102
+  rotate: true
+  xy: 345, 32
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00103
+  rotate: false
+  xy: 962, 944
+  size: 229, 339
+  orig: 229, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00105
+  rotate: false
+  xy: 2, 254
+  size: 256, 339
+  orig: 256, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00113
+  rotate: false
+  xy: 2, 1625
+  size: 261, 343
+  orig: 261, 343
+  offset: 0, 0
+  index: -1
+Aldo_wave_00114
+  rotate: false
+  xy: 2, 1281
+  size: 259, 342
+  orig: 259, 342
+  offset: 0, 0
+  index: -1
+Aldo_wave_00115
+  rotate: false
+  xy: 265, 1627
+  size: 259, 341
+  orig: 259, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00116
+  rotate: false
+  xy: 2, 938
+  size: 258, 341
+  orig: 258, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00117
+  rotate: false
+  xy: 526, 1627
+  size: 258, 341
+  orig: 258, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00118
+  rotate: false
+  xy: 2, 595
+  size: 257, 341
+  orig: 257, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00119
+  rotate: true
+  xy: 1131, 1714
+  size: 254, 340
+  orig: 254, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00120
+  rotate: true
+  xy: 1473, 1716
+  size: 252, 340
+  orig: 252, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00121
+  rotate: true
+  xy: 1473, 1467
+  size: 247, 340
+  orig: 247, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00122
+  rotate: false
+  xy: 719, 943
+  size: 241, 340
+  orig: 241, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00125
+  rotate: false
+  xy: 1815, 1285
+  size: 216, 340
+  orig: 216, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00126
+  rotate: true
+  xy: 686, 45
+  size: 207, 340
+  orig: 207, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00127
+  rotate: false
+  xy: 678, 254
+  size: 198, 339
+  orig: 198, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00128
+  rotate: true
+  xy: 1534, 747
+  size: 193, 339
+  orig: 193, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00129
+  rotate: true
+  xy: 714, 1285
+  size: 188, 338
+  orig: 188, 338
+  offset: 0, 0
+  index: -1
+Aldo_wave_00130
+  rotate: false
+  xy: 1005, 604
+  size: 185, 338
+  orig: 185, 338
+  offset: 0, 0
+  index: -1
+Aldo_wave_00131
+  rotate: false
+  xy: 1234, 388
+  size: 182, 338
+  orig: 182, 338
+  offset: 0, 0
+  index: -1
+Aldo_wave_00132
+  rotate: false
+  xy: 1418, 388
+  size: 181, 338
+  orig: 181, 338
+  offset: 0, 0
+  index: -1
+Aldo_wave_00133
+  rotate: false
+  xy: 1601, 407
+  size: 179, 338
+  orig: 179, 338
+  offset: 0, 0
+  index: -1
+Aldo_wave_00134
+  rotate: false
+  xy: 1782, 407
+  size: 178, 338
+  orig: 178, 338
+  offset: 0, 0
+  index: -1
+Aldo_wave_00135
+  rotate: true
+  xy: 1028, 31
+  size: 177, 338
+  orig: 177, 338
+  offset: 0, 0
+  index: -1
+Aldo_wave_00136
+  rotate: true
+  xy: 1601, 228
+  size: 177, 339
+  orig: 177, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00137
+  rotate: true
+  xy: 1576, 49
+  size: 177, 339
+  orig: 177, 339
+  offset: 0, 0
+  index: -1
+Aldo_wave_00138
+  rotate: false
+  xy: 1056, 262
+  size: 176, 340
+  orig: 176, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00139
+  rotate: true
+  xy: 1234, 210
+  size: 176, 340
+  orig: 176, 340
+  offset: 0, 0
+  index: -1
+Aldo_wave_00140
+  rotate: false
+  xy: 471, 595
+  size: 176, 341
+  orig: 176, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00141
+  rotate: false
+  xy: 878, 254
+  size: 176, 341
+  orig: 176, 341
+  offset: 0, 0
+  index: -1
+Aldo_wave_00142
+  rotate: false
+  xy: 649, 595
+  size: 176, 342
+  orig: 176, 342
+  offset: 0, 0
+  index: -1
+Aldo_wave_00143
+  rotate: false
+  xy: 827, 597
+  size: 176, 344
+  orig: 176, 344
+  offset: 0, 0
+  index: -1

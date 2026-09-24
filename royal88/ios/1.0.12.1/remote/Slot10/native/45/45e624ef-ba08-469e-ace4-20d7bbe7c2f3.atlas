@@ -1,0 +1,160 @@
+
+pnlChoi2000.png
+size: 749,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2000
+  rotate: true
+  xy: 280, 90
+  size: 153, 58
+  orig: 153, 58
+  offset: 0, 0
+  index: -1
+2000 light A
+  rotate: false
+  xy: 534, 8
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+2000 light B
+  rotate: true
+  xy: 280, 2
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+2000 light C
+  rotate: true
+  xy: 379, 145
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+2000 light D
+  rotate: true
+  xy: 358, 12
+  size: 113, 37
+  orig: 113, 37
+  offset: 0, 0
+  index: -1
+2000 light E
+  rotate: true
+  xy: 340, 127
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1
+2000 light F
+  rotate: false
+  xy: 436, 7
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+2000 light G
+  rotate: true
+  xy: 319, 5
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1
+2000 light H
+  rotate: false
+  xy: 599, 8
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+2000 light I
+  rotate: true
+  xy: 630, 61
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+2000 light K
+  rotate: true
+  xy: 397, 2
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+mapgo
+  rotate: true
+  xy: 2, 7
+  size: 236, 276
+  orig: 236, 276
+  offset: 0, 0
+  index: -1
+mapgo da A
+  rotate: false
+  xy: 662, 5
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+mapgo da B
+  rotate: false
+  xy: 669, 68
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+mapgo qua cau
+  rotate: false
+  xy: 397, 46
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+mapgo qua cau light E
+  rotate: false
+  xy: 553, 47
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+mapgo qua cau light F
+  rotate: false
+  xy: 418, 146
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+mapgo qua cau light G
+  rotate: false
+  xy: 475, 47
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+mapgo qua cau light H
+  rotate: false
+  xy: 496, 146
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+mapgo qua cau light I
+  rotate: false
+  xy: 574, 146
+  size: 74, 97
+  orig: 74, 97
+  offset: 0, 0
+  index: -1
+mapgo qua cau light K
+  rotate: true
+  xy: 650, 176
+  size: 67, 97
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+mapgo qua cau light M
+  rotate: true
+  xy: 650, 118
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,264 @@
+
+skeleton.png
+size: 2041,2041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/11/Layer 1
+  rotate: false
+  xy: 2, 1827
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 3
+  rotate: false
+  xy: 2, 1827
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 71
+  rotate: false
+  xy: 2, 1827
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 11
+  rotate: false
+  xy: 2, 1613
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 13
+  rotate: false
+  xy: 543, 1613
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 15
+  rotate: false
+  xy: 1084, 1613
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 17
+  rotate: true
+  xy: 2, 1072
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 19
+  rotate: true
+  xy: 2, 531
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 21
+  rotate: false
+  xy: 2, 317
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 23
+  rotate: false
+  xy: 2, 103
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 25
+  rotate: true
+  xy: 216, 1072
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 27
+  rotate: true
+  xy: 216, 531
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 29
+  rotate: true
+  xy: 430, 1072
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 31
+  rotate: true
+  xy: 430, 531
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 33
+  rotate: false
+  xy: 543, 317
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 35
+  rotate: false
+  xy: 543, 103
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 37
+  rotate: false
+  xy: 1084, 1399
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 39
+  rotate: true
+  xy: 644, 1072
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 41
+  rotate: true
+  xy: 858, 1072
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 43
+  rotate: true
+  xy: 1625, 959
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 45
+  rotate: false
+  xy: 1072, 1185
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 47
+  rotate: false
+  xy: 1072, 971
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 49
+  rotate: true
+  xy: 644, 531
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 5
+  rotate: false
+  xy: 543, 1827
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 51
+  rotate: true
+  xy: 858, 531
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 53
+  rotate: false
+  xy: 1072, 757
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 55
+  rotate: false
+  xy: 1072, 543
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 57
+  rotate: true
+  xy: 1613, 418
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 59
+  rotate: true
+  xy: 1827, 418
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 61
+  rotate: true
+  xy: 1084, 2
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 63
+  rotate: true
+  xy: 1298, 2
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 7
+  rotate: false
+  xy: 1084, 1827
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 9
+  rotate: true
+  xy: 1625, 1500
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1625,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/11/Layer 65
+  rotate: false
+  xy: 2, 2
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 67
+  rotate: false
+  xy: 543, 2
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1
+images/11/Layer 69
+  rotate: false
+  xy: 1084, 2
+  size: 539, 212
+  orig: 539, 212
+  offset: 0, 0
+  index: -1

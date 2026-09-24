@@ -1,0 +1,719 @@
+
+DreamGaming.png
+size: 2003,2005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 405, 1727
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+1 copy
+  rotate: false
+  xy: 431, 1726
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 311, 1394
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+10 copy
+  rotate: true
+  xy: 204, 1243
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 204, 1174
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+11 copy
+  rotate: false
+  xy: 226, 1174
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 227, 1294
+  size: 19, 21
+  orig: 21, 21
+  offset: 1, 0
+  index: -1
+2 copy
+  rotate: true
+  xy: 227, 1273
+  size: 19, 21
+  orig: 21, 21
+  offset: 1, 0
+  index: -1
+3
+  rotate: true
+  xy: 264, 1673
+  size: 14, 21
+  orig: 15, 21
+  offset: 1, 0
+  index: -1
+3 copy
+  rotate: true
+  xy: 287, 1673
+  size: 14, 21
+  orig: 15, 21
+  offset: 1, 0
+  index: -1
+4
+  rotate: false
+  xy: 204, 1220
+  size: 21, 21
+  orig: 22, 21
+  offset: 1, 0
+  index: -1
+4 copy
+  rotate: false
+  xy: 204, 1197
+  size: 21, 21
+  orig: 22, 21
+  offset: 1, 0
+  index: -1
+5
+  rotate: true
+  xy: 204, 1292
+  size: 23, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+5 copy
+  rotate: true
+  xy: 204, 1267
+  size: 23, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 492, 1731
+  size: 21, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+6 copy
+  rotate: true
+  xy: 518, 1731
+  size: 21, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 248, 1296
+  size: 19, 21
+  orig: 20, 21
+  offset: 1, 0
+  index: -1
+7 copy
+  rotate: true
+  xy: 227, 1252
+  size: 19, 21
+  orig: 20, 21
+  offset: 1, 0
+  index: -1
+8
+  rotate: false
+  xy: 257, 1394
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+8 copy
+  rotate: false
+  xy: 284, 1394
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 310, 1676
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+9 copy
+  rotate: true
+  xy: 205, 1671
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+Bong
+  rotate: true
+  xy: 2, 1468
+  size: 200, 331
+  orig: 200, 331
+  offset: 0, 0
+  index: -1
+Layer 100
+  rotate: false
+  xy: 1800, 318
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 101
+  rotate: true
+  xy: 608, 207
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 102
+  rotate: false
+  xy: 406, 10
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 103
+  rotate: false
+  xy: 204, 2
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 104
+  rotate: true
+  xy: 901, 207
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 105
+  rotate: false
+  xy: 1194, 116
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 106
+  rotate: false
+  xy: 1396, 116
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 107
+  rotate: true
+  xy: 1598, 116
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 108
+  rotate: true
+  xy: 608, 5
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 109
+  rotate: true
+  xy: 901, 5
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 205, 1717
+  size: 198, 84
+  orig: 198, 108
+  offset: 0, 2
+  index: -1
+Layer 50
+  rotate: false
+  xy: 466, 1728
+  size: 24, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Layer 51
+  rotate: true
+  xy: 205, 1803
+  size: 200, 331
+  orig: 200, 331
+  offset: 0, 0
+  index: -1
+Layer 52
+  rotate: false
+  xy: 2, 1175
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 53
+  rotate: true
+  xy: 538, 1803
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 54
+  rotate: true
+  xy: 334, 1182
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 55
+  rotate: false
+  xy: 2, 882
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 56
+  rotate: true
+  xy: 598, 1601
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 57
+  rotate: true
+  xy: 831, 1803
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 58
+  rotate: true
+  xy: 537, 1399
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 59
+  rotate: false
+  xy: 627, 1106
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 60
+  rotate: false
+  xy: 204, 881
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 61
+  rotate: false
+  xy: 2, 589
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 62
+  rotate: false
+  xy: 406, 889
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 63
+  rotate: true
+  xy: 608, 904
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 64
+  rotate: true
+  xy: 891, 1601
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 65
+  rotate: true
+  xy: 1124, 1803
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 66
+  rotate: true
+  xy: 830, 1399
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 67
+  rotate: true
+  xy: 829, 1197
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 68
+  rotate: false
+  xy: 901, 904
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 69
+  rotate: false
+  xy: 1103, 904
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 70
+  rotate: true
+  xy: 1184, 1601
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 71
+  rotate: true
+  xy: 1417, 1803
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 72
+  rotate: true
+  xy: 1123, 1399
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 73
+  rotate: true
+  xy: 1122, 1197
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 74
+  rotate: false
+  xy: 1305, 904
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 75
+  rotate: true
+  xy: 1416, 1399
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 76
+  rotate: true
+  xy: 1477, 1601
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 77
+  rotate: true
+  xy: 1710, 1803
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 78
+  rotate: true
+  xy: 1415, 1197
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 79
+  rotate: false
+  xy: 1507, 904
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 80
+  rotate: true
+  xy: 1708, 1197
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 81
+  rotate: true
+  xy: 1709, 1399
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 82
+  rotate: false
+  xy: 1709, 904
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 83
+  rotate: true
+  xy: 608, 702
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 84
+  rotate: false
+  xy: 204, 588
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 85
+  rotate: false
+  xy: 2, 296
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 86
+  rotate: false
+  xy: 406, 596
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 87
+  rotate: true
+  xy: 901, 702
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 88
+  rotate: false
+  xy: 1194, 611
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 89
+  rotate: false
+  xy: 608, 409
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 90
+  rotate: false
+  xy: 204, 295
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 91
+  rotate: false
+  xy: 2, 3
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 92
+  rotate: false
+  xy: 406, 303
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 93
+  rotate: false
+  xy: 810, 409
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 94
+  rotate: false
+  xy: 1396, 611
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 95
+  rotate: false
+  xy: 1598, 611
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 96
+  rotate: false
+  xy: 1800, 611
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 97
+  rotate: true
+  xy: 1012, 409
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 98
+  rotate: true
+  xy: 1305, 409
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 99
+  rotate: false
+  xy: 1598, 318
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 205, 1684
+  size: 57, 31
+  orig: 63, 35
+  offset: 3, 2
+  index: -1
+Light copy 20
+  rotate: true
+  xy: 308, 1347
+  size: 45, 24
+  orig: 50, 29
+  offset: 3, 2
+  index: -1
+Light copy 21
+  rotate: true
+  xy: 308, 1347
+  size: 45, 24
+  orig: 50, 29
+  offset: 3, 2
+  index: -1
+Light copy 22
+  rotate: true
+  xy: 308, 1347
+  size: 45, 24
+  orig: 50, 29
+  offset: 3, 2
+  index: -1
+Light copy 23
+  rotate: false
+  xy: 264, 1689
+  size: 66, 26
+  orig: 73, 34
+  offset: 4, 4
+  index: -1
+Nen
+  rotate: false
+  xy: 335, 1384
+  size: 200, 331
+  orig: 200, 331
+  offset: 0, 0
+  index: -1
+VienKhung
+  rotate: false
+  xy: 2, 1670
+  size: 201, 333
+  orig: 201, 333
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 405, 1752
+  size: 59, 49
+  orig: 63, 53
+  offset: 2, 2
+  index: -1
+b
+  rotate: false
+  xy: 257, 1417
+  size: 73, 49
+  orig: 79, 53
+  offset: 3, 2
+  index: -1
+c
+  rotate: true
+  xy: 204, 1317
+  size: 74, 50
+  orig: 80, 54
+  offset: 3, 2
+  index: -1
+d
+  rotate: true
+  xy: 204, 1393
+  size: 73, 51
+  orig: 79, 55
+  offset: 3, 2
+  index: -1
+e
+  rotate: true
+  xy: 256, 1318
+  size: 73, 50
+  orig: 79, 55
+  offset: 3, 2
+  index: -1
+f
+  rotate: false
+  xy: 466, 1754
+  size: 73, 47
+  orig: 79, 51
+  offset: 3, 2
+  index: -1
+g
+  rotate: false
+  xy: 541, 1754
+  size: 55, 47
+  orig: 60, 51
+  offset: 3, 2
+  index: -1
+
+DreamGaming2.png
+size: 608,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 110
+  rotate: false
+  xy: 2, 2
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 111
+  rotate: false
+  xy: 204, 2
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+Layer 112
+  rotate: false
+  xy: 406, 2
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1

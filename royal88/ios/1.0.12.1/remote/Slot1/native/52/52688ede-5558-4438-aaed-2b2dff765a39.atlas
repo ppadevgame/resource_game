@@ -1,0 +1,41 @@
+
+Icon-Jackpot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura (324)
+  rotate: false
+  xy: 142, 48
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+jackpot_back
+  rotate: false
+  xy: 271, 55
+  size: 122, 121
+  orig: 124, 123
+  offset: 1, 1
+  index: -1
+jackpot_frame
+  rotate: false
+  xy: 1, 35
+  size: 140, 141
+  orig: 142, 143
+  offset: 1, 1
+  index: -1
+jackpot_head
+  rotate: false
+  xy: 394, 36
+  size: 111, 140
+  orig: 113, 142
+  offset: 1, 1
+  index: -1
+jackpot_txt
+  rotate: false
+  xy: 1, 1
+  size: 143, 33
+  orig: 145, 35
+  offset: 1, 1
+  index: -1

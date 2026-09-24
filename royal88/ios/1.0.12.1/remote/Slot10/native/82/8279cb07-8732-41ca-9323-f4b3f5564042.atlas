@@ -1,0 +1,55 @@
+
+cerberus.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cerberus 23 Head
+  rotate: false
+  xy: 646, 51
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+Cerberus Back Leg
+  rotate: false
+  xy: 489, 26
+  size: 73, 99
+  orig: 73, 99
+  offset: 0, 0
+  index: -1
+Cerberus Body
+  rotate: true
+  xy: 315, 2
+  size: 123, 172
+  orig: 123, 172
+  offset: 0, 0
+  index: -1
+Cerberus Front Leg
+  rotate: false
+  xy: 564, 48
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+Cerberus Head
+  rotate: true
+  xy: 806, 86
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+Cerberus S
+  rotate: false
+  xy: 2, 32
+  size: 311, 93
+  orig: 311, 93
+  offset: 0, 0
+  index: -1
+Cerberus Tail
+  rotate: false
+  xy: 714, 78
+  size: 90, 47
+  orig: 90, 47
+  offset: 0, 0
+  index: -1

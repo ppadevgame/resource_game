@@ -1,0 +1,41 @@
+
+Icon-FreeSpin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura (309)
+  rotate: false
+  xy: 1, 182
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+freespin_button
+  rotate: false
+  xy: 258, 224
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+freespin_button2
+  rotate: false
+  xy: 258, 300
+  size: 139, 138
+  orig: 141, 140
+  offset: 1, 1
+  index: -1
+freespin_frame
+  rotate: false
+  xy: 1, 41
+  size: 139, 140
+  orig: 141, 142
+  offset: 1, 1
+  index: -1
+freespin_txt
+  rotate: false
+  xy: 1, 1
+  size: 148, 39
+  orig: 150, 41
+  offset: 1, 1
+  index: -1
