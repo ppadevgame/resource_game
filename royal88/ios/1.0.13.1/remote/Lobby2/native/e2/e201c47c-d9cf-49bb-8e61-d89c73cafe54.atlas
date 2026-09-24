@@ -1,0 +1,230 @@
+
+Minigame.png
+size: 761,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gen_BC
+  rotate: false
+  xy: 437, 35
+  size: 83, 85
+  orig: 91, 92
+  offset: 4, 4
+  index: -1
+Gen_F
+  rotate: false
+  xy: 648, 131
+  size: 106, 56
+  orig: 121, 65
+  offset: 7, 4
+  index: -1
+Gen_SparkG
+  rotate: false
+  xy: 683, 93
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Gen_lightbg
+  rotate: true
+  xy: 532, 3
+  size: 17, 51
+  orig: 21, 58
+  offset: 1, 5
+  index: -1
+Gen_pocpef1
+  rotate: false
+  xy: 278, 85
+  size: 14, 15
+  orig: 30, 31
+  offset: 8, 9
+  index: -1
+Gen_pocpef2
+  rotate: false
+  xy: 736, 50
+  size: 21, 21
+  orig: 30, 31
+  offset: 4, 7
+  index: -1
+Gen_pocpef3
+  rotate: false
+  xy: 653, 9
+  size: 24, 25
+  orig: 30, 31
+  offset: 3, 5
+  index: -1
+Gen_pocpef4
+  rotate: true
+  xy: 708, 38
+  size: 24, 26
+  orig: 30, 31
+  offset: 2, 4
+  index: -1
+Gen_pocpef5
+  rotate: false
+  xy: 679, 10
+  size: 26, 26
+  orig: 30, 31
+  offset: 1, 4
+  index: -1
+Gen_pocpef6
+  rotate: false
+  xy: 736, 73
+  size: 21, 27
+  orig: 30, 31
+  offset: 3, 2
+  index: -1
+Gen_shiny
+  rotate: true
+  xy: 628, 65
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+MNG/M_A
+  rotate: true
+  xy: 677, 38
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+MNG/M_BGS1
+  rotate: false
+  xy: 522, 53
+  size: 55, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+MNG/M_BGS2
+  rotate: false
+  xy: 545, 121
+  size: 101, 66
+  orig: 104, 66
+  offset: 0, 0
+  index: -1
+MNG/M_BGS3
+  rotate: false
+  xy: 434, 122
+  size: 109, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+MNG/M_BGS4
+  rotate: true
+  xy: 369, 4
+  size: 77, 66
+  orig: 81, 66
+  offset: 4, 0
+  index: -1
+MNG/M_BGS5
+  rotate: false
+  xy: 579, 53
+  size: 47, 66
+  orig: 51, 66
+  offset: 4, 0
+  index: -1
+MNG/M_O
+  rotate: false
+  xy: 707, 12
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+MNG/M_S
+  rotate: true
+  xy: 623, 10
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+MNG/M_Text
+  rotate: false
+  xy: 297, 83
+  size: 127, 35
+  orig: 127, 37
+  offset: 0, 1
+  index: -1
+MNG/M_Text1
+  rotate: false
+  xy: 683, 64
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+MNG/M_Text2
+  rotate: false
+  xy: 437, 4
+  size: 93, 29
+  orig: 103, 29
+  offset: 0, 0
+  index: -1
+MNG/M_Text3
+  rotate: false
+  xy: 532, 22
+  size: 89, 29
+  orig: 89, 29
+  offset: 0, 0
+  index: -1
+MNG/M_Text4
+  rotate: false
+  xy: 628, 36
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+MNG/M_X
+  rotate: false
+  xy: 733, 102
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+MNG/M_base
+  rotate: false
+  xy: 297, 120
+  size: 135, 67
+  orig: 135, 67
+  offset: 0, 0
+  index: -1
+as1
+  rotate: false
+  xy: 177, 102
+  size: 118, 85
+  orig: 126, 90
+  offset: 4, 2
+  index: -1
+daulan
+  rotate: false
+  xy: 278, 3
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+gl
+  rotate: false
+  xy: 2, 14
+  size: 173, 173
+  orig: 181, 181
+  offset: 4, 4
+  index: -1
+gl1
+  rotate: true
+  xy: 177, 3
+  size: 97, 99
+  orig: 101, 103
+  offset: 2, 1
+  index: -1
+l2
+  rotate: false
+  xy: 736, 29
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+mimat
+  rotate: true
+  xy: 585, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1

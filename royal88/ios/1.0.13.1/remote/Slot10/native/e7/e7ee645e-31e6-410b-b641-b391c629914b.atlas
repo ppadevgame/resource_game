@@ -1,0 +1,27 @@
+
+cay.png
+size: 294,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree A
+  rotate: false
+  xy: 2, 13
+  size: 178, 143
+  orig: 178, 143
+  offset: 0, 0
+  index: -1
+tree B
+  rotate: false
+  xy: 182, 2
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+tree C
+  rotate: true
+  xy: 182, 55
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1

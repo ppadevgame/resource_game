@@ -1,0 +1,34 @@
+
+Icon-Random.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura (324)
+  rotate: false
+  xy: 284, 55
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+random_frame
+  rotate: false
+  xy: 1, 42
+  size: 140, 141
+  orig: 142, 143
+  offset: 1, 1
+  index: -1
+random_tower
+  rotate: false
+  xy: 142, 67
+  size: 141, 116
+  orig: 143, 118
+  offset: 1, 1
+  index: -1
+random_txt
+  rotate: false
+  xy: 1, 1
+  size: 143, 40
+  orig: 145, 42
+  offset: 1, 1
+  index: -1

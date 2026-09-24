@@ -1,0 +1,440 @@
+
+Jackpot.png
+size: 2373,1440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jackpot A
+  rotate: false
+  xy: 226, 4
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Jackpot C
+  rotate: false
+  xy: 552, 6
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Jackpot J
+  rotate: true
+  xy: 830, 54
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Jackpot K
+  rotate: false
+  xy: 249, 5
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Jackpot O
+  rotate: true
+  xy: 753, 16
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Jackpot P
+  rotate: true
+  xy: 2051, 7
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+Jackpot T
+  rotate: true
+  xy: 862, 56
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+diamond A
+  rotate: false
+  xy: 141, 7
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+diamond B
+  rotate: false
+  xy: 794, 52
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+diamond C
+  rotate: true
+  xy: 694, 2
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+diamond D
+  rotate: false
+  xy: 720, 13
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+dust_02
+  rotate: false
+  xy: 2, 938
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+dust_03
+  rotate: false
+  xy: 2, 436
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+dust_04
+  rotate: false
+  xy: 504, 938
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+dust_05
+  rotate: false
+  xy: 504, 436
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+dust_06
+  rotate: false
+  xy: 1006, 938
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+dust_07
+  rotate: false
+  xy: 1006, 436
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+hu
+  rotate: true
+  xy: 2010, 115
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+light Jackpot A
+  rotate: false
+  xy: 572, 37
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+light Jackpot B
+  rotate: false
+  xy: 426, 36
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+light Jackpot C
+  rotate: false
+  xy: 269, 36
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+light Jackpot D
+  rotate: false
+  xy: 85, 36
+  size: 93, 39
+  orig: 93, 39
+  offset: 0, 0
+  index: -1
+light Jackpot E
+  rotate: false
+  xy: 180, 37
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+light Jackpot F
+  rotate: false
+  xy: 348, 37
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+light Jackpot G
+  rotate: false
+  xy: 502, 38
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+light Jackpot H
+  rotate: false
+  xy: 694, 39
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+light Jackpot I
+  rotate: false
+  xy: 502, 2
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+light Jackpot K
+  rotate: false
+  xy: 753, 41
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+light diamond A
+  rotate: false
+  xy: 753, 2
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+light diamond B
+  rotate: false
+  xy: 269, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+light diamond C
+  rotate: true
+  xy: 180, 2
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+light diamond D
+  rotate: false
+  xy: 269, 15
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+light diamond E
+  rotate: false
+  xy: 572, 9
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+light diamond F
+  rotate: true
+  xy: 927, 57
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+light diamond G
+  rotate: false
+  xy: 954, 58
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+light diamond H
+  rotate: false
+  xy: 299, 13
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+light diamond I
+  rotate: true
+  xy: 206, 2
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+light diamond K
+  rotate: false
+  xy: 324, 16
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+light diamond M
+  rotate: false
+  xy: 2010, 7
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+light diamond N
+  rotate: false
+  xy: 600, 12
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+light diamond Q
+  rotate: false
+  xy: 895, 56
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+light diamond R
+  rotate: true
+  xy: 115, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+light diamond X
+  rotate: true
+  xy: 979, 58
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+light no A
+  rotate: true
+  xy: 85, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+light no B
+  rotate: false
+  xy: 2291, 360
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+light no C
+  rotate: false
+  xy: 2196, 344
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: -1
+light no D
+  rotate: false
+  xy: 2096, 341
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+light no E
+  rotate: false
+  xy: 2010, 326
+  size: 84, 108
+  orig: 84, 108
+  offset: 0, 0
+  index: -1
+light no F
+  rotate: false
+  xy: 2010, 213
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+light no G
+  rotate: false
+  xy: 2010, 26
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+light no H
+  rotate: true
+  xy: 635, 19
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+smoke_00
+  rotate: false
+  xy: 2, 77
+  size: 500, 357
+  orig: 500, 357
+  offset: 0, 0
+  index: -1
+smoke_01
+  rotate: false
+  xy: 1508, 1081
+  size: 500, 357
+  orig: 500, 357
+  offset: 0, 0
+  index: -1
+smoke_02
+  rotate: false
+  xy: 504, 77
+  size: 500, 357
+  orig: 500, 357
+  offset: 0, 0
+  index: -1
+smoke_03
+  rotate: false
+  xy: 1508, 722
+  size: 500, 357
+  orig: 500, 357
+  offset: 0, 0
+  index: -1
+smoke_04
+  rotate: true
+  xy: 2010, 938
+  size: 500, 357
+  orig: 500, 357
+  offset: 0, 0
+  index: -1
+smoke_05
+  rotate: false
+  xy: 1006, 77
+  size: 500, 357
+  orig: 500, 357
+  offset: 0, 0
+  index: -1
+smoke_06
+  rotate: false
+  xy: 1508, 363
+  size: 500, 357
+  orig: 500, 357
+  offset: 0, 0
+  index: -1
+smoke_07
+  rotate: true
+  xy: 2010, 436
+  size: 500, 357
+  orig: 500, 357
+  offset: 0, 0
+  index: -1
+smoke_08
+  rotate: false
+  xy: 1508, 4
+  size: 500, 357
+  orig: 500, 357
+  offset: 0, 0
+  index: -1
+sparx
+  rotate: false
+  xy: 2291, 281
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ss_00007
+  rotate: true
+  xy: 2, 6
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,370 @@
+
+hoa.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spark_G
+  rotate: false
+  xy: 657, 460
+  size: 44, 42
+  orig: 65, 49
+  offset: 11, 4
+  index: -1
+bg
+  rotate: true
+  xy: 386, 461
+  size: 266, 269
+  orig: 266, 269
+  offset: 0, 0
+  index: -1
+bg_hoa_l1
+  rotate: false
+  xy: 469, 163
+  size: 63, 61
+  orig: 70, 72
+  offset: 3, 6
+  index: -1
+bg_hoa_l2
+  rotate: true
+  xy: 945, 194
+  size: 81, 74
+  orig: 91, 83
+  offset: 7, 4
+  index: -1
+bg_hoa_l3
+  rotate: false
+  xy: 274, 655
+  size: 110, 97
+  orig: 112, 109
+  offset: 1, 8
+  index: -1
+bg_hoa_l4
+  rotate: false
+  xy: 118, 178
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+bg_hoa_l5
+  rotate: false
+  xy: 0, 117
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+bg_hoa_l6
+  rotate: false
+  xy: 235, 125
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+bg_hoa_l7
+  rotate: false
+  xy: 117, 61
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+bg_hoa_l8
+  rotate: false
+  xy: 0, 0
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+bg_hoa_l9
+  rotate: false
+  xy: 352, 109
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+bg_ornament_l1
+  rotate: false
+  xy: 657, 395
+  size: 37, 63
+  orig: 40, 69
+  offset: 3, 3
+  index: -1
+bg_ornament_l2
+  rotate: false
+  xy: 871, 70
+  size: 64, 129
+  orig: 71, 158
+  offset: 5, 11
+  index: -1
+bg_ornament_l3
+  rotate: false
+  xy: 657, 504
+  size: 44, 131
+  orig: 55, 141
+  offset: 5, 4
+  index: -1
+bg_ornament_l4
+  rotate: false
+  xy: 593, 308
+  size: 62, 151
+  orig: 67, 158
+  offset: 3, 3
+  index: -1
+bg_ornament_l5
+  rotate: true
+  xy: 546, 202
+  size: 72, 154
+  orig: 76, 158
+  offset: 1, 2
+  index: -1
+bg_ornament_l6
+  rotate: false
+  xy: 937, 28
+  size: 80, 164
+  orig: 82, 167
+  offset: 0, 2
+  index: -1
+bg_ornament_l7
+  rotate: true
+  xy: 376, 226
+  size: 84, 168
+  orig: 86, 174
+  offset: 0, 6
+  index: -1
+bg_ornament_l8
+  rotate: true
+  xy: 702, 183
+  size: 85, 167
+  orig: 86, 171
+  offset: 0, 4
+  index: -1
+blur_cir
+  rotate: false
+  xy: 274, 362
+  size: 100, 241
+  orig: 106, 248
+  offset: 2, 3
+  index: -1
+cir_l1
+  rotate: true
+  xy: 703, 512
+  size: 91, 241
+  orig: 101, 251
+  offset: 10, 6
+  index: -1
+cir_light
+  rotate: false
+  xy: 678, 276
+  size: 18, 117
+  orig: 21, 121
+  offset: 3, 2
+  index: -1
+des
+  rotate: false
+  xy: 376, 440
+  size: 215, 19
+  orig: 215, 19
+  offset: 0, 0
+  index: -1
+flash
+  rotate: false
+  xy: 386, 729
+  size: 316, 48
+  orig: 350, 55
+  offset: 12, 5
+  index: -1
+flash_line
+  rotate: true
+  xy: 998, 474
+  size: 179, 23
+  orig: 194, 25
+  offset: 8, 1
+  index: -1
+gold_cir_a2
+  rotate: true
+  xy: 704, 605
+  size: 172, 292
+  orig: 173, 292
+  offset: 1, 0
+  index: -1
+gold_cir_b2
+  rotate: true
+  xy: 0, 590
+  size: 162, 272
+  orig: 163, 272
+  offset: 1, 0
+  index: -1
+gold_cir_light
+  rotate: false
+  xy: 871, 201
+  size: 72, 67
+  orig: 76, 72
+  offset: 2, 1
+  index: -1
+hoa_text
+  rotate: false
+  xy: 274, 605
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+hoa_text_l1
+  rotate: false
+  xy: 995, 406
+  size: 27, 23
+  orig: 32, 33
+  offset: 2, 7
+  index: -1
+hoa_text_l2
+  rotate: false
+  xy: 534, 154
+  size: 46, 46
+  orig: 50, 54
+  offset: 3, 3
+  index: -1
+hoa_text_l3
+  rotate: false
+  xy: 945, 277
+  size: 75, 59
+  orig: 80, 59
+  offset: 3, 0
+  index: -1
+hoa_text_l4
+  rotate: false
+  xy: 234, 64
+  size: 89, 59
+  orig: 92, 59
+  offset: 2, 0
+  index: -1
+hoa_text_l5
+  rotate: false
+  xy: 0, 234
+  size: 116, 59
+  orig: 121, 59
+  offset: 1, 0
+  index: -1
+hoa_text_l6
+  rotate: true
+  xy: 945, 338
+  size: 129, 48
+  orig: 131, 48
+  offset: 1, 0
+  index: -1
+hoa_text_l7
+  rotate: true
+  xy: 946, 469
+  size: 134, 48
+  orig: 134, 48
+  offset: 0, 0
+  index: -1
+hoa_text_light
+  rotate: true
+  xy: 657, 637
+  size: 90, 45
+  orig: 91, 45
+  offset: 1, 0
+  index: -1
+sp_g
+  rotate: true
+  xy: 998, 677
+  size: 24, 25
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+sp_g2
+  rotate: true
+  xy: 998, 655
+  size: 20, 25
+  orig: 24, 26
+  offset: 2, 1
+  index: -1
+sp_g3
+  rotate: true
+  xy: 995, 339
+  size: 43, 20
+  orig: 43, 21
+  offset: 0, 1
+  index: -1
+sunlight_1
+  rotate: true
+  xy: 0, 295
+  size: 166, 259
+  orig: 175, 266
+  offset: 2, 1
+  index: -1
+triangle_1
+  rotate: true
+  xy: 995, 431
+  size: 19, 29
+  orig: 20, 32
+  offset: 0, 3
+  index: -1
+triangle_2
+  rotate: true
+  xy: 996, 452
+  size: 20, 28
+  orig: 20, 32
+  offset: 0, 3
+  index: -1
+triangle_3
+  rotate: true
+  xy: 998, 757
+  size: 20, 26
+  orig: 20, 32
+  offset: 0, 1
+  index: -1
+triangle_4
+  rotate: true
+  xy: 995, 384
+  size: 20, 27
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+tyle
+  rotate: true
+  xy: 657, 347
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+tyle_2
+  rotate: true
+  xy: 998, 703
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+wave_light
+  rotate: true
+  xy: 261, 242
+  size: 118, 113
+  orig: 129, 119
+  offset: 6, 4
+  index: -1
+win_cir
+  rotate: true
+  xy: 0, 463
+  size: 125, 266
+  orig: 146, 274
+  offset: 3, 7
+  index: -1
+win_cir_blur
+  rotate: false
+  xy: 703, 270
+  size: 240, 240
+  orig: 262, 262
+  offset: 11, 11
+  index: -1
+win_spark
+  rotate: false
+  xy: 376, 312
+  size: 185, 126
+  orig: 185, 126
+  offset: 0, 0
+  index: -1
+win_spark2
+  rotate: false
+  xy: 0, 754
+  size: 384, 23
+  orig: 394, 32
+  offset: 7, 3
+  index: -1

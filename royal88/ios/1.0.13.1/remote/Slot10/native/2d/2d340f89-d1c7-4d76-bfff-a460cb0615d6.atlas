@@ -1,0 +1,746 @@
+
+icon_heart.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 168, 2
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 334, 2
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 500, 2
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 666, 2
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 832, 4
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+light/Group10
+  rotate: false
+  xy: 522, 209
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+light/Group11
+  rotate: false
+  xy: 906, 444
+  size: 96, 81
+  orig: 96, 81
+  offset: 0, 0
+  index: -1
+light/Group2
+  rotate: false
+  xy: 906, 363
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+light/Group3
+  rotate: false
+  xy: 906, 282
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+light/Group4
+  rotate: true
+  xy: 906, 184
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+light/Group5
+  rotate: false
+  xy: 906, 527
+  size: 96, 81
+  orig: 96, 81
+  offset: 0, 0
+  index: -1
+light/Group6
+  rotate: false
+  xy: 926, 865
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+light/Group7
+  rotate: false
+  xy: 926, 780
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+light/Group8
+  rotate: false
+  xy: 926, 695
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+light/Group9
+  rotate: false
+  xy: 926, 610
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+vfx/Layer 1
+  rotate: true
+  xy: 522, 786
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 2
+  rotate: true
+  xy: 522, 622
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 3
+  rotate: true
+  xy: 522, 458
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 4
+  rotate: true
+  xy: 522, 458
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 5
+  rotate: true
+  xy: 522, 294
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 6
+  rotate: true
+  xy: 522, 294
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 1
+  rotate: false
+  xy: 2, 690
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 2
+  rotate: false
+  xy: 2, 430
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 3
+  rotate: false
+  xy: 2, 170
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 4
+  rotate: false
+  xy: 262, 690
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 5
+  rotate: false
+  xy: 262, 430
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 6
+  rotate: false
+  xy: 262, 170
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 7
+  rotate: false
+  xy: 666, 690
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 8
+  rotate: false
+  xy: 646, 430
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 9
+  rotate: false
+  xy: 646, 170
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+
+icon_heart2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 172
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 690, 858
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 858, 856
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 6
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 262, 432
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 522, 692
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 690, 692
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 858, 688
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 170, 266
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 170, 100
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 338, 264
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 338, 98
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 430, 526
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 598, 526
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 504, 360
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 672, 360
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 506, 194
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 674, 194
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 506, 28
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 674, 28
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+30
+  rotate: true
+  xy: 840, 396
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 338
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 262, 598
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 522, 858
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+light/Group1
+  rotate: true
+  xy: 170, 2
+  size: 96, 78
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+light/Group12
+  rotate: true
+  xy: 250, 2
+  size: 96, 78
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+light/Group13
+  rotate: true
+  xy: 930, 590
+  size: 96, 78
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+vfx/Layer 11
+  rotate: false
+  xy: 842, 148
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 12
+  rotate: false
+  xy: 842, 148
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 13
+  rotate: false
+  xy: 842, 24
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 14
+  rotate: false
+  xy: 842, 24
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 7
+  rotate: false
+  xy: 766, 564
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 8
+  rotate: false
+  xy: 766, 564
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 9
+  rotate: false
+  xy: 842, 272
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 10
+  rotate: false
+  xy: 842, 272
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 10
+  rotate: false
+  xy: 2, 764
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 11
+  rotate: false
+  xy: 2, 504
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+vfx_bum/Layer 12
+  rotate: false
+  xy: 262, 764
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+
+icon_heart3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx/Layer 15
+  rotate: false
+  xy: 2, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 16
+  rotate: false
+  xy: 2, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 17
+  rotate: false
+  xy: 2, 2
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 18
+  rotate: false
+  xy: 2, 2
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 19
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 20
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 21
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 22
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 23
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 24
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 25
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 26
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 27
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 28
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 29
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 30
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 31
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 32
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 33
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 34
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 36
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 37
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 39
+  rotate: false
+  xy: 166, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 35
+  rotate: false
+  xy: 166, 2
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 38
+  rotate: false
+  xy: 330, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 40
+  rotate: false
+  xy: 330, 2
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 41
+  rotate: false
+  xy: 330, 2
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 42
+  rotate: false
+  xy: 494, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 43
+  rotate: false
+  xy: 494, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 44
+  rotate: false
+  xy: 494, 2
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 45
+  rotate: false
+  xy: 494, 2
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 46
+  rotate: false
+  xy: 658, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 47
+  rotate: false
+  xy: 658, 126
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 48
+  rotate: false
+  xy: 658, 2
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1
+vfx/Layer 49
+  rotate: false
+  xy: 658, 2
+  size: 162, 122
+  orig: 162, 122
+  offset: 0, 0
+  index: -1

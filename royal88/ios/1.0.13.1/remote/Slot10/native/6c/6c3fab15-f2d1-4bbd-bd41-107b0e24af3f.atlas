@@ -1,0 +1,111 @@
+
+pnlChoi5000.png
+size: 681,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5000
+  rotate: false
+  xy: 420, 141
+  size: 153, 58
+  orig: 153, 58
+  offset: 0, 0
+  index: -1
+5000 light A
+  rotate: false
+  xy: 358, 4
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+5000 light B
+  rotate: false
+  xy: 575, 45
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+5000 light C
+  rotate: false
+  xy: 575, 123
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+5000 light D
+  rotate: false
+  xy: 249, 4
+  size: 107, 37
+  orig: 107, 37
+  offset: 0, 0
+  index: -1
+5000 light E
+  rotate: false
+  xy: 575, 162
+  size: 104, 37
+  orig: 104, 37
+  offset: 0, 0
+  index: -1
+5000 light F
+  rotate: false
+  xy: 575, 84
+  size: 94, 37
+  orig: 94, 37
+  offset: 0, 0
+  index: -1
+5000 light G
+  rotate: false
+  xy: 429, 10
+  size: 79, 37
+  orig: 79, 37
+  offset: 0, 0
+  index: -1
+5000 light H
+  rotate: false
+  xy: 510, 24
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+5000 light I
+  rotate: false
+  xy: 574, 6
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+nui lua back
+  rotate: false
+  xy: 2, 8
+  size: 245, 191
+  orig: 245, 191
+  offset: 0, 0
+  index: -1
+nui lua khan
+  rotate: false
+  xy: 628, 2
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+nui lua nha
+  rotate: false
+  xy: 249, 43
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+nui lua sung A
+  rotate: true
+  xy: 499, 63
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+nui lua sung B
+  rotate: false
+  xy: 420, 49
+  size: 77, 90
+  orig: 77, 90
+  offset: 0, 0
+  index: -1

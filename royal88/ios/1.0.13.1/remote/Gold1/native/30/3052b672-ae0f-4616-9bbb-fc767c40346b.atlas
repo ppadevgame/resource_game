@@ -1,0 +1,755 @@
+
+gold_miner.png
+size: 1921,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Axe
+  rotate: false
+  xy: 864, 281
+  size: 150, 98
+  orig: 150, 98
+  offset: 0, 0
+  index: -1
+BUTTON_GEAR
+  rotate: false
+  xy: 1823, 390
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+BUTTON_ICON_Auto
+  rotate: true
+  xy: 264, 4
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+BUTTON_ICON_Turbo
+  rotate: true
+  xy: 1413, 5
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_00
+  rotate: false
+  xy: 809, 104
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_02
+  rotate: false
+  xy: 861, 167
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_03
+  rotate: false
+  xy: 921, 167
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_04
+  rotate: false
+  xy: 869, 105
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_05
+  rotate: false
+  xy: 929, 105
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_07
+  rotate: false
+  xy: 981, 167
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_08
+  rotate: false
+  xy: 989, 105
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_09
+  rotate: false
+  xy: 1041, 179
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_10
+  rotate: false
+  xy: 1049, 117
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_12
+  rotate: false
+  xy: 1109, 129
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_13
+  rotate: false
+  xy: 1169, 129
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_14
+  rotate: true
+  xy: 1263, 128
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_15
+  rotate: true
+  xy: 1325, 128
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_17
+  rotate: false
+  xy: 1361, 41
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_18
+  rotate: false
+  xy: 1421, 41
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_19
+  rotate: true
+  xy: 1605, 25
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+BUTTON_TURBO_FX_20
+  rotate: true
+  xy: 1712, 22
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+Beard
+  rotate: false
+  xy: 689, 20
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1752, 266
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+FX_Explosion_00
+  rotate: false
+  xy: 506, 126
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_01
+  rotate: false
+  xy: 607, 140
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_02
+  rotate: false
+  xy: 708, 140
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_03
+  rotate: false
+  xy: 504, 34
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_04
+  rotate: false
+  xy: 1616, 177
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_05
+  rotate: false
+  xy: 1717, 174
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_06
+  rotate: false
+  xy: 1818, 174
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_07
+  rotate: false
+  xy: 1615, 85
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_08
+  rotate: false
+  xy: 1716, 82
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_09
+  rotate: false
+  xy: 1817, 82
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_10
+  rotate: false
+  xy: 607, 48
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_11
+  rotate: false
+  xy: 708, 48
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_12
+  rotate: false
+  xy: 1403, 103
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_13
+  rotate: false
+  xy: 1504, 69
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_14
+  rotate: true
+  xy: 809, 2
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_15
+  rotate: true
+  xy: 901, 2
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_16
+  rotate: true
+  xy: 993, 2
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_17
+  rotate: true
+  xy: 1085, 2
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_18
+  rotate: true
+  xy: 1177, 2
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Explosion_19
+  rotate: true
+  xy: 1269, 2
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+FX_Rock_hammer1
+  rotate: false
+  xy: 1274, 188
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+FX_shine
+  rotate: false
+  xy: 1338, 331
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+Gold_board3
+  rotate: false
+  xy: 1505, 161
+  size: 108, 79
+  orig: 108, 79
+  offset: 0, 0
+  index: -1
+Gold_spark1
+  rotate: true
+  xy: 808, 244
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+Gold_spark2
+  rotate: true
+  xy: 304, 2
+  size: 134, 105
+  orig: 134, 105
+  offset: 0, 0
+  index: -1
+HeSo_Asset_Chain
+  rotate: true
+  xy: 154, 32
+  size: 14, 108
+  orig: 14, 108
+  offset: 0, 0
+  index: -1
+HeSo_Asset_Gear
+  rotate: true
+  xy: 1854, 321
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+HeSo_Asset_Gold1
+  rotate: true
+  xy: 1101, 197
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+HeSo_Asset_Gold2
+  rotate: false
+  xy: 200, 3
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+HeSo_Asset_Gold3
+  rotate: false
+  xy: 605, 12
+  size: 82, 34
+  orig: 82, 34
+  offset: 0, 0
+  index: -1
+HeSo_Asset_Scale
+  rotate: false
+  xy: 411, 19
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+HeSo_Asset_light 1
+  rotate: true
+  xy: 1131, 191
+  size: 125, 141
+  orig: 125, 141
+  offset: 0, 0
+  index: -1
+HeSo_Asset_lightpub
+  rotate: false
+  xy: 808, 282
+  size: 54, 150
+  orig: 54, 150
+  offset: 0, 0
+  index: -1
+HeSo_UI_conveyor belt
+  rotate: false
+  xy: 404, 434
+  size: 465, 55
+  orig: 465, 55
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1403, 195
+  size: 100, 134
+  orig: 100, 134
+  offset: 0, 0
+  index: -1
+Head_bomb
+  rotate: true
+  xy: 1616, 269
+  size: 100, 134
+  orig: 100, 134
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 862, 229
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+L_biceps
+  rotate: true
+  xy: 1361, 4
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+L_eye1
+  rotate: true
+  xy: 1387, 151
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+L_eye2
+  rotate: true
+  xy: 16, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+L_eyebrown
+  rotate: false
+  xy: 719, 2
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 809, 166
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 1229, 129
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+POPUP_Win/DV_banner_BGFX1
+  rotate: false
+  xy: 404, 218
+  size: 200, 214
+  orig: 200, 214
+  offset: 0, 0
+  index: -1
+POPUP_Win/DV_banner_BGFX3
+  rotate: false
+  xy: 606, 232
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+POPUP_Win/DV_banner_bartext
+  rotate: false
+  xy: 2, 14
+  size: 150, 32
+  orig: 150, 32
+  offset: 0, 0
+  index: -1
+POPUP_Win/DV_banner_flare_light
+  rotate: false
+  xy: 404, 175
+  size: 100, 41
+  orig: 100, 41
+  offset: 0, 0
+  index: -1
+POPUP_Win/DV_banner_gold_backlight
+  rotate: false
+  xy: 1671, 371
+  size: 150, 118
+  orig: 150, 118
+  offset: 0, 0
+  index: -1
+POPUP_Win/DV_banner_minecart
+  rotate: false
+  xy: 2, 138
+  size: 400, 351
+  orig: 400, 351
+  offset: 0, 0
+  index: -1
+POPUP_Win/DV_banner_win_text
+  rotate: false
+  xy: 2, 48
+  size: 300, 88
+  orig: 300, 88
+  offset: 0, 0
+  index: -1
+R_biceps
+  rotate: true
+  xy: 934, 229
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+R_eye1
+  rotate: false
+  xy: 1387, 168
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+R_eye2
+  rotate: true
+  xy: 2, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+R_eyebrown
+  rotate: false
+  xy: 411, 2
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 1774, 45
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 1854, 269
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+Rock_board3
+  rotate: true
+  xy: 411, 71
+  size: 102, 91
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+Rock_mini
+  rotate: false
+  xy: 766, 11
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+TextFX1
+  rotate: false
+  xy: 1136, 318
+  size: 200, 171
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+bomb2
+  rotate: false
+  xy: 1016, 241
+  size: 113, 138
+  orig: 113, 138
+  offset: 0, 0
+  index: -1
+da_1
+  rotate: false
+  xy: 1667, 48
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+da_10
+  rotate: false
+  xy: 1811, 49
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+da_11
+  rotate: false
+  xy: 1481, 52
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+da_12
+  rotate: false
+  xy: 1667, 14
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+da_13
+  rotate: true
+  xy: 1148, 103
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+da_14
+  rotate: true
+  xy: 1109, 103
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+da_15
+  rotate: true
+  xy: 154, 2
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+da_16
+  rotate: true
+  xy: 539, 2
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+da_17
+  rotate: true
+  xy: 502, 2
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+da_18
+  rotate: false
+  xy: 1536, 41
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+da_19
+  rotate: false
+  xy: 1889, 49
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+da_2
+  rotate: true
+  xy: 1218, 105
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+da_20
+  rotate: false
+  xy: 1852, 46
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+da_3
+  rotate: true
+  xy: 1182, 103
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+da_4
+  rotate: true
+  xy: 1503, 40
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+da_5
+  rotate: true
+  xy: 689, 2
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+da_6
+  rotate: true
+  xy: 1774, 16
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+da_7
+  rotate: false
+  xy: 573, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+da_8
+  rotate: true
+  xy: 1465, 7
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+da_9
+  rotate: true
+  xy: 1481, 85
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+day
+  rotate: false
+  xy: 1498, 371
+  size: 171, 118
+  orig: 171, 118
+  offset: 0, 0
+  index: -1
+day2
+  rotate: false
+  xy: 1560, 41
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+shadow_character
+  rotate: false
+  xy: 871, 381
+  size: 263, 108
+  orig: 263, 108
+  offset: 0, 0
+  index: -1
+tialua
+  rotate: false
+  xy: 1505, 242
+  size: 109, 127
+  orig: 109, 127
+  offset: 0, 0
+  index: -1

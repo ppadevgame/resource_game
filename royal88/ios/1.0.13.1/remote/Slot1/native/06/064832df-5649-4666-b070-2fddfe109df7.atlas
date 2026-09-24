@@ -1,0 +1,13 @@
+
+arrow_up.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 1, 1
+  size: 56, 61
+  orig: 61, 69
+  offset: 2, 5
+  index: -1
